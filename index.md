@@ -1,6 +1,4 @@
-# Welcome to Pichao Wang's HomePage
-
-Pichao Wang, PhD
+# Pichao Wang, PhD
 
 DAMO Academy, Alibaba Group (U.S.) Inc.
 
