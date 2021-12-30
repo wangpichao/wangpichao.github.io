@@ -18,29 +18,29 @@ Computer Vision · Deep Learning · Human Motion Analysis · Video Understanding
 
 ## Selected Awards and Honors
 
-12. Jul. 2020, ICME2020 [Outstanding Reviewer Award](https://sites.google.com/site/pichaossites/resources/ICME2020Awards_OtstgReviewer_Pichao%20Wang.pdf?attredirects=0&d=1)
+>12. Jul. 2020, ICME2020 [Outstanding Reviewer Award](https://sites.google.com/site/pichaossites/resources/ICME2020Awards_OtstgReviewer_Pichao%20Wang.pdf?attredirects=0&d=1)
 
-11. Jun. 2020, Second Prize, Multiple Object Tracking and Segmentation@CVPR2020 
+>11. Jun. 2020, Second Prize, Multiple Object Tracking and Segmentation@CVPR2020 
 
-10. May. 2018, EIS Faculty Postgraduate Thesis Award.
+>10. May. 2018, EIS Faculty Postgraduate Thesis Award.
 
-9. Dec. 2017, Journal of Visual Communication and Image Representation (outstanding reviewer, [certificate](https://sites.google.com/site/pichaossites/resources/Certificate.pdf?attredirects=0&d=1))
+>9. Dec. 2017, Journal of Visual Communication and Image Representation (outstanding reviewer, [certificate](https://sites.google.com/site/pichaossites/resources/Certificate.pdf?attredirects=0&d=1))
 
-8. Aug. 2017, Second Prize, Action, Gesture, and Emotion Recognition Workshop and Competitions: Large Scale Multimodal Gesture Recognition and Real versus Fake expressed emotions@ICCV2017
+>8. Aug. 2017, Second Prize, Action, Gesture, and Emotion Recognition Workshop and Competitions: Large Scale Multimodal Gesture Recognition and Real versus Fake expressed emotions@ICCV2017
 
-7. Apr. 2017 First Prize (Winner), Large Scale 3D Human Activity Analysis Challenge in Depth Video@ICME2017
+>7. Apr. 2017 First Prize (Winner), Large Scale 3D Human Activity Analysis Challenge in Depth Video@ICME2017
 
-6. Dec. 2016 Second Prize, Joint Contest on Multimedia Challenges Beyond Visual Analysis@ICPR2016
+>6. Dec. 2016 Second Prize, Joint Contest on Multimedia Challenges Beyond Visual Analysis@ICPR2016
 
-5. Dec. 2016 Third Prize, Joint Contest on Multimedia Challenges Beyond Visual Analysis@ICPR2016
+>5. Dec. 2016 Third Prize, Joint Contest on Multimedia Challenges Beyond Visual Analysis@ICPR2016
 
-4. Dec. 2016 ChaLearn Travel Grants@ICPR2016
+>4. Dec. 2016 ChaLearn Travel Grants@ICPR2016
 
-3. Oct.  2015 ACM MM 2015 Student Travel Award
+>3. Oct.  2015 ACM MM 2015 Student Travel Award
 
-2. Jan. 2013 Excellent Postgraduate Award
+>2. Jan. 2013 Excellent Postgraduate Award
 
-1. Dec. 2011 Excellent Prize, National Campus CUDA Programming Contest. [certificate](https://sites.google.com/site/pichaossites/resources/img051.jpg?attredirects=0&d=1)
+>1. Dec. 2011 Excellent Prize, National Campus CUDA Programming Contest. [certificate](https://sites.google.com/site/pichaossites/resources/img051.jpg?attredirects=0&d=1)
 
 
 ## Publications
@@ -51,90 +51,70 @@ Action Recognition from RGB-D Data. The University of  Wollongong, 2017. (Best P
 
 ### Conference Papers (selected papers, [full paper list](https://scholar.google.com/citations?user=QozdnnoAAAAJ&hl=en))
 
-23.  Shuting He, Hao Luo, Pichao Wang, Fan Wang, Hao Li, and Wei Jiang,
+>10.  Shuting He, Hao Luo, Pichao Wang, Fan Wang, Hao Li, and Wei Jiang,
+
 "TransReid: Transformer-based Object Re-identification"
+
 ICCV 2021
 
-22. Min Lin, Pichao Wang, Zhenhong Sun, Hesen Chen, Xiuyu Sun, Qi Qian, Hao Li, and Rong Jin,
-"Zen-NAS: A Zero-Shot NAS for High-Performance Deep Image Recognition"
-ICCV 2021
+>9. Min Lin, Pichao Wang, Zhenhong Sun, Hesen Chen, Xiuyu Sun, Qi Qian, Hao Li, and Rong Jin,
+
+  "Zen-NAS: A Zero-Shot NAS for High-Performance Deep Image Recognition"
+
+  ICCV 2021
  
-21. Liang Han*, Pichao Wang*, Zhaozheng Yin, Fan Wang, and Hao Li, (* equal contribution)
-"Exploiting Better Feature Aggregation for Video Object Detection",
-ACM MM2020.
+>8. Liang Han*, Pichao Wang*, Zhaozheng Yin, Fan Wang, and Hao Li, (* equal contribution)
 
-20.Jingkun Gao, Xiaomin Song, Qingsong Wen, Pichao Wang, Liang Sun and Huan Xu，
-"RobustTAD: Robust Time Series Anomaly Detection via Decomposition and Convolutional Neural Networks"
-KDDW2020.
+  "Exploiting Better Feature Aggregation for Video Object Detection",
 
-19. Chang Tang, Xinwang Liu, Xinzhong Zhu, En Zhu, Kun Sun, Pichao Wang, Lizhe Wang and Albert Zomaya,
-"R2MRF: Defocus Blur Detection via Recurrently Refining Multi-scale Residual Features"
-AAAI2020.
+  ACM MM2020.
 
-18. Xiangyu Li, Yonghong Hou, Qi Wu, Pichao Wang, and Wanqing Li,
-"DVONet: Unsupervised Monocular Depth Estimation and Visual Odometry",
-VCIP2019.
 
-17. Xianzhe Xu, Yonghong Hou, Pichao Wang*, Zhongyu Jiang, and Wanqing Li, (Corresponding author)
-"Light weight stereo matching via deep extraction and integration of low and high level information"
-ICME2019. (Oral)
-16. Renyi Xiao, Yonghong Hou, Zihui Guo, Chuankun Li, Pichao Wang, and Wanqing Li,
-"Self-attention guided deep features for action recognition"
-ICME2019.
+>7. Chang Tang, Xinwang Liu, Xinzhong Zhu, En Zhu, Kun Sun, Pichao Wang, Lizhe Wang and Albert Zomaya,
 
-15. Tang Chang, Xinwang Liu, Xinzhong Zhu, and Pichao Wang, 
-"Salient Object Detection via Recurrently Aggregating Spatial Attention Weighted Cross-level Deep Features"
-ICME2019.
+  "R2MRF: Defocus Blur Detection via Recurrently Refining Multi-scale Residual Features"
 
-14. Pichao Wang, Wanqing Li, Jun Wan, Philip Ogunbona, and Xinwang Liu,
-"Cooperative Training of Deep Aggregation Networks for RGB-D Action Recognition"
-AAAI2018. (Oral)[pdf][codes]
+  AAAI2020.
 
-13.  Pichao Wang*, Shuang Wang*, Zhimin Gao, Yonghong Hou, and Wanqing Li, (* equal contribution)
-"Structured Images for RGB-D Action Recognition "
-ICCVW2017. [pdf][codes4activity3D][codes4sysu]
-12. Huogen Wang*, Pichao Wang*, Zhanjie Song, and Wanqing Li, (* equal contribution)
-"Large-scale Multimodal Gesture Recognition Using Heterogeneous Networks "
-ICCV2017.[pdf][codes]
 
-11. Huogen Wang*, Pichao Wang*, Zhanjie Song, and Wanqing Li, (* equal contribution)
-"Large-scale Multimodal Gesture Segmentation and Recognition based on Convolutional Neural Network"
-ICCV2017. [pdf][codes]
+>6. Pichao Wang, Wanqing Li, Jun Wan, Philip Ogunbona, and Xinwang Liu,
 
-10. Pichao Wang, Wanqing Li, Zhimin Gao, Yuyao Zhang, Chang Tang, and Philip Ogunbona,
-"Scene Flow to Action Map: A New Representation for RGB-D Based Action Recognition with Convolutional Neural Networks",
- CVPR2017.  [pdf] [codes]
+  "Cooperative Training of Deep Aggregation Networks for RGB-D Action Recognition"
 
-9. Zewei Ding, Wanqing Li, Pichao Wang, Philip Ogunbona, and Ling Qin,
-"Weakly Structured Information Aggregation for Upper-body Posture Assessment Using ConvNets",
-ICME2017. [pdf] (oral)
-8. Chuankun Li*,  Pichao Wang*,  Shuang Wang, Yonghong Hou and Wanqing Li, (* equal contribution)
-"Skeleton-based Action Recognition Using LSTM and CNN",
-in Large Scale 3D Human Activity Analysis Challenge in Depth Videos, ICMEW2017. [pdf] (rank the first place) [certificate]
-7. Zewei Ding,  Pichao Wang*,  Philip Ogunbona, and Wanqing Li, (Corresponding author)
-"Investigation of Different Skeleton Features for CNN-based 3D Action Recognition",
-ICMEW2017. [pdf][codes]
- 6. Pichao Wang, Wanqing Li, Song Liu, Yuyao Zhang, Zhimin Gao and Philip Ogunbona,
-"Large-scale Continuous Gesture Recognition Using Convolutional Neural Networks",
-in ChaLearn Looking at People (LAP) Challenge, ICPR2016.  [pdf]  [codes] [certificate] (rank the third place)
+  AAAI2018. (Oral)[pdf][codes]
+  
 
-5. Pichao Wang, Wanqing Li, Song Liu, Zhimin Gao, Chang Tang and Philip Ogunbona,
- "Large-scale Isolated Gesture Recognition Using Convolutional Neural Networks",
-in ChaLearn Looking at People (LAP) Challenge, ICPR2016. [pdf] [codes] [certificate]  (rank the second place)
+>5. Huogen Wang*, Pichao Wang*, Zhanjie Song, and Wanqing Li, (* equal contribution)
 
-4. Jing Zhang, Wanqing Li, Pichao Wang, Philip Ogunbona, Song Liu and Chang Tang,
-"A Large Scale RGB-D Dataset for Action Recognition",
- UHA3DS workshop@ICPR2016. [pdf][dataset]
+  "Large-scale Multimodal Gesture Recognition Using Heterogeneous Networks "
 
-3. Pichao Wang*, Zhaoyang Li*, Yonghong Hou  and Wanqing Li, (* denotes equally contributed)
-"Action Recognition Based on Joint Trajectory Maps Using Convolutional Neural Networks"
-ACM MM16. [pdf] [codes]
+  ICCV2017.[pdf][codes]
+  
 
-2. Pichao Wang, Wanqing Li, Zhimin Gao, Chang Tang, Jing Zhang  and Philip Ogunbona,
-"ConvNets-Based Action Recognition from Depth Maps Through Virtual Cameras and Pseudocoloring", 
-ACM MM15. [pdf] [bib][poster] [codes]
-1. Pichao Wang, Wanqing Li, Philip Ogunbona, Zhimin Gao and Hanling Zhang,
+>4. Huogen Wang*, Pichao Wang*, Zhanjie Song, and Wanqing Li, (* equal contribution)
 
- "Mining Mid-level Features for Action Recognition Based on Effective Skeleton Representation", 
+  "Large-scale Multimodal Gesture Segmentation and Recognition based on Convolutional Neural Network"
 
-DICTA2014. [pdf] [bib][poster] [codes]
+  ICCV2017. [pdf][codes]
+  
+
+>3. Pichao Wang, Wanqing Li, Zhimin Gao, Yuyao Zhang, Chang Tang, and Philip Ogunbona,
+
+  "Scene Flow to Action Map: A New Representation for RGB-D Based Action Recognition with Convolutional Neural Networks",
+
+   CVPR2017.  [pdf] [codes]
+   
+
+>2. Pichao Wang*, Zhaoyang Li*, Yonghong Hou  and Wanqing Li, (* denotes equally contributed)
+
+  "Action Recognition Based on Joint Trajectory Maps Using Convolutional Neural Networks"
+
+  ACM MM16. [pdf] [codes]
+  
+
+>1. Pichao Wang, Wanqing Li, Zhimin Gao, Chang Tang, Jing Zhang  and Philip Ogunbona,
+
+  "ConvNets-Based Action Recognition from Depth Maps Through Virtual Cameras and Pseudocoloring", 
+
+  ACM MM15. [pdf] [bib][poster] [codes]
+
