@@ -18,29 +18,21 @@ Computer Vision · Deep Learning · Human Motion Analysis · Video Understanding
 
 ## Selected Awards and Honors
 
->12. Jul. 2020, ICME2020 [Outstanding Reviewer Award](https://sites.google.com/site/pichaossites/resources/ICME2020Awards_OtstgReviewer_Pichao%20Wang.pdf?attredirects=0&d=1)
+8. Jun. 2020, Second Prize, Multiple Object Tracking and Segmentation@CVPR2020 
 
->11. Jun. 2020, Second Prize, Multiple Object Tracking and Segmentation@CVPR2020 
+7. May. 2018, EIS Faculty Postgraduate Thesis Award.
 
->10. May. 2018, EIS Faculty Postgraduate Thesis Award.
+6. Aug. 2017, Second Prize, Action, Gesture, and Emotion Recognition Workshop and Competitions: Large Scale Multimodal Gesture Recognition and Real versus Fake expressed emotions@ICCV2017
 
->9. Dec. 2017, Journal of Visual Communication and Image Representation (outstanding reviewer, [certificate](https://sites.google.com/site/pichaossites/resources/Certificate.pdf?attredirects=0&d=1))
+5. Apr. 2017 First Prize (Winner), Large Scale 3D Human Activity Analysis Challenge in Depth Video@ICME2017
 
->8. Aug. 2017, Second Prize, Action, Gesture, and Emotion Recognition Workshop and Competitions: Large Scale Multimodal Gesture Recognition and Real versus Fake expressed emotions@ICCV2017
+4. Dec. 2016 Second Prize, Joint Contest on Multimedia Challenges Beyond Visual Analysis@ICPR2016
 
->7. Apr. 2017 First Prize (Winner), Large Scale 3D Human Activity Analysis Challenge in Depth Video@ICME2017
+3. Dec. 2016 Third Prize, Joint Contest on Multimedia Challenges Beyond Visual Analysis@ICPR2016
 
->6. Dec. 2016 Second Prize, Joint Contest on Multimedia Challenges Beyond Visual Analysis@ICPR2016
+2. Jan. 2013 Excellent Postgraduate Award
 
->5. Dec. 2016 Third Prize, Joint Contest on Multimedia Challenges Beyond Visual Analysis@ICPR2016
-
->4. Dec. 2016 ChaLearn Travel Grants@ICPR2016
-
->3. Oct.  2015 ACM MM 2015 Student Travel Award
-
->2. Jan. 2013 Excellent Postgraduate Award
-
->1. Dec. 2011 Excellent Prize, National Campus CUDA Programming Contest. [certificate](https://sites.google.com/site/pichaossites/resources/img051.jpg?attredirects=0&d=1)
+1. Dec. 2011 Excellent Prize, National Campus CUDA Programming Contest. [certificate](https://sites.google.com/site/pichaossites/resources/img051.jpg?attredirects=0&d=1)
 
 
 ## Publications
