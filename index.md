@@ -18,21 +18,21 @@ Computer Vision · Deep Learning · Human Motion Analysis · Video Understanding
 
 ## Selected Awards and Honors
 
-8. Jun. 2020, Second Prize, Multiple Object Tracking and Segmentation@CVPR2020 
+1. Jun. 2020, Second Prize, Multiple Object Tracking and Segmentation@CVPR2020 
 
-7. May. 2018, EIS Faculty Postgraduate Thesis Award.
+2. May. 2018, EIS Faculty Postgraduate Thesis Award.
 
-6. Aug. 2017, Second Prize, Action, Gesture, and Emotion Recognition Workshop and Competitions: Large Scale Multimodal Gesture Recognition and Real versus Fake expressed emotions@ICCV2017
+3. Aug. 2017, Second Prize, Action, Gesture, and Emotion Recognition Workshop and Competitions: Large Scale Multimodal Gesture Recognition and Real versus Fake expressed emotions@ICCV2017
 
-5. Apr. 2017 First Prize (Winner), Large Scale 3D Human Activity Analysis Challenge in Depth Video@ICME2017
+4. Apr. 2017 First Prize (Winner), Large Scale 3D Human Activity Analysis Challenge in Depth Video@ICME2017
 
-4. Dec. 2016 Second Prize, Joint Contest on Multimedia Challenges Beyond Visual Analysis@ICPR2016
+5. Dec. 2016 Second Prize, Joint Contest on Multimedia Challenges Beyond Visual Analysis@ICPR2016
 
-3. Dec. 2016 Third Prize, Joint Contest on Multimedia Challenges Beyond Visual Analysis@ICPR2016
+6. Dec. 2016 Third Prize, Joint Contest on Multimedia Challenges Beyond Visual Analysis@ICPR2016
 
-2. Jan. 2013 Excellent Postgraduate Award
+7. Jan. 2013 Excellent Postgraduate Award
 
-1. Dec. 2011 Excellent Prize, National Campus CUDA Programming Contest. [certificate](https://sites.google.com/site/pichaossites/resources/img051.jpg?attredirects=0&d=1)
+8. Dec. 2011 Excellent Prize, National Campus CUDA Programming Contest. [certificate](https://sites.google.com/site/pichaossites/resources/img051.jpg?attredirects=0&d=1)
 
 
 ## Publications
