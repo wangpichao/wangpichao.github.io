@@ -1,7 +1,9 @@
 ## Welcome to Pichao Wang's HomePage
 
 Pichao Wang, PhD
+
 DAMO Academy, Alibaba Group (U.S.) Inc.
+
 Email: pichaowang@gmail.com   Goolge Scholar ResearchGate
 
 ### Markdown
