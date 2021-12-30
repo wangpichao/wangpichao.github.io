@@ -24,7 +24,7 @@ Computer Vision · Deep Learning · Human Motion Analysis · Video Understanding
 
 10. May. 2018, EIS Faculty Postgraduate Thesis Award.
 
-9. Dec. 2017, Journal of Visual Communication and Image Representation (outstanding reviewer, certificate)
+9. Dec. 2017, Journal of Visual Communication and Image Representation (outstanding reviewer, [certificate](https://sites.google.com/site/pichaossites/resources/Certificate.pdf?attredirects=0&d=1))
 
 8. Aug. 2017, Second Prize, Action, Gesture, and Emotion Recognition Workshop and Competitions: Large Scale Multimodal Gesture Recognition and Real versus Fake expressed emotions@ICCV2017
 
@@ -40,4 +40,4 @@ Computer Vision · Deep Learning · Human Motion Analysis · Video Understanding
 
 2. Jan. 2013 Excellent Postgraduate Award
 
-1. Dec. 2011 Excellent Prize, National Campus CUDA Programming Contest. [certificate]
+1. Dec. 2011 Excellent Prize, National Campus CUDA Programming Contest. [certificate](https://sites.google.com/site/pichaossites/resources/img051.jpg?attredirects=0&d=1)
