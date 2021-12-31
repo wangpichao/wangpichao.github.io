@@ -111,16 +111,14 @@ IEEE Transactions on Human Machine Systems, 2018. [paper](https://ieeexplore.iee
 ### Selected Invited Journal Reviewer: 
 1. IEEE Transactions on Image Processing (since 2016)
 2. IEEE Transactions on Circuits and Systems for Video Technology (since 2016)
-3. IEEE Signal Processing Letters (since 2016)
-4. IEEE Transactions on Cybernetics (since 2017)
-5. IEEE Transactions on Neural Networks and Learning Systems (since 2018)
-6. IEEE Transactions on Industrial Information (since 2018)
-7. IEEE Transactions on Audio, Speech and Language Processing (since 2018) 
-8. IEEE Transactions on Multimedia (since 2019)
-9. IEEE Internet of Things Journal (since 2020)
-10. ACM Transactions on Interactive Intelligent Systems (since 2019)
-11. ACM Transactions on Multimedia Computing, Communications and Applications (since 2019)
-12. Pattern Recognition (since 2017)
+3. IEEE Transactions on Cybernetics (since 2017)
+4. IEEE Transactions on Neural Networks and Learning Systems (since 2018)
+5. IEEE Transactions on Industrial Information (since 2018)
+6. IEEE Transactions on Audio, Speech and Language Processing (since 2018) 
+7. IEEE Transactions on Multimedia (since 2019)
+8. ACM Transactions on Interactive Intelligent Systems (since 2019)
+9. ACM Transactions on Multimedia Computing, Communications and Applications (since 2019)
+10. Pattern Recognition (since 2017)
 
 ### Conference Technical Program Committee Member:
 1. ICCV2017,2019,2021
