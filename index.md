@@ -43,7 +43,7 @@ Action Recognition from RGB-D Data. The University of  Wollongong, 2017. (Best P
 
 ### Conference Papers (selected papers, [full paper list](https://scholar.google.com/citations?user=QozdnnoAAAAJ&hl=en))
 
-1. Pichao Wang, Xue Wang, Hao Luo, Jingkai Zhou, Zhipeng Zhou, Fan Wang, Hao Li, and Rong Jin, "Scaled relu matters for training vision transformers", AAAI 2022. [paper](https://arxiv.org/abs/2109.03810)
+1. Pichao Wang*, Xue Wang*, Hao Luo, Jingkai Zhou, Zhipeng Zhou, Fan Wang, Hao Li, and Rong Jin,(* equal contribution), "Scaled relu matters for training vision transformers", AAAI 2022. [paper](https://arxiv.org/abs/2109.03810)
 
 2. Shuting He, Hao Luo, Pichao Wang, Fan Wang, Hao Li, and Wei Jiang, "TransReid: Transformer-based Object Re-identification",ICCV 2021. [paper](https://openaccess.thecvf.com/content/ICCV2021/papers/He_TransReID_Transformer-Based_Object_Re-Identification_ICCV_2021_paper.pdf). [code](https://github.com/damo-cv/TransReID)
 
