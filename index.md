@@ -71,7 +71,7 @@ Action Recognition from RGB-D Data. The University of  Wollongong, 2017. (Best P
 
 2. Liang Han*, Pichao Wang*, Zhaozheng Yin, Fan Wang, and Hao Li, (* equal contribution), "Context and Structure Mining Network for Video Object Detection", International Journal of Computer Vision, 2021. [paper](https://link.springer.com/article/10.1007/s11263-021-01507-2)
 
-3. Liang Han*, Pichao Wang*, Zhaozheng Yin, Fan Wang, and Hao Li, (* equal contribution), "Class-aware Feature Aggregation Network for Video Object Detection"
+3. Liang Han*, Pichao Wang*, Zhaozheng Yin, Fan Wang, and Hao Li, (* equal contribution), "Class-aware Feature Aggregation Network for Video Object Detection",
 IEEE Transactions on Circuits and Systems for Video Technology, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9474502)
 
 4. Zitong Yu, Benjia Zhou, Jun Wan, Pichao Wang, Haoyu Chen, Xin Liu, Stan Z Li, and Guoying Zhao, "Searching Multi-Rate and Multi-Modal Temporal Enhanced Network for Gesture Recognition", IEEE Transaction on Image Processing, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9454270). [code](https://github.com/ZitongYu/3DCDC-NAS)
