@@ -100,3 +100,50 @@ IEEE Transactions on Human Machine Systems, 2018. [paper](https://ieeexplore.iee
 
 15. Jing Zhang, Wanqing Li, Philip Ogunbona, Pichao Wang and Chang Tang, "RGB-D based Action Recognition Datasets: A Survey", Pattern Recognition, 2016. 
 
+## Academic Activities
+
+### Editorial Works:
+
+1. Associate Editor, Computer Engineering(<<计算机工程>>, Chinese Journal), 2019-2024
+
+2. Area Chair, ICME, 2021,2022: Area Chair for Multimedia Analysis and Understanding (main area)
+
+### Selected Invited Journal Reviewer: 
+1. IEEE Transactions on Image Processing (since 2016)
+2. IEEE Transactions on Circuits and Systems for Video Technology (since 2016)
+3. IEEE Signal Processing Letters (since 2016)
+4. IEEE Transactions on Cybernetics (since 2017)
+5. IEEE Transactions on Neural Networks and Learning Systems (since 2018)
+6. IEEE Transactions on Industrial Information (since 2018)
+7. IEEE Transactions on Audio, Speech and Language Processing (since 2018) 
+8. IEEE Transactions on Multimedia (since 2019)
+9. IEEE Internet of Things Journal (since 2020)
+10. ACM Transactions on Interactive Intelligent Systems (since 2019)
+11. ACM Transactions on Multimedia Computing, Communications and Applications (since 2019)
+12. Pattern Recognition (since 2017)
+
+### Conference Technical Program Committee Member:
+1. ICCV2017,2019,2021
+2. CVPR2018,2019,2020,2021,2022
+3. ICME2018,2019,2020,2021,2022
+4. IJCAI2018,2019,2020,2021
+5. ACCV2018,2020
+6. WACV2019,2020,2021
+7. AAAI2019,2020,2021
+8. ECCV2020
+9. NIPS2020,2021
+10. ICML2021,2022
+11. ICLR2022
+
+## Work Experience
+1. 2017.10-2018.6: I was employed as a researcher at Motovis Inc, and I was in charge of Fixed-point quantization networks, pixel-level semantic labeling, intelligent headlight control.
+
+2. 2013.07-2013.11: I was employed  as a Software Engineer at Beijing Hanze Technology Co., ltd  and I was in charge of the development of software about video enhancement, including FFMpeg video decoding, video enhancement algorithms, denoising algorithms,  and H.264 coding by CUDA.
+
+3. 2011.05-2011.12: I was employed as a Software Engineer at Beijing Maystar Information Technology Co., ltd , and I was in charge of decrypting the Office documents based on GPU.
+
+4. 2010.07-2011.06: I participated a National High-tech R&D Program (863 Program) project at Institute of Wideband Wireless Communication and 3D Imaging (IWWC&3DI): Multi-view video acquisition and demonstration system (2009AA011507). I was in charge of adaptive definition adjustment and format conversion in 3D video network and implemented the 3D video combination algorithm using paralleled methods based on CUDA.
+
+## Datasets
+1. [UOW Online Action3D Dataset](https://uowmailedu-my.sharepoint.com/personal/wanqing_uow_edu_au/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fwanqing%5Fuow%5Fedu%5Fau%2FDocuments%2FResearchDatasets%2FUOWOnlineAction3D&originalPath=aHR0cHM6Ly91b3dtYWlsZWR1LW15LnNoYXJlcG9pbnQuY29tLzpmOi9nL3BlcnNvbmFsL3dhbnFpbmdfdW93X2VkdV9hdS9FdHlOZzBJWXdMSkppc2pyeTlLWWJlMEJiZFNyYlBIclZRRFVORWhPRkViQWJRP3J0aW1lPWhmNVFvUEZJMTBn): this dataset consists of action sequences of skeleton videos, the 20 actions are from the original MSR Action3D Dataset. The action videos are recorded by Microsoft Kinect V.2 with average 20fms/s frame rate. There are 20 participants to perform these actions, every participant performs each action according to his/her personal habits.  For each participant, he/she first repeats each action 3--5 times, then performs 20 actions continuously in a random order. These continuous action sequences can be used for online action recognition testing. The repeated action sequences will be used for training. In order to make the dataset can be used for cross dataset test, the 20 participants perform the actions in 4 different environments.Please cite the following papers if you use the dataset:
+Chang Tang, Wanqing Li, Pichao Wang, Lizhe Wang, "Online Human Action Recognition Based on Incremental Learning of Weighted Covariance Descriptors", Information Sciences,vol.467,pp.219-237, 2018. [paper](https://www.researchgate.net/publication/326788254_Online_Human_Action_Recognition_Based_on_Incremental_Learning_of_Weighted_Covariance_Descriptors). [code](https://1drv.ms/u/s!AtC_QqTZiFdKbDIpUNbMdaIkF_8?e=fkWaq0)
