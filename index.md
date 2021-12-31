@@ -61,7 +61,7 @@ Action Recognition from RGB-D Data. The University of  Wollongong, 2017. (Best P
   
 9. Pichao Wang, Wanqing Li, Zhimin Gao, Yuyao Zhang, Chang Tang, and Philip Ogunbona, "Scene Flow to Action Map: A New Representation for RGB-D Based Action Recognition with Convolutional Neural Networks", CVPR 2017.  [paper](https://arxiv.org/pdf/1702.08652.pdf)
    
-10. Pichao Wang*, Zhaoyang Li*, Yonghong Hou, and Wanqing Li, (* denotes equally contributed) "Action Recognition Based on Joint Trajectory Maps Using Convolutional Neural Networks", ACM MM 16. [paper](https://sites.google.com/site/pichaossites/resources/p102-wang.pdf?attredirects=0&d=1). [code](https://sites.google.com/site/pichaossites/resources/JTM-rotate-ntu.zip?attredirects=0&d=1)
+10. Pichao Wang*, Zhaoyang Li*, Yonghong Hou, and Wanqing Li, (* equal contribution) "Action Recognition Based on Joint Trajectory Maps Using Convolutional Neural Networks", ACM MM 16. [paper](https://sites.google.com/site/pichaossites/resources/p102-wang.pdf?attredirects=0&d=1). [code](https://sites.google.com/site/pichaossites/resources/JTM-rotate-ntu.zip?attredirects=0&d=1)
   
 11. Pichao Wang, Wanqing Li, Zhimin Gao, Chang Tang, Jing Zhang, and Philip Ogunbona,"ConvNets-Based Action Recognition from Depth Maps Through Virtual Cameras and Pseudocoloring", ACM MM 15. [paper](https://sites.google.com/site/pichaossites/resources/ConvNet%20Action%20Recognition.pdf?attredirects=0&d=1). [code](https://sites.google.com/site/pichaossites/resources/THMS.zip?attredirects=0&d=1)
 
