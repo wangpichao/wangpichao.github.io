@@ -103,9 +103,11 @@ IEEE Transactions on Human Machine Systems, 2018. [paper](https://ieeexplore.iee
 
 13. Yonghong Hou, Zhaoyang Li,  Pichao Wang* and Wanqing Li, (* Corresponding author), "Skeleton Optical Spectra Based Action Recognition Using Convolutional Neural Networks", IEEE Transactions on Circuits and Systems for Video Technology, 2016. [code](https://sites.google.com/site/pichaossites/resources/SOScodes.rar?attredirects=0&d=1)
 
-14. Pichao Wang, Wanqing Li, Zhimin Gao, Jing Zhang,  Chang Tang, and Philip Ogunbona, "Action Recognition from Depth Maps Using Deep Convolutional Neural Networks",  IEEE Transactions on Human Machine Systems, 2016. [code](https://sites.google.com/site/pichaossites/resources/THMS.zip?attredirects=0&d=1)
+14. Jing Zhang, Wanqing Li, Philip Ogunbona, Pichao Wang and Chang Tang, "RGB-D based Action Recognition Datasets: A Survey", Pattern Recognition, 2016.
 
-15. Jing Zhang, Wanqing Li, Philip Ogunbona, Pichao Wang and Chang Tang, "RGB-D based Action Recognition Datasets: A Survey", Pattern Recognition, 2016. 
+15. Pichao Wang, Wanqing Li, Zhimin Gao, Jing Zhang,  Chang Tang, and Philip Ogunbona, "Action Recognition from Depth Maps Using Deep Convolutional Neural Networks", IEEE Transactions on Human Machine Systems, 2016. [code](https://sites.google.com/site/pichaossites/resources/THMS.zip?attredirects=0&d=1)
+
+ 
 
 ## Academic Activities
 
