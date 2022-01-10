@@ -8,11 +8,11 @@ I am recruiting Research Interns (PhD candidates) to join my research project @ 
 
 ## Recent News
 
-1. 2021-12: One paper was accepted by **IEEE TMM**. 
-2. 2021-12: One paper was accepted by **AAAI 2022**.
-3. 2012-07: Two papers were accepted by **ICCV 2021**.
-4. 2021-06: One paper was accepted by **IJCV**.
-5. 2021-06: One paper was accepted by **IEEE TCSVT**.
+1. 2021-12: **One** paper was accepted by **IEEE TMM**. 
+2. 2021-12: **One** paper was accepted by **AAAI 2022**.
+3. 2012-07: **Two** papers were accepted by **ICCV 2021**.
+4. 2021-06: **One** paper was accepted by **IJCV**.
+5. 2021-06: **One** paper was accepted by **IEEE TCSVT**.
 
 
 ## Biography
