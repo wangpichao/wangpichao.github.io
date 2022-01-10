@@ -83,7 +83,7 @@ IEEE Transactions on Circuits and Systems for Video Technology, 2021. [paper](ht
 
 4. Zitong Yu, Benjia Zhou, Jun Wan, Pichao Wang, Haoyu Chen, Xin Liu, Stan Z Li, and Guoying Zhao, "Searching Multi-Rate and Multi-Modal Temporal Enhanced Network for Gesture Recognition", IEEE Transaction on Image Processing, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9454270). [code](https://github.com/ZitongYu/3DCDC-NAS)
 
-5. Xiangyu Li, Yonghong Hou, Pichao Wang*, Zhimin Gao, Mingliang Xu, and Wanqing Li,（* Corresponding author), "Trear: Tranformer-based RGB-D Egocentric Action Recognition", IEEE Transactions on Cognitive and Developmental System, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9312201)
+5. Xiangyu Li, Yonghong Hou, Pichao Wang@, Zhimin Gao, Mingliang Xu, and Wanqing Li,（@ Corresponding author), "Trear: Tranformer-based RGB-D Egocentric Action Recognition", IEEE Transactions on Cognitive and Developmental System, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9312201)
 
 6. Chang Tang, Xinwang Liu, Shan An, and Pichao Wang, "BR2NET: Defocus Blur Detection via Bidirectional Channel Attention Residual Refining Network", IEEE Transactions on Multimedia, 2020. [paper](https://ieeexplore.ieee.org/abstract/document/9057632)
 
