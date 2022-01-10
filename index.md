@@ -50,25 +50,25 @@ Action Recognition from RGB-D Data. The University of  Wollongong, 2017. (Best P
 
 ### Conference Papers (selected papers, [full paper list](https://scholar.google.com/citations?user=QozdnnoAAAAJ&hl=en))
 
-1. Pichao Wang*, Xue Wang*, Hao Luo, Jingkai Zhou, Zhipeng Zhou, Fan Wang, Hao Li, and Rong Jin,(* equal contribution), "Scaled relu matters for training vision transformers", AAAI 2022. [paper](https://arxiv.org/abs/2109.03810)
+1. Pichao Wang*, Xue Wang*, Hao Luo, Jingkai Zhou, Zhipeng Zhou, Fan Wang, Hao Li, and Rong Jin,(* first two authors make equal contribution), "Scaled relu matters for training vision transformers", AAAI 2022. [paper](https://arxiv.org/abs/2109.03810)
 
 2. Shuting He, Hao Luo, Pichao Wang, Fan Wang, Hao Li, and Wei Jiang, "TransReid: Transformer-based Object Re-identification",ICCV 2021. [paper](https://openaccess.thecvf.com/content/ICCV2021/papers/He_TransReID_Transformer-Based_Object_Re-Identification_ICCV_2021_paper.pdf). [code](https://github.com/damo-cv/TransReID)
 
 3. Min Lin, Pichao Wang, Zhenhong Sun, Hesen Chen, Xiuyu Sun, Qi Qian, Hao Li, and Rong Jin, "Zen-NAS: A Zero-Shot NAS for High-Performance Deep Image Recognition", ICCV 2021. [paper](https://arxiv.org/pdf/2102.01063.pdf). [code](https://github.com/idstcv/ZenNAS)
  
-4. Liang Han*, Pichao Wang*, Zhaozheng Yin, Fan Wang, and Hao Li, (* equal contribution) "Exploiting Better Feature Aggregation for Video Object Detection", ACM MM 2020. [paper](https://par.nsf.gov/servlets/purl/10289758)
+4. Liang Han*, Pichao Wang*, Zhaozheng Yin, Fan Wang, and Hao Li, (* first two authors make equal contribution) "Exploiting Better Feature Aggregation for Video Object Detection", ACM MM 2020. [paper](https://par.nsf.gov/servlets/purl/10289758)
 
 5. Chang Tang, Xinwang Liu, Xinzhong Zhu, En Zhu, Kun Sun, Pichao Wang, Lizhe Wang and Albert Zomaya, "R2MRF: Defocus Blur Detection via Recurrently Refining Multi-scale Residual Features", AAAI 2020.[paper](https://ojs.aaai.org/index.php/AAAI/article/download/6884/6738). [code](https://github.com/ChangTang/R2MRF)
 
 6. Pichao Wang, Wanqing Li, Jun Wan, Philip Ogunbona, and Xinwang Liu, "Cooperative Training of Deep Aggregation Networks for RGB-D Action Recognition", AAAI 2018. (Oral)[paper](https://sites.google.com/site/pichaossites/resources/AAAI2018_action.pdf?attredirects=0&d=1). [code](https://sites.google.com/site/pichaossites/resources/codesAAAI.zip?attredirects=0&d=1)
   
-7. Huogen Wang*, Pichao Wang*, Zhanjie Song, and Wanqing Li, (* equal contribution) "Large-scale Multimodal Gesture Recognition Using Heterogeneous Networks", ICCV 2017.[paper](https://sites.google.com/site/pichaossites/resources/Heterogeneous.pdf?attredirects=0&d=1). [code](https://github.com/wanghuogen/ConGestureChallenge4ICCV)
+7. Huogen Wang*, Pichao Wang*, Zhanjie Song, and Wanqing Li, (* first two authors make equal contribution) "Large-scale Multimodal Gesture Recognition Using Heterogeneous Networks", ICCV 2017.[paper](https://sites.google.com/site/pichaossites/resources/Heterogeneous.pdf?attredirects=0&d=1). [code](https://github.com/wanghuogen/ConGestureChallenge4ICCV)
   
-8. Huogen Wang*, Pichao Wang*, Zhanjie Song, and Wanqing Li, (* equal contribution) "Large-scale Multimodal Gesture Segmentation and Recognition based on Convolutional Neural Network", ICCV 2017. [paper](https://sites.google.com/site/pichaossites/resources/CNN_ICCV_2017_paper.pdf?attredirects=0&d=1). [code](https://github.com/wanghuogen/ConGestureChallenge4ICCV-DF)
+8. Huogen Wang*, Pichao Wang*, Zhanjie Song, and Wanqing Li, (* first two authors make equal contribution) "Large-scale Multimodal Gesture Segmentation and Recognition based on Convolutional Neural Network", ICCV 2017. [paper](https://sites.google.com/site/pichaossites/resources/CNN_ICCV_2017_paper.pdf?attredirects=0&d=1). [code](https://github.com/wanghuogen/ConGestureChallenge4ICCV-DF)
   
 9. Pichao Wang, Wanqing Li, Zhimin Gao, Yuyao Zhang, Chang Tang, and Philip Ogunbona, "Scene Flow to Action Map: A New Representation for RGB-D Based Action Recognition with Convolutional Neural Networks", CVPR 2017.  [paper](https://arxiv.org/pdf/1702.08652.pdf)
    
-10. Pichao Wang*, Zhaoyang Li*, Yonghong Hou, and Wanqing Li, (* equal contribution) "Action Recognition Based on Joint Trajectory Maps Using Convolutional Neural Networks", ACM MM 16. [paper](https://sites.google.com/site/pichaossites/resources/p102-wang.pdf?attredirects=0&d=1). [code](https://sites.google.com/site/pichaossites/resources/JTM-rotate-ntu.zip?attredirects=0&d=1)
+10. Pichao Wang*, Zhaoyang Li*, Yonghong Hou, and Wanqing Li, (* first two authors make equal contribution) "Action Recognition Based on Joint Trajectory Maps Using Convolutional Neural Networks", ACM MM 16. [paper](https://sites.google.com/site/pichaossites/resources/p102-wang.pdf?attredirects=0&d=1). [code](https://sites.google.com/site/pichaossites/resources/JTM-rotate-ntu.zip?attredirects=0&d=1)
   
 11. Pichao Wang, Wanqing Li, Zhimin Gao, Chang Tang, Jing Zhang, and Philip Ogunbona,"ConvNets-Based Action Recognition from Depth Maps Through Virtual Cameras and Pseudocoloring", ACM MM 15. [paper](https://sites.google.com/site/pichaossites/resources/ConvNet%20Action%20Recognition.pdf?attredirects=0&d=1). [code](https://sites.google.com/site/pichaossites/resources/THMS.zip?attredirects=0&d=1)
 
@@ -76,9 +76,9 @@ Action Recognition from RGB-D Data. The University of  Wollongong, 2017. (Best P
 
 1. Wenhao Li, Hong Liu, Runwei Ding, Mengyuan Liu, Pichao Wang, and Wenming Yang, "Exploiting Temporal Contexts with Strided Transformer for 3D Human Pose Estimation", IEEE Transactions on Multimedia, 2021. [paper](https://arxiv.org/pdf/2103.14304.pdf). [code](https://github.com/Vegetebird/StridedTransformer-Pose3D)
 
-2. Liang Han*, Pichao Wang*, Zhaozheng Yin, Fan Wang, and Hao Li, (* equal contribution), "Context and Structure Mining Network for Video Object Detection", International Journal of Computer Vision, 2021. [paper](https://link.springer.com/article/10.1007/s11263-021-01507-2)
+2. Liang Han*, Pichao Wang*, Zhaozheng Yin, Fan Wang, and Hao Li, (* first two authors make equal contribution), "Context and Structure Mining Network for Video Object Detection", International Journal of Computer Vision, 2021. [paper](https://link.springer.com/article/10.1007/s11263-021-01507-2)
 
-3. Liang Han*, Pichao Wang*, Zhaozheng Yin, Fan Wang, and Hao Li, (* equal contribution), "Class-aware Feature Aggregation Network for Video Object Detection",
+3. Liang Han*, Pichao Wang*, Zhaozheng Yin, Fan Wang, and Hao Li, (* first two authors make equal contribution), "Class-aware Feature Aggregation Network for Video Object Detection",
 IEEE Transactions on Circuits and Systems for Video Technology, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9474502)
 
 4. Zitong Yu, Benjia Zhou, Jun Wan, Pichao Wang, Haoyu Chen, Xin Liu, Stan Z Li, and Guoying Zhao, "Searching Multi-Rate and Multi-Modal Temporal Enhanced Network for Gesture Recognition", IEEE Transaction on Image Processing, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9454270). [code](https://github.com/ZitongYu/3DCDC-NAS)
@@ -92,16 +92,16 @@ IEEE Transactions on Circuits and Systems for Video Technology, 2021. [paper](ht
  
 8. Chang Tang, Xinzhong Zhu, Xinwang Liu, Miaomiao Li, Pichao Wang, Changqing Zhang and Lizhe Wang, “Learning Joint Affinity Graph for Multi-view Subspace Clustering”, IEEE Transactions on Multimedia, 2019. [paper](https://ieeexplore.ieee.org/abstract/document/8587193)
 
-9. Chuankun Li, Yonghong Hou, Pichao Wang*, and Wanqing Li, (* Corresponding author), "Multi-view Based 3D Action Recognition Using Deep Networks",
+9. Chuankun Li, Yonghong Hou, Pichao Wang@, and Wanqing Li, (@Corresponding author), "Multi-view Based 3D Action Recognition Using Deep Networks",
 IEEE Transactions on Human Machine Systems, 2018. [paper](https://ieeexplore.ieee.org/abstract/document/8584131)
 
-10. Chang Tang, Wanqing Li, Pichao Wang*, and Lizhe Wang, (* Corresponding author), "Online Human Action Recognition Based on Incremental Learning of Weighted Covariance Descriptors", Information Sciences, 2018. [code](https://1drv.ms/u/s!AtC_QqTZiFdKbDIpUNbMdaIkF_8?e=fkWaq0)
+10. Chang Tang, Wanqing Li, Pichao Wang@, and Lizhe Wang, (@ Corresponding author), "Online Human Action Recognition Based on Incremental Learning of Weighted Covariance Descriptors", Information Sciences, 2018. [code](https://1drv.ms/u/s!AtC_QqTZiFdKbDIpUNbMdaIkF_8?e=fkWaq0)
 
 11. Pichao Wang, Wanqing Li, Philip Ogunbona, Jun Wan and Sergio Escalera, "RGB-D-based Human Motion Recognition with Deep Learning: A Survey ", Computer Vision and Image Understanding, 2018.
 
 12. Pichao Wang, Wanqing Li, Zhimin Gao, Chang Tang, and Philip Ogunbona, "Depth  Pooling Based Large-scale 3D Action Recognition with Deep Convolutional Neural Networks", IEEE Transactions on Multimedia, 2018. [paper](https://sites.google.com/site/pichaossites/resources/TMM.pdf?attredirects=0&d=1). [code](https://www.dropbox.com/s/zshzeyphaiuc3bw/Codes4Iso.zip?dl=0) 
 
-13. Yonghong Hou, Zhaoyang Li,  Pichao Wang* and Wanqing Li, (* Corresponding author), "Skeleton Optical Spectra Based Action Recognition Using Convolutional Neural Networks", IEEE Transactions on Circuits and Systems for Video Technology, 2016. [code](https://sites.google.com/site/pichaossites/resources/SOScodes.rar?attredirects=0&d=1)
+13. Yonghong Hou, Zhaoyang Li,  Pichao Wang@ and Wanqing Li, (@ Corresponding author), "Skeleton Optical Spectra Based Action Recognition Using Convolutional Neural Networks", IEEE Transactions on Circuits and Systems for Video Technology, 2016. [code](https://sites.google.com/site/pichaossites/resources/SOScodes.rar?attredirects=0&d=1)
 
 14. Jing Zhang, Wanqing Li, Philip Ogunbona, Pichao Wang and Chang Tang, "RGB-D based Action Recognition Datasets: A Survey", Pattern Recognition, 2016.
 
