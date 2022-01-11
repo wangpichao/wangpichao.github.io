@@ -48,9 +48,25 @@ Computer Vision · Deep Learning · Human Motion Analysis · Video Understanding
 
 Action Recognition from RGB-D Data. The University of  Wollongong, 2017. (Best Postgraduate Thesis Award) [link](http://ro.uow.edu.au/theses1/112/)
 
+### Preprint (selected papers, [full paper list](https://scholar.google.com/citations?user=QozdnnoAAAAJ&hl=en))
+
+1. Jingkai Zhou, **Pichao Wang**@, Fan Wang, Qiong Liu, Hao Li, Rong Jin,(@project lead), "ELSA: Enhanced Local Self-Attention for Vision Transformer", arXiv 2021. [paper](https://arxiv.org/pdf/2112.12786.pdf). [code](https://github.com/damo-cv/ELSA)
+
+2. Benjia Zhou, **Pichao Wang**@, Jun Wan, Yanyan Liang, Fan Wang, Du Zhang, Zhen Lei, Hao Li, Rong Jin, (@project lead), "Decoupling and Recoupling Spatiotemporal Representation for RGB-D-based Motion Recognition", arXiv 2021. [paper](https://arxiv.org/pdf/2112.09129.pdf). [code](https://github.com/damo-cv/MotionRGBD)
+
+3. Zhaoyuan Yin, **Pichao Wang**@, Fan Wang, Xianzhe Xu, Hanling Zhang, Hao Li, Rong Jin,(@project lead), "TransFGU: A Top-down Approach to Fine-Grained Unsupervised Semantic Segmentation", arXiv 2021. [paper](https://arxiv.org/pdf/2112.01515.pdf). [code](https://arxiv.org/pdf/2112.01515.pdf)
+
+4. Hao Luo, **Pichao Wang**, Yi Xu, Feng Ding, Yanxin Zhou, Fan Wang, Hao Li, Rong Jin, "Self-Supervised Pre-Training for Transformer-Based Person Re-Identification", arXiv 2021. [paper](https://arxiv.org/pdf/2111.12084.pdf). [code](https://github.com/damo-cv/TransReID-SSL)
+
+5. Tongkun Xu, Weihua Chen, **Pichao Wang**, Fan Wang, Hao Li, Rong Jin, "Cdtrans: Cross-domain transformer for unsupervised domain adaptation", arXiv 2021. [paper](https://arxiv.org/pdf/2109.06165.pdf). [code](https://github.com/CDTrans/CDTrans)
+
+6. Wenhao Li, Hong Liu, Hao Tang, **Pichao Wang**, Luc Van Gool, "MHFormer: Multi-Hypothesis Transformer for 3D Human Pose Estimation", arXiv 2021. [paper](https://arxiv.org/pdf/2111.12707.pdf). [code](https://github.com/Vegetebird/MHFormer)
+
+7. **Pichao Wang**, *Xue Wang*, Fan Wang, Ming Lin, Shuning Chang, Wen Xie, Hao Li, Rong Jin, (first two authors make equal contributions), "KVT: k-NN Attention for Boosting Vision Transformers", arXiv 2021. [paper](https://arxiv.org/pdf/2106.00515.pdf).
+
 ### Conference Papers (selected papers, [full paper list](https://scholar.google.com/citations?user=QozdnnoAAAAJ&hl=en))
 
-1. **Pichao Wang**, *Xue Wang*, Hao Luo, Jingkai Zhou, Zhipeng Zhou, Fan Wang, Hao Li, and Rong Jin,(*first two authors make equal contributions*), "Scaled relu matters for training vision transformers", AAAI 2022. [paper](https://arxiv.org/abs/2109.03810)
+1. **Pichao Wang**, *Xue Wang*, Hao Luo, Jingkai Zhou, Zhipeng Zhou, Fan Wang, Hao Li, and Rong Jin,(first two authors make equal contributions), "Scaled relu matters for training vision transformers", AAAI 2022. [paper](https://arxiv.org/abs/2109.03810)
 
 2. Shuting He, Hao Luo, **Pichao Wang**, Fan Wang, Hao Li, and Wei Jiang, "TransReid: Transformer-based Object Re-identification",ICCV 2021. [paper](https://openaccess.thecvf.com/content/ICCV2021/papers/He_TransReID_Transformer-Based_Object_Re-Identification_ICCV_2021_paper.pdf). [code](https://github.com/damo-cv/TransReID)
 
