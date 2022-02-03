@@ -180,4 +180,4 @@ IEEE Transactions on Human Machine Systems, 2018. [paper](https://ieeexplore.iee
 Chang Tang, Wanqing Li, Pichao Wang, Lizhe Wang, "Online Human Action Recognition Based on Incremental Learning of Weighted Covariance Descriptors", Information Sciences,vol.467,pp.219-237, 2018. [paper](https://www.researchgate.net/publication/326788254_Online_Human_Action_Recognition_Based_on_Incremental_Learning_of_Weighted_Covariance_Descriptors). [code](https://1drv.ms/u/s!AtC_QqTZiFdKbDIpUNbMdaIkF_8?e=fkWaq0)
 
 
-
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=RBq5yEUg_GJFhndmotKK_BtMq2QqlElC7HIoAVp1bPs&cl=ffffff&w=a"></script>
