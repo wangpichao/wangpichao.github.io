@@ -6,7 +6,7 @@
 
 <br>
 
-<img style="float: right; padding-right:15px" src="./images/WangPiChao.eps" >
+<img style="float: right; padding-left:15px" src="./images/WangPiChao.jpg" >
 
 <br>
 
