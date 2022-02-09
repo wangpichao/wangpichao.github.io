@@ -2,7 +2,13 @@
 
 [**AI 2000 Most Influential Scholars**](https://www.aminer.cn/ai2000/search_rank?id=562c81d345cedb3398c44362)
 
-[**One of Fourteen Scholars in Alibaba**](https://www.aminer.cn/institution/v2?organization_name=Alibaba)
+[**One of Fourteen Scholars in Alibaba**](https://www.aminer.cn/institution/v2?organization_name=Alibaba) 
+
+<br>
+
+<img style="float: right; padding-right:15px" src="./images/WangPiChao.eps" >
+
+<br>
 
 DAMO Academy, Alibaba Group (U.S.) Inc.
 
