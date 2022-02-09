@@ -1,7 +1,7 @@
 # Pichao Wang, PhD
 <br>
 
-<img style="float: right; padding-left:15px" src="./images/WangPiChao.jpg" >
+<img style="float: right; padding-left:15px; width:20px" src="./images/WangPiChao.jpg" >
 
 <br>
 
