@@ -15,13 +15,13 @@ I am recruiting Research Interns (PhD candidates) to join my research project @ 
 
 ## Recent News
 
-1. 2022-01: **One** paper was accepted by **ICASSP 2022**.
-2. 2022-01: **One** paper was accepted by **ICLR 2022**.
-3. 2021-12: **One** paper was accepted by **IEEE TMM**. 
-4. 2021-12: **One** paper was accepted by **AAAI 2022**.
-5. 2012-07: **Two** papers were accepted by **ICCV 2021**.
-6. 2021-06: **One** paper was accepted by **IJCV**.
-7. 2021-06: **One** paper was accepted by **IEEE TCSVT**.
+1. 2022-01: **One** paper about knowledge distillation was accepted by **ICASSP 2022**.
+2. 2022-01: **One** paper about unsupervised domain adaption using transformer was accepted by **ICLR 2022**.
+3. 2021-12: **One** paper about pose estimation using transformer was accepted by **IEEE TMM**. 
+4. 2021-12: **One** paper about vision transformer training was accepted by **AAAI 2022**.
+5. 2012-07: **Two** papers about ReID and NAS were accepted by **ICCV 2021**.
+6. 2021-06: **One** paper about video object detection was accepted by **IJCV**.
+7. 2021-06: **One** paper about video object detection was accepted by **IEEE TCSVT**.
 
 
 ## Biography
@@ -34,21 +34,23 @@ Computer Vision · Deep Learning · Human Motion Analysis · Video Understanding
 
 ## Selected Awards and Honors
 
-1. Jun. 2020, Second Prize, Multiple Object Tracking and Segmentation@CVPR2020 
+1. Jan.2022, AI 2000 Most Influential Scholars
 
-2. May. 2018, EIS Faculty Postgraduate Thesis Award.
+2. Jun. 2020, Second Prize, Multiple Object Tracking and Segmentation@CVPR2020 
 
-3. Aug. 2017, Second Prize, Action, Gesture, and Emotion Recognition Workshop and Competitions: Large Scale Multimodal Gesture Recognition and Real versus Fake expressed emotions@ICCV2017
+3. May. 2018, EIS Faculty Postgraduate Thesis Award.
 
-4. Apr. 2017 First Prize (Winner), Large Scale 3D Human Activity Analysis Challenge in Depth Video@ICME2017
+4. Aug. 2017, Second Prize, Action, Gesture, and Emotion Recognition Workshop and Competitions: Large Scale Multimodal Gesture Recognition and Real versus Fake expressed emotions@ICCV2017
 
-5. Dec. 2016 Second Prize, Joint Contest on Multimedia Challenges Beyond Visual Analysis@ICPR2016
+5. Apr. 2017 First Prize (Winner), Large Scale 3D Human Activity Analysis Challenge in Depth Video@ICME2017
 
-6. Dec. 2016 Third Prize, Joint Contest on Multimedia Challenges Beyond Visual Analysis@ICPR2016
+6. Dec. 2016 Second Prize, Joint Contest on Multimedia Challenges Beyond Visual Analysis@ICPR2016
 
-7. Jan. 2013 Excellent Postgraduate Award
+7. Dec. 2016 Third Prize, Joint Contest on Multimedia Challenges Beyond Visual Analysis@ICPR2016
 
-8. Dec. 2011 Excellent Prize, National Campus CUDA Programming Contest. [certificate](https://sites.google.com/site/pichaossites/resources/img051.jpg?attredirects=0&d=1)
+8. Jan. 2013 Excellent Postgraduate Award
+
+9. Dec. 2011 Excellent Prize, National Campus CUDA Programming Contest. [certificate](https://sites.google.com/site/pichaossites/resources/img051.jpg?attredirects=0&d=1)
 
 
 ## Publications
