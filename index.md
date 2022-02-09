@@ -7,7 +7,7 @@
 
 <br>
 
-<img style="float: right; padding-left:15px; width:150px" src="./images/WangPiChao.jpg" >
+<img style="float: right; padding-left:3px; width:150px" src="./images/WangPiChao.jpg" >
 
 <br>
 
