@@ -1,15 +1,15 @@
 # Pichao Wang, PhD
-<br>
 
-<img style="float: right; padding-left:15px; width:150px" src="./images/WangPiChao.jpg" >
-
-<br>
 
 [**AI 2000 Most Influential Scholars**](https://www.aminer.cn/ai2000/search_rank?id=562c81d345cedb3398c44362)
 
 [**One of Fourteen Scholars in Alibaba**](https://www.aminer.cn/institution/v2?organization_name=Alibaba) 
 
+<br>
 
+<img style="float: right; padding-left:15px; width:150px" src="./images/WangPiChao.jpg" >
+
+<br>
 
 DAMO Academy, Alibaba Group (U.S.) Inc.
 
