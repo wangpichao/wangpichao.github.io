@@ -5,11 +5,9 @@
 
 [**One of Fourteen Scholars in Alibaba**](https://www.aminer.cn/institution/v2?organization_name=Alibaba) 
 
-<br>
 
-<img style="float: right; padding-left:3px; width:150px" src="./images/WangPiChao.jpg" >
+<img style="float: right; padding-left:15px; width:150px" src="./images/WangPiChao.jpg" >
 
-<br>
 
 DAMO Academy, Alibaba Group (U.S.) Inc.
 
