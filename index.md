@@ -16,8 +16,8 @@ I am recruiting Research Interns (PhD candidates) to join my research project @ 
 ## Recent News
 
 1. 2022-01: **One** paper about knowledge distillation was accepted by **ICASSP 2022**.
-2. 2022-01: **One** paper about unsupervised domain adaption using transformer was accepted by **ICLR 2022**.
-3. 2021-12: **One** paper about pose estimation using transformer was accepted by **IEEE TMM**. 
+2. 2022-01: **One** paper about unsupervised domain adaption was accepted by **ICLR 2022**.
+3. 2021-12: **One** paper about pose estimation was accepted by **IEEE TMM**. 
 4. 2021-12: **One** paper about vision transformer training was accepted by **AAAI 2022**.
 5. 2012-07: **Two** papers about ReID and NAS were accepted by **ICCV 2021**.
 6. 2021-06: **One** paper about video object detection was accepted by **IJCV**.
