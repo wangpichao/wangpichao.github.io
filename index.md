@@ -130,11 +130,14 @@ IEEE Transactions on Human Machine Systems, 2018. [paper](https://ieeexplore.iee
 
 12. **Pichao Wang**, Wanqing Li, Zhimin Gao, Chang Tang, and Philip Ogunbona, "Depth  Pooling Based Large-scale 3D Action Recognition with Deep Convolutional Neural Networks", IEEE Transactions on Multimedia, 2018. [paper](https://sites.google.com/site/pichaossites/resources/TMM.pdf?attredirects=0&d=1). [code](https://www.dropbox.com/s/zshzeyphaiuc3bw/Codes4Iso.zip?dl=0) 
 
-13. Yonghong Hou, Zhaoyang Li,  **Pichao Wang**@ and Wanqing Li, (@ Corresponding author), "Skeleton Optical Spectra Based Action Recognition Using Convolutional Neural Networks", IEEE Transactions on Circuits and Systems for Video Technology, 2016. [code](https://sites.google.com/site/pichaossites/resources/SOScodes.rar?attredirects=0&d=1)
+13. **Pichao Wang**, Wanqing Li, Chuankun Li, and Yonghong Hou, "Action Recognition Based on Joint Trajectory Maps with Convolutional Neural Networks",
+Knowledge-Based Systems,2018. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705118302582). [code](https://sites.google.com/site/pichaossites/resources/JTM-rotate-ntu.zip?attredirects=0&d=1)
 
-14. Jing Zhang, Wanqing Li, Philip Ogunbona, **Pichao Wang** and Chang Tang, "RGB-D based Action Recognition Datasets: A Survey", Pattern Recognition, 2016.
+14. Yonghong Hou, Zhaoyang Li,  **Pichao Wang**@ and Wanqing Li, (@ Corresponding author), "Skeleton Optical Spectra Based Action Recognition Using Convolutional Neural Networks", IEEE Transactions on Circuits and Systems for Video Technology, 2016. [code](https://sites.google.com/site/pichaossites/resources/SOScodes.rar?attredirects=0&d=1)
 
-15. **Pichao Wang**, Wanqing Li, Zhimin Gao, Jing Zhang,  Chang Tang, and Philip Ogunbona, "Action Recognition from Depth Maps Using Deep Convolutional Neural Networks", IEEE Transactions on Human Machine Systems, 2016. [code](https://sites.google.com/site/pichaossites/resources/THMS.zip?attredirects=0&d=1)
+15. Jing Zhang, Wanqing Li, Philip Ogunbona, **Pichao Wang** and Chang Tang, "RGB-D based Action Recognition Datasets: A Survey", Pattern Recognition, 2016.
+
+16. **Pichao Wang**, Wanqing Li, Zhimin Gao, Jing Zhang,  Chang Tang, and Philip Ogunbona, "Action Recognition from Depth Maps Using Deep Convolutional Neural Networks", IEEE Transactions on Human Machine Systems, 2016. [code](https://sites.google.com/site/pichaossites/resources/THMS.zip?attredirects=0&d=1)
 
  
 
