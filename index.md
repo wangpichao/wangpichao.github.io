@@ -20,7 +20,7 @@ I am recruiting Research Interns (PhD candidates) to join my research project @ 
 3. 2021-12: One paper about pose estimation was accepted by **IEEE TMM**. 
 4. 2021-12: One paper about vision transformer training was accepted by **AAAI 2022**.
 5. 2012-07: One paper about Object ReID was accepted by **ICCV 2021**.
-6. 2012-07: one paper about Zero-Shot NAS was accepted by **ICCV 2021**.
+6. 2012-07: One paper about Zero-Shot NAS was accepted by **ICCV 2021**.
 7. 2021-06: One paper about video object detection was accepted by **IJCV**.
 8. 2021-06: One paper about video object detection was accepted by **IEEE TCSVT**.
 
