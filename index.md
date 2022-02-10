@@ -31,7 +31,7 @@ I am a senior algorithm engineer at DAMO Academy, Alibaba Group (U.S.) Inc. Befo
 
 ## Research Interests
 
-Computer Vision · Deep Learning · Human Motion Analysis · Video Understanding
+Computer Vision · Multimedia · Deep Learning · Image Representation · Video Understanding
 
 ## Selected Awards and Honors
 
