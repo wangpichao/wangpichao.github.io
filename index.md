@@ -6,7 +6,7 @@
 
 [**One of Fourteen Scholars in Alibaba**](https://www.aminer.cn/institution/v2?organization_name=Alibaba) 
 
-[**Top 2% most-cited scientists in various disciplines named by Stanford University](https://ecebm.com/2021/10/26/stanford-university-names-worlds-top-2-scientists-2021/)
+[**Top 2% most-cited scientists in various disciplines named by Stanford University**](https://ecebm.com/2021/10/26/stanford-university-names-worlds-top-2-scientists-2021/)
 
 
 DAMO Academy, Alibaba Group (U.S.) Inc.
