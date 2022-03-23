@@ -42,21 +42,23 @@ Computer Vision · Multimedia · Deep Learning · Image Representation · Video 
 
 1. Jan.2022, AI 2000 Most Influential Scholars
 
-2. Jun. 2020, Second Prize, Multiple Object Tracking and Segmentation@CVPR2020 
+2. Oct.2021, World’s Top 2% Scientists
 
-3. May. 2018, EIS Faculty Postgraduate Thesis Award.
+3. Jun. 2020, Second Prize, Multiple Object Tracking and Segmentation@CVPR2020 
 
-4. Aug. 2017, Second Prize, Action, Gesture, and Emotion Recognition Workshop and Competitions: Large Scale Multimodal Gesture Recognition and Real versus Fake expressed emotions@ICCV2017
+4. May. 2018, EIS Faculty Postgraduate Thesis Award.
 
-5. Apr. 2017 First Prize (Winner), Large Scale 3D Human Activity Analysis Challenge in Depth Video@ICME2017
+5. Aug. 2017, Second Prize, Action, Gesture, and Emotion Recognition Workshop and Competitions: Large Scale Multimodal Gesture Recognition and Real versus Fake expressed emotions@ICCV2017
 
-6. Dec. 2016 Second Prize, Joint Contest on Multimedia Challenges Beyond Visual Analysis@ICPR2016
+6. Apr. 2017 First Prize (Winner), Large Scale 3D Human Activity Analysis Challenge in Depth Video@ICME2017
 
-7. Dec. 2016 Third Prize, Joint Contest on Multimedia Challenges Beyond Visual Analysis@ICPR2016
+7. Dec. 2016 Second Prize, Joint Contest on Multimedia Challenges Beyond Visual Analysis@ICPR2016
 
-8. Jan. 2013 Excellent Postgraduate Award
+8. Dec. 2016 Third Prize, Joint Contest on Multimedia Challenges Beyond Visual Analysis@ICPR2016
 
-9. Dec. 2011 Excellent Prize, National Campus CUDA Programming Contest. [certificate](https://sites.google.com/site/pichaossites/resources/img051.jpg?attredirects=0&d=1)
+9. Jan. 2013 Excellent Postgraduate Award
+
+10. Dec. 2011 Excellent Prize, National Campus CUDA Programming Contest. [certificate](https://sites.google.com/site/pichaossites/resources/img051.jpg?attredirects=0&d=1)
 
 
 ## Publications
@@ -77,9 +79,9 @@ Action Recognition from RGB-D Data. The University of  Wollongong, 2017. (Best P
 
 ### Conference Papers (selected papers, [full paper list](https://scholar.google.com/citations?user=QozdnnoAAAAJ&hl=en))
 
-1. Benjia Zhou, **Pichao Wang**@, Jun Wan, Yanyan Liang, Fan Wang, Du Zhang, Zhen Lei, Hao Li, Rong Jin, (@project lead), "Decoupling and Recoupling Spatiotemporal Representation for RGB-D-based Motion Recognition", CVPR 2022. [paper](https://arxiv.org/pdf/2112.09129.pdf). [code](https://github.com/damo-cv/MotionRGBD)
+1. Benjia Zhou, **Pichao Wang**@, Jun Wan, Yanyan Liang, Fan Wang, Du Zhang, Zhen Lei, Hao Li, Rong Jin, (@ Corresponding author), "Decoupling and Recoupling Spatiotemporal Representation for RGB-D-based Motion Recognition", CVPR 2022. [paper](https://arxiv.org/pdf/2112.09129.pdf). [code](https://github.com/damo-cv/MotionRGBD)
 
-2. Hansheng Chen, **Pichao Wang**@, Fan Wang, Wei Tian, Lu Xiong, Hao Li, (@project lead), "EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation", CVPR 2022.
+2. Hansheng Chen, **Pichao Wang**@, Fan Wang, Wei Tian, Lu Xiong, Hao Li, (@ Corresponding author), "EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation", CVPR 2022.
 
 3. Wenhao Li, Hong Liu, Hao Tang, **Pichao Wang**, Luc Van Gool, "MHFormer: Multi-Hypothesis Transformer for 3D Human Pose Estimation", CVPR 2022. [paper](https://arxiv.org/pdf/2111.12707.pdf). [code](https://github.com/Vegetebird/MHFormer)
 
