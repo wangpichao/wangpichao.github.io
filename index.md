@@ -81,7 +81,7 @@ Action Recognition from RGB-D Data. The University of  Wollongong, 2017. (Best P
 
 1. Benjia Zhou, **Pichao Wang**@, Jun Wan, Yanyan Liang, Fan Wang, Du Zhang, Zhen Lei, Hao Li, Rong Jin, (@ Corresponding author), "Decoupling and Recoupling Spatiotemporal Representation for RGB-D-based Motion Recognition", CVPR 2022. [paper](https://arxiv.org/pdf/2112.09129.pdf). [code](https://github.com/damo-cv/MotionRGBD)
 
-2. Hansheng Chen, **Pichao Wang**@, Fan Wang, Wei Tian, Lu Xiong, Hao Li, (@ Corresponding author), "EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation", CVPR 2022. [paper](https://arxiv.org/pdf/2203.13254.pdf) [code](https://github.com/tjiiv-cprg/EPro-PnP)
+2. Hansheng Chen, **Pichao Wang**@, Fan Wang, Wei Tian, Lu Xiong, Hao Li, (@ Corresponding author), "EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation", CVPR 2022, ***ORAL***. [paper](https://arxiv.org/pdf/2203.13254.pdf) [code](https://github.com/tjiiv-cprg/EPro-PnP)
 
 3. Wenhao Li, Hong Liu, Hao Tang, **Pichao Wang**, Luc Van Gool, "MHFormer: Multi-Hypothesis Transformer for 3D Human Pose Estimation", CVPR 2022. [paper](https://arxiv.org/pdf/2111.12707.pdf). [code](https://github.com/Vegetebird/MHFormer)
 
@@ -99,7 +99,7 @@ Action Recognition from RGB-D Data. The University of  Wollongong, 2017. (Best P
 
 10. Chang Tang, Xinwang Liu, Xinzhong Zhu, En Zhu, Kun Sun, **Pichao Wang**, Lizhe Wang and Albert Zomaya, "R2MRF: Defocus Blur Detection via Recurrently Refining Multi-scale Residual Features", AAAI 2020.[paper](https://ojs.aaai.org/index.php/AAAI/article/download/6884/6738). [code](https://github.com/ChangTang/R2MRF)
 
-11. **Pichao Wang**, Wanqing Li, Jun Wan, Philip Ogunbona, and Xinwang Liu, "Cooperative Training of Deep Aggregation Networks for RGB-D Action Recognition", AAAI 2018. (Oral)[paper](https://sites.google.com/site/pichaossites/resources/AAAI2018_action.pdf?attredirects=0&d=1). [code](https://sites.google.com/site/pichaossites/resources/codesAAAI.zip?attredirects=0&d=1)
+11. **Pichao Wang**, Wanqing Li, Jun Wan, Philip Ogunbona, and Xinwang Liu, "Cooperative Training of Deep Aggregation Networks for RGB-D Action Recognition", AAAI 2018, ***ORAL*** [paper](https://sites.google.com/site/pichaossites/resources/AAAI2018_action.pdf?attredirects=0&d=1). [code](https://sites.google.com/site/pichaossites/resources/codesAAAI.zip?attredirects=0&d=1)
   
 12. *Huogen Wang*, **Pichao Wang**, Zhanjie Song, and Wanqing Li, (first two authors make equal contributions) "Large-scale Multimodal Gesture Recognition Using Heterogeneous Networks", ICCV 2017.[paper](https://sites.google.com/site/pichaossites/resources/Heterogeneous.pdf?attredirects=0&d=1). [code](https://github.com/wanghuogen/ConGestureChallenge4ICCV)
   
