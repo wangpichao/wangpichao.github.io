@@ -40,7 +40,7 @@ Computer Vision · Multimedia · Deep Learning · Image Representation · Video 
 
 ## Selected Awards and Honors
 
-1. Jan.2022, AI 2000 Most Influential Scholars
+1. Jan.2022, AI 2000 Most Influential Scholars [certificate](https://github.com/wangpichao/wangpichao.github.io/blob/main/images/miner.png)
 
 2. Oct.2021, World’s Top 2% Scientists
 
