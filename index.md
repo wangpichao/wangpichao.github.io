@@ -40,25 +40,27 @@ Computer Vision · Multimedia · Deep Learning · Image Representation · Video 
 
 ## Selected Awards and Honors
 
-1. Jan.2022, AI 2000 Most Influential Scholars [certificate](https://github.com/wangpichao/wangpichao.github.io/blob/main/images/miner.png)
+1. Jun.2022, Best Student Paper Award @CVPR2022
 
-2. Oct.2021, World’s Top 2% Scientists
+2. Jan.2022, AI 2000 Most Influential Scholars [certificate](https://github.com/wangpichao/wangpichao.github.io/blob/main/images/miner.png)
 
-3. Jun. 2020, Second Prize, Multiple Object Tracking and Segmentation@CVPR2020 
+3. Oct.2021, World’s Top 2% Scientists
 
-4. May. 2018, EIS Faculty Postgraduate Thesis Award.
+4. Jun. 2020, Second Prize, Multiple Object Tracking and Segmentation@CVPR2020 
 
-5. Aug. 2017, Second Prize, Action, Gesture, and Emotion Recognition Workshop and Competitions: Large Scale Multimodal Gesture Recognition and Real versus Fake expressed emotions@ICCV2017
+5. May. 2018, EIS Faculty Postgraduate Thesis Award.
 
-6. Apr. 2017 First Prize (Winner), Large Scale 3D Human Activity Analysis Challenge in Depth Video@ICME2017
+6. Aug. 2017, Second Prize, Action, Gesture, and Emotion Recognition Workshop and Competitions: Large Scale Multimodal Gesture Recognition and Real versus Fake expressed emotions@ICCV2017
 
-7. Dec. 2016 Second Prize, Joint Contest on Multimedia Challenges Beyond Visual Analysis@ICPR2016
+7. Apr. 2017 First Prize (Winner), Large Scale 3D Human Activity Analysis Challenge in Depth Video@ICME2017
 
-8. Dec. 2016 Third Prize, Joint Contest on Multimedia Challenges Beyond Visual Analysis@ICPR2016
+8. Dec. 2016 Second Prize, Joint Contest on Multimedia Challenges Beyond Visual Analysis@ICPR2016
 
-9. Jan. 2013 Excellent Postgraduate Award
+9. Dec. 2016 Third Prize, Joint Contest on Multimedia Challenges Beyond Visual Analysis@ICPR2016
 
-10. Dec. 2011 Excellent Prize, National Campus CUDA Programming Contest. [certificate](https://sites.google.com/site/pichaossites/resources/img051.jpg?attredirects=0&d=1)
+10. Jan. 2013 Excellent Postgraduate Award
+
+11. Dec. 2011 Excellent Prize, National Campus CUDA Programming Contest. [certificate](https://sites.google.com/site/pichaossites/resources/img051.jpg?attredirects=0&d=1)
 
 
 ## Publications
