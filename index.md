@@ -17,7 +17,7 @@ I am recruiting Research Interns (PhD or excellent master candidates) to join my
 
 ## Recent News
 
-1. 2022-06: **Best Student Paper Award** in CVPR 2022.
+1. 2022-06: **Best Student Paper Award** in **CVPR 2022**.
 2. 2022-03: One paper about 3D human pose estimation was accepted by **CVPR 2022**.
 3. 2022-03: One paper about 3D object detection was accepted by **CVPR 2022**.
 4. 2022-03: One paper about RGB+D motion recognition was accepted by **CVPR 2022**.
