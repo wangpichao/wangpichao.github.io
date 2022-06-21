@@ -17,17 +17,18 @@ I am recruiting Research Interns (PhD or excellent master candidates) to join my
 
 ## Recent News
 
-1. 2022-03: One paper about 3D human pose estimation was accepted by **CVPR 2022**.
-2. 2022-03: One paper about 3D object detection was accepted by **CVPR 2022**.
-3. 2022-03: One paper about RGB+D motion recognition was accepted by **CVPR 2022**.
-4. 2022-01: One paper about knowledge distillation was accepted by **ICASSP 2022**.
-5. 2022-01: One paper about unsupervised domain adaption was accepted by **ICLR 2022**.
-6. 2021-12: One paper about pose estimation was accepted by **IEEE TMM**. 
-7. 2021-12: One paper about vision transformer training was accepted by **AAAI 2022**.
-8. 2021-07: One paper about Object ReID was accepted by **ICCV 2021**.
-9. 2021-07: One paper about Zero-Shot NAS was accepted by **ICCV 2021**.
-10. 2021-06: One paper about video object detection was accepted by **IJCV**.
-11. 2021-06: One paper about video object detection was accepted by **IEEE TCSVT**.
+1. 2022-06: **Best Student Paper Award** in CVPR 2022.
+2. 2022-03: One paper about 3D human pose estimation was accepted by **CVPR 2022**.
+3. 2022-03: One paper about 3D object detection was accepted by **CVPR 2022**.
+4. 2022-03: One paper about RGB+D motion recognition was accepted by **CVPR 2022**.
+5. 2022-01: One paper about knowledge distillation was accepted by **ICASSP 2022**.
+6. 2022-01: One paper about unsupervised domain adaption was accepted by **ICLR 2022**.
+7. 2021-12: One paper about pose estimation was accepted by **IEEE TMM**. 
+8. 2021-12: One paper about vision transformer training was accepted by **AAAI 2022**.
+9. 2021-07: One paper about Object ReID was accepted by **ICCV 2021**.
+10. 2021-07: One paper about Zero-Shot NAS was accepted by **ICCV 2021**.
+11. 2021-06: One paper about video object detection was accepted by **IJCV**.
+12. 2021-06: One paper about video object detection was accepted by **IEEE TCSVT**.
 
 
 ## Biography
