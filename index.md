@@ -84,7 +84,7 @@ Action Recognition from RGB-D Data. The University of  Wollongong, 2017. (Best P
 
 1. Benjia Zhou, **Pichao Wang**@, Jun Wan, Yanyan Liang, Fan Wang, Du Zhang, Zhen Lei, Hao Li, Rong Jin, (@ Corresponding author), "Decoupling and Recoupling Spatiotemporal Representation for RGB-D-based Motion Recognition", CVPR 2022. [paper](https://arxiv.org/pdf/2112.09129.pdf). [code](https://github.com/damo-cv/MotionRGBD)
 
-2. Hansheng Chen, **Pichao Wang**@, Fan Wang, Wei Tian, Lu Xiong, Hao Li, (@ Corresponding author), "EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation", CVPR 2022, ***ORAL***. [paper](https://arxiv.org/pdf/2203.13254.pdf) [code](https://github.com/tjiiv-cprg/EPro-PnP)
+2. Hansheng Chen, **Pichao Wang**@, Fan Wang, Wei Tian, Lu Xiong, Hao Li, (@ Corresponding author), "EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation", CVPR 2022, ***Best Student Paper Award***. [paper](https://arxiv.org/pdf/2203.13254.pdf) [code](https://github.com/tjiiv-cprg/EPro-PnP)
 
 3. Wenhao Li, Hong Liu, Hao Tang, **Pichao Wang**, Luc Van Gool, "MHFormer: Multi-Hypothesis Transformer for 3D Human Pose Estimation", CVPR 2022. [paper](https://arxiv.org/pdf/2111.12707.pdf). [code](https://github.com/Vegetebird/MHFormer)
 
