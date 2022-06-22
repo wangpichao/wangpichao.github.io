@@ -41,7 +41,7 @@ Computer Vision · Multimedia · Deep Learning · Image Representation · Video 
 
 ## Selected Awards and Honors
 
-1. Jun.2022, Best Student Paper Award @CVPR2022
+1. Jun.2022, [Best Student Paper Award](https://cvpr2022.thecvf.com/cvpr-2022-paper-awards) @CVPR2022
 
 2. Jan.2022, AI 2000 Most Influential Scholars [certificate](https://github.com/wangpichao/wangpichao.github.io/blob/main/images/miner.png)
 
