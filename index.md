@@ -159,7 +159,7 @@ Knowledge-Based Systems,2018. [paper](https://www.sciencedirect.com/science/arti
 ### Editorial Works:
 
 1. Associate Editor, Computer Engineering(<<计算机工程>>, Chinese Journal), 2019-2024
-2. Eiditoral Board of Young Scientists, Journal of Computer Science and Technology (JCST) (Tier 1, CCF B), 2022.7.1-2024.6.30
+2. Eiditorial Board of Young Scientists, Journal of Computer Science and Technology (JCST) (Tier 1, CCF B), 2022.7.1-2024.6.30
 3. Area Chair, ICME, 2021,2022: Area Chair for Multimedia Analysis and Understanding (main area)
 
 ### Selected Invited Journal Reviewer: 
