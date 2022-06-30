@@ -4,7 +4,7 @@
 
 [**AI 2000 Most Influential Scholars**](https://www.aminer.cn/ai2000/search_rank?id=562c81d345cedb3398c44362)
 
-[**One of Fourteen Scholars in Alibaba**](https://www.aminer.cn/institution/v2?organization_name=Alibaba) 
+[**One of Thirteen Scholars in Alibaba**](https://www.aminer.cn/institution/v2?organization_name=Alibaba) 
 
 [**World's Top 2% Scientists named by Stanford University**](https://ecebm.com/2021/10/26/stanford-university-names-worlds-top-2-scientists-2021/)
 
