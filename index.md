@@ -17,8 +17,8 @@ I am recruiting Research Interns (PhD or excellent master candidates) to join my
 
 ## Recent News
 
-1. 2022-07: One paper about vision transformer training was accepted by **ECCV 2022**
-2. 2022-07: One paper about Unsupervised Semantic Segmentation was accepted by **ECCV 2022**
+1. 2022-07: One paper about vision transformer was accepted by **ECCV 2022**
+2. 2022-07: One paper about unsupervised semantic segmentation was accepted by **ECCV 2022**
 3. 2022-06: **Best Student Paper Award** in **CVPR 2022**.
 4. 2022-03: One paper about 3D human pose estimation was accepted by **CVPR 2022**.
 5. 2022-03: One paper about 3D object detection was accepted by **CVPR 2022**.
