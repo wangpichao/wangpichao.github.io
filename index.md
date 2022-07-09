@@ -80,7 +80,7 @@ Action Recognition from RGB-D Data. The University of  Wollongong, 2017. (Best P
 
 ### Conference Papers (selected papers, [full paper list](https://scholar.google.com/citations?user=QozdnnoAAAAJ&hl=en))
 
-1. **Pichao Wang**, *Xue Wang*, Fan Wang, Ming Lin, Shuning Chang, Wen Xie, Hao Li, Rong Jin, (first two authors make equal contributions), "KVT: k-NN Attention for Boosting Vision Transformers", ECCV 2022. [paper](https://arxiv.org/pdf/2106.00515.pdf).
+1. **Pichao Wang**, *Xue Wang*, Fan Wang, Ming Lin, Shuning Chang, Hao Li, Rong Jin, (first two authors make equal contributions), "KVT: k-NN Attention for Boosting Vision Transformers", ECCV 2022. [paper](https://arxiv.org/pdf/2106.00515.pdf).
 
 2. Zhaoyuan Yin, **Pichao Wang**@, Fan Wang, Xianzhe Xu, Hanling Zhang, Hao Li, Rong Jin,(@ Corresponding author), "TransFGU: A Top-down Approach to Fine-Grained Unsupervised Semantic Segmentation", ECCV 2022, ***Oral***(2.7% of submitted papers) [paper](https://arxiv.org/pdf/2112.01515.pdf). [code](https://arxiv.org/pdf/2112.01515.pdf)
 
