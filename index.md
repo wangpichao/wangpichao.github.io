@@ -4,16 +4,15 @@
 
 [**AI 2000 Most Influential Scholars**](https://www.aminer.cn/ai2000/search_rank?id=562c81d345cedb3398c44362)
 
-[**One of Thirteen Scholars in Alibaba**](https://www.aminer.cn/institution/v2?organization_name=Alibaba) 
 
 [**World's Top 2% Scientists named by Stanford University**](https://ecebm.com/2021/10/26/stanford-university-names-worlds-top-2-scientists-2021/)
 
 
-DAMO Academy, Alibaba Group (U.S.) Inc.
+Prime Video - Amazon.
 
 Email: pichaowang@gmail.com   [Goolge Scholar](https://scholar.google.com/citations?user=QozdnnoAAAAJ&hl=en) [ResearchGate](https://www.researchgate.net/profile/Pichao-Wang)
 
-I am recruiting Research Interns (PhD or excellent master candidates) to join my research project @ Alibaba DAMO Academy. If you are interested in computer vision, especially transformer-based applications, and happens to be interested in Alibaba, please contact me.
+I am recruiting Research Interns (PhD or excellent master candidates) to join my research project @ Amazon Prime Video. If you are interested in computer vision, especially transformer-based applications, and happens to be interested in Prime Video, please contact me.
 
 ## Recent News
 
@@ -36,7 +35,7 @@ I am recruiting Research Interns (PhD or excellent master candidates) to join my
 
 ## Biography
 
-I am a staff engineer at DAMO Academy, Alibaba Group (U.S.) Inc. Before I joined Alibaba Group, I worked as a researcher at [Motovis Inc.](http://www.motovis.cn/) I received my Ph.D in Computer Science from [University of Wollongong](https://www.uow.edu.au/media/2022/new-high-for-uow-in-qs-world-university-rankings.php), Australia, in Oct. 2017, supervised by A/Prof. [Wanqing Li](https://sites.google.com/view/wanqingli/home-news) and Prof. [Philip Ogunbona](https://documents.uow.edu.au/~philipo/).  I received  my M.E. in Information and Communication Engineering from [Tianjin University](http://www.tju.edu.cn/english/index.htm), China, in 2013, supervised by Prof. [Yonghong Hou](http://seea.tju.edu.cn/info/1122/2098.htm), and B.E. in Network Engineering from [Nanchang University](http://english.ncu.edu.cn/), China, in 2010.
+I am a senior research scientist at Amazon Prime Video. Before I joined Alibaba Group, I worked as a staff engineer at DAMO Academy, Alibaba Group (U.S.) Inc for more than 4 years. I received my Ph.D in Computer Science from [University of Wollongong](https://www.uow.edu.au/media/2022/new-high-for-uow-in-qs-world-university-rankings.php), Australia, in Oct. 2017, supervised by A/Prof. [Wanqing Li](https://sites.google.com/view/wanqingli/home-news) and Prof. [Philip Ogunbona](https://documents.uow.edu.au/~philipo/).  I received  my M.E. in Information and Communication Engineering from [Tianjin University](http://www.tju.edu.cn/english/index.htm), China, in 2013, supervised by Prof. [Yonghong Hou](http://seea.tju.edu.cn/info/1122/2098.htm), and B.E. in Network Engineering from [Nanchang University](http://english.ncu.edu.cn/), China, in 2010.
 
 ## Research Interests
 
