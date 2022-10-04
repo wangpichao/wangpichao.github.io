@@ -1,4 +1,4 @@
-# Pichao Wang, PhD
+# Pichao Wang, PhD, Prime Video - Amazon
 
 <img style="float: right; padding-left:15px; width:150px" src="./images/WangPiChao.jpg" >
 
@@ -7,8 +7,6 @@
 
 [**World's Top 2% Scientists named by Stanford University**](https://ecebm.com/2021/10/26/stanford-university-names-worlds-top-2-scientists-2021/)
 
-
-Prime Video - Amazon.
 
 Email: pichaowang@gmail.com   [Goolge Scholar](https://scholar.google.com/citations?user=QozdnnoAAAAJ&hl=en) [ResearchGate](https://www.researchgate.net/profile/Pichao-Wang)
 
