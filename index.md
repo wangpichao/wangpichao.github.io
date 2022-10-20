@@ -8,7 +8,7 @@
 [**World's Top 2% Scientists named by Stanford University**](https://ecebm.com/2021/10/26/stanford-university-names-worlds-top-2-scientists-2021/)
 
 
-Email: pichaowang@gmail.com   [Goolge Scholar](https://scholar.google.com/citations?user=QozdnnoAAAAJ&hl=en) [ResearchGate](https://www.researchgate.net/profile/Pichao-Wang)
+Email: pichaowang@gmail.com   [Goolge Scholar](https://scholar.google.com/citations?user=QozdnnoAAAAJ&hl=en) [ResearchGate](https://www.researchgate.net/profile/Pichao-Wang) [Linkedin](https://www.linkedin.com/in/pichao-wang-494773109/)
 
 I am recruiting Research Interns (PhD or excellent master candidates) to join my research project @ Amazon Prime Video. If you are interested in computer vision, especially transformer-based applications, and happens to be interested in Prime Video, please contact me.
 
