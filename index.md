@@ -2,9 +2,9 @@
 
 <img style="float: right; padding-left:15px; width:150px" src="./images/WangPiChao.jpg" >
 
-[**AI 2000 Most Influential Scholars**](https://www.aminer.cn/ai2000/search_rank?id=562c81d345cedb3398c44362)
+[**AI 2000 Most Influential Scholar**](https://www.aminer.cn/ai2000/search_rank?id=562c81d345cedb3398c44362)
 
-[**World's Top 2% Scientists named by Stanford University**](https://ecebm.com/2021/10/26/stanford-university-names-worlds-top-2-scientists-2021/)
+[**World's Top 2% Scientist named by Stanford University**](https://ecebm.com/2021/10/26/stanford-university-names-worlds-top-2-scientists-2021/)
 
 [**CVPR 2022 Best Student Paper Recipient**](https://cvpr2022.thecvf.com/cvpr-2022-paper-awards)
 
