@@ -82,11 +82,11 @@ Action Recognition from RGB-D Data. The University of  Wollongong, 2017. (Best P
 
 ### Conference Papers (selected papers, [full paper list](https://scholar.google.com/citations?user=QozdnnoAAAAJ&hl=en))
 
-1. Bo Dong, **Pichao Wang**@, Fan Wang,(@ Corresponding author), "Head-Free Lightweight Semantic Segmentation with Linear Transformer", AAAI 2023.
+1. Bo Dong, **Pichao Wang**@, Fan Wang,(@ Corresponding author), "Head-Free Lightweight Semantic Segmentation with Linear Transformer", AAAI 2023.[paper](https://arxiv.org/pdf/2301.04648.pdf) [code](https://github.com/dongbo811/AFFormer)
 
 2. Dongyang Li, Hao Luo, **Pichao Wang**, Zhibin Wang, Shang Liu, Fan Wang, "Frequency Domain Disentanglement for Arbitrary Neural Style Transfer", AAAI 2023.
 
-3. Zhenyu Wang, Hao Luo, **Pichao Wang**, Feng Ding, Fan Wang, Hao Li, "VTC-LFC: Vision Transformer Compression with Low-Frequency Components", NeurIPS 2022.
+3. Zhenyu Wang, Hao Luo, **Pichao Wang**, Feng Ding, Fan Wang, Hao Li, "VTC-LFC: Vision Transformer Compression with Low-Frequency Components", NeurIPS 2022.[paper] (https://openreview.net/pdf?id=HuiLIB6EaOk) [code](https://github.com/Daner-Wang/VTC-LFC)
 
 4. **Pichao Wang**, *Xue Wang*, Fan Wang, Ming Lin, Shuning Chang, Hao Li, Rong Jin, (first two authors make equal contributions), "KVT: k-NN Attention for Boosting Vision Transformers", ECCV 2022. [paper](https://arxiv.org/pdf/2106.00515.pdf). [code](https://github.com/damo-cv/KVT)
 
@@ -198,13 +198,15 @@ Knowledge-Based Systems,2018. [paper](https://www.sciencedirect.com/science/arti
 11. ICLR2022
 
 ## Work Experience
-1. 2017.10-2018.6: I was employed as a researcher at Motovis Inc, and I was in charge of Fixed-point quantization networks, pixel-level semantic labeling, intelligent headlight control.
+1. 2018.9-2022.10: I was employed as a staff/senior algorithm engineer, and conducted research on various computer vision tasks.
 
-2. 2013.07-2013.11: I was employed  as a Software Engineer at Beijing Hanze Technology Co., ltd  and I was in charge of the development of software about video enhancement, including FFMpeg video decoding, video enhancement algorithms, denoising algorithms,  and H.264 coding by CUDA.
+2. 2017.10-2018.6: I was employed as a researcher at Motovis Inc, and I was in charge of Fixed-point quantization networks, pixel-level semantic labeling, intelligent headlight control.
 
-3. 2011.05-2011.12: I was employed as a Software Engineer at Beijing Maystar Information Technology Co., ltd , and I was in charge of decrypting the Office documents based on GPU.
+3. 2013.07-2013.11: I was employed  as a Software Engineer at Beijing Hanze Technology Co., ltd  and I was in charge of the development of software about video enhancement, including FFMpeg video decoding, video enhancement algorithms, denoising algorithms,  and H.264 coding by CUDA.
 
-4. 2010.07-2011.06: I participated a National High-tech R&D Program (863 Program) project at Institute of Wideband Wireless Communication and 3D Imaging (IWWC&3DI): Multi-view video acquisition and demonstration system (2009AA011507). I was in charge of adaptive definition adjustment and format conversion in 3D video network and implemented the 3D video combination algorithm using paralleled methods based on CUDA.
+4. 2011.05-2011.12: I was employed as a Software Engineer at Beijing Maystar Information Technology Co., ltd , and I was in charge of decrypting the Office documents based on GPU.
+
+5. 2010.07-2011.06: I participated a National High-tech R&D Program (863 Program) project at Institute of Wideband Wireless Communication and 3D Imaging (IWWC&3DI): Multi-view video acquisition and demonstration system (2009AA011507). I was in charge of adaptive definition adjustment and format conversion in 3D video network and implemented the 3D video combination algorithm using paralleled methods based on CUDA.
 
 ## Datasets
 1. [FT-HID Dataset](https://github.com/ENDLICHERE/FT-HID): The dataset contains more than 38K RGB samples, 38K depth samples, and about 20K skeleton sequences. 30 classes of daily actions are designed specically for multi-person interaction with a wearable device and three fixed cameras. FT-HID dataset has a comparable number of data, action classes, and scenes with other RGB-D action recognition datasets. It is more complex as the data is collected from 109 distinct subjects with large variations in gender, age, and physical condition. More importantly, to the best of our knowledge, it is the first large-scale RGB-D dataset that is collected from both TPV and FPV perspectives for action recognition. Please cite the following papers if you use the dataset: 
