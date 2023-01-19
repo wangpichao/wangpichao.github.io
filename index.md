@@ -86,7 +86,7 @@ Action Recognition from RGB-D Data. The University of  Wollongong, 2017. (Best P
 
 2. Dongyang Li, Hao Luo, **Pichao Wang**, Zhibin Wang, Shang Liu, Fan Wang, "Frequency Domain Disentanglement for Arbitrary Neural Style Transfer", AAAI 2023.
 
-3. Zhenyu Wang, Hao Luo, **Pichao Wang**, Feng Ding, Fan Wang, Hao Li, "VTC-LFC: Vision Transformer Compression with Low-Frequency Components", NeurIPS 2022.[paper] (https://openreview.net/pdf?id=HuiLIB6EaOk) [code](https://github.com/Daner-Wang/VTC-LFC)
+3. Zhenyu Wang, Hao Luo, **Pichao Wang**, Feng Ding, Fan Wang, Hao Li, "VTC-LFC: Vision Transformer Compression with Low-Frequency Components", NeurIPS 2022.[paper](https://openreview.net/pdf?id=HuiLIB6EaOk) [code](https://github.com/Daner-Wang/VTC-LFC)
 
 4. **Pichao Wang**, *Xue Wang*, Fan Wang, Ming Lin, Shuning Chang, Hao Li, Rong Jin, (first two authors make equal contributions), "KVT: k-NN Attention for Boosting Vision Transformers", ECCV 2022. [paper](https://arxiv.org/pdf/2106.00515.pdf). [code](https://github.com/damo-cv/KVT)
 
