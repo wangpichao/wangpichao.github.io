@@ -15,7 +15,7 @@ I am recruiting Research Interns (PhD or excellent master candidates) to join my
 
 ## Recent News
 
-1. 2022-12: Our TIP'21 paper received the IEEE Finland Jt. Chapter SP/CAS Best Paper Award
+1. 2022-12: Our TIP'21 paper received the IEEE Finland SP/CAS Best Paper Award
 2. 2022-11: One paper about Semantic Segmentation was accepted by **AAAI2023**
 3. 2022-11: One paper about Neural Style Transfer was accepted by **AAAI2023**
 4. 2022-09: One paper about skeleton action recognition was accepted by **ACCV 2022**
