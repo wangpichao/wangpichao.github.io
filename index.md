@@ -16,7 +16,7 @@ I am recruiting Research Interns (PhD or excellent master candidates) to join my
 ## Recent News
 
 1. 2023-02: One paper about efficient vision transformer was accepted by **CVPR2023**
-2. 2023-02: One paper about long form understanding was accepted by **CVPR2023**
+2. 2023-02: One paper about long form video understanding was accepted by **CVPR2023**
 3. 2023-02: One paper about 3D pose estimation was accepted by **CVPR2023**
 4. 2022-12: Our TIP'21 paper received the IEEE Finland SP/CAS Best Paper Award
 5. 2022-11: One paper about Semantic Segmentation was accepted by **AAAI2023**
