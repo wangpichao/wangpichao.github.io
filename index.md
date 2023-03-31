@@ -86,9 +86,9 @@ Action Recognition from RGB-D Data. The University of  Wollongong, 2017. (Best P
 
 ### Conference Papers (selected papers, [full paper list](https://scholar.google.com/citations?user=QozdnnoAAAAJ&hl=en))
 
-1. *Shuning Chang*, **Pichao Wang**, Ming Lin, Fan Wang, David Junhao Zhang, Rong Jin and Mike Zheng Shou,(first two authors make equal contributions), "Making Vision Transformers Efficient from A Token Sparsification View", CVPR 2023. [paper](https://arxiv.org/pdf/2303.08685.pdf)  [code](https://github.com/changsn/STViT-R)
+1. *Shuning Chang*, **Pichao Wang**, Ming Lin, Fan Wang, David Junhao Zhang, Rong Jin and Mike Zheng Shou,(first two authors make equal contributions), "Making Vision Transformers Efficient from A Token Sparsification View", CVPR 2023. [paper] (https://arxiv.org/pdf/2303.08685.pdf)  [code](https://github.com/changsn/STViT-R)
 
-2. Qitao Zhao, Ce Zheng, Mengyuan Liu, **Pichao Wang**, Chen Chen, "PoseFormerV2: Exploring Frequency Domain for Efficient and Robust 3D Human Pose Estimation", CVPR 2023
+2. Qitao Zhao, Ce Zheng, Mengyuan Liu, **Pichao Wang**, Chen Chen, "PoseFormerV2: Exploring Frequency Domain for Efficient and Robust 3D Human Pose Estimation", CVPR 2023 [paper] (https://arxiv.org/pdf/2303.17472.pdf) [code](https://github.com/QitaoZhao/PoseFormerV2)
 
 3. Jue Wang, Wentao Zhu, **Pichao Wang**, Xiang Yu, Linda Liu, Mohamed Omar, and Raffay Hamid, "Selective Structured State-Spaces for Long-Form Video Understanding", CVPR2023
 
