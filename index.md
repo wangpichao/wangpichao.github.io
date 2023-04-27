@@ -15,28 +15,30 @@ I am recruiting Research Interns (PhD or excellent master candidates) to join my
 
 ## Recent News
 
-1. 2023-02: One paper about efficient vision transformer was accepted by **CVPR2023**
-2. 2023-02: One paper about long form video understanding was accepted by **CVPR2023**
-3. 2023-02: One paper about 3D pose estimation was accepted by **CVPR2023**
-4. 2022-12: Our TIP'21 paper received the IEEE Finland SP/CAS Best Paper Award
-5. 2022-11: One paper about Semantic Segmentation was accepted by **AAAI2023**
-6. 2022-11: One paper about Neural Style Transfer was accepted by **AAAI2023**
-7. 2022-09: One paper about skeleton action recognition was accepted by **ACCV 2022**
-8. 2022-09: One paper about vision transformer compression was accepted by **NeurIPS 2022**
-9. 2022-07: One paper about vision transformer was accepted by **ECCV 2022**
-10. 2022-07: One paper about unsupervised semantic segmentation was accepted by **ECCV 2022**
-11. 2022-06: **Best Student Paper Award** in **CVPR 2022**.
-12. 2022-03: One paper about 3D human pose estimation was accepted by **CVPR 2022**.
-13. 2022-03: One paper about 3D object detection was accepted by **CVPR 2022**.
-14. 2022-03: One paper about RGB+D motion recognition was accepted by **CVPR 2022**.
-15. 2022-01: One paper about knowledge distillation was accepted by **ICASSP 2022**.
-16. 2022-01: One paper about unsupervised domain adaption was accepted by **ICLR 2022**.
-17. 2021-12: One paper about pose estimation was accepted by **IEEE TMM**. 
-18. 2021-12: One paper about vision transformer training was accepted by **AAAI 2022**.
-19. 2021-07: One paper about Object ReID was accepted by **ICCV 2021**.
-20. 2021-07: One paper about Zero-Shot NAS was accepted by **ICCV 2021**.
-21. 2021-06: One paper about video object detection was accepted by **IJCV**.
-22. 2021-06: One paper about video object detection was accepted by **IEEE TCSVT**.
+1. 2023-04: One paper about RGB+D action recognition was accepted by **TPAMI**
+2. 2023-04: One paper about 3D pose estimation was accepted by **Pattern Recognition**
+3. 2023-02: One paper about efficient vision transformer was accepted by **CVPR2023**
+4. 2023-02: One paper about long form video understanding was accepted by **CVPR2023**
+5. 2023-02: One paper about 3D pose estimation was accepted by **CVPR2023**
+6. 2022-12: Our TIP'21 paper received the IEEE Finland SP/CAS Best Paper Award
+7. 2022-11: One paper about Semantic Segmentation was accepted by **AAAI2023**
+8. 2022-11: One paper about Neural Style Transfer was accepted by **AAAI2023**
+9. 2022-09: One paper about skeleton action recognition was accepted by **ACCV 2022**
+10. 2022-09: One paper about vision transformer compression was accepted by **NeurIPS 2022**
+11. 2022-07: One paper about vision transformer was accepted by **ECCV 2022**
+12. 2022-07: One paper about unsupervised semantic segmentation was accepted by **ECCV 2022**
+13. 2022-06: **Best Student Paper Award** in **CVPR 2022**.
+14. 2022-03: One paper about 3D human pose estimation was accepted by **CVPR 2022**.
+15. 2022-03: One paper about 3D object detection was accepted by **CVPR 2022**.
+16. 2022-03: One paper about RGB+D motion recognition was accepted by **CVPR 2022**.
+17. 2022-01: One paper about knowledge distillation was accepted by **ICASSP 2022**.
+18. 2022-01: One paper about unsupervised domain adaption was accepted by **ICLR 2022**.
+19. 2021-12: One paper about pose estimation was accepted by **IEEE TMM**. 
+20. 2021-12: One paper about vision transformer training was accepted by **AAAI 2022**.
+21. 2021-07: One paper about Object ReID was accepted by **ICCV 2021**.
+22. 2021-07: One paper about Zero-Shot NAS was accepted by **ICCV 2021**.
+23. 2021-06: One paper about video object detection was accepted by **IJCV**.
+24. 2021-06: One paper about video object detection was accepted by **IEEE TCSVT**.
 
 
 ## Biography
@@ -136,41 +138,45 @@ Action Recognition from RGB-D Data. The University of  Wollongong, 2017. (Best P
 
 ### Journal Articles (selected papers, [full paper list](https://scholar.google.com/citations?user=QozdnnoAAAAJ&hl=en))
 
-1. Wenhao Li, Hong Liu, Runwei Ding, Mengyuan Liu, **Pichao Wang**, and Wenming Yang, "Exploiting Temporal Contexts with Strided Transformer for 3D Human Pose Estimation", IEEE Transactions on Multimedia, 2021. [paper](https://arxiv.org/pdf/2103.14304.pdf). [code](https://github.com/Vegetebird/StridedTransformer-Pose3D)
+1. Benjia Zhou, **Pichao Wang**@, Jun Wan, Liangliang Yan, and Fan Wang, (@corresponding auther), "A Unified Multimodal De-and Re-coupling Framework for RGB-D Motion Recognition", IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023. [paper](https://arxiv.org/pdf/2211.09146.pdf) [code](https://github.com/zhoubenjia/MotionRGBD-PAMI)
 
-2. *Liang Han*, **Pichao Wang**, Zhaozheng Yin, Fan Wang, and Hao Li, (first two authors make equal contributions), "Context and Structure Mining Network for Video Object Detection", International Journal of Computer Vision, 2021. [paper](https://link.springer.com/article/10.1007/s11263-021-01507-2)
+2. Wenhao Li, Hong Liu, Hao Tang, and **Pichao Wang**, "Multi-Hypothesis Representation Learning for Transformer-Based 3D Human Pose Estimation", Pattern Recognition, 2023
 
-3. *Liang Han*, **Pichao Wang**, Zhaozheng Yin, Fan Wang, and Hao Li, (first two authors make equal contributions), "Class-aware Feature Aggregation Network for Video Object Detection",
+3. Wenhao Li, Hong Liu, Runwei Ding, Mengyuan Liu, **Pichao Wang**, and Wenming Yang, "Exploiting Temporal Contexts with Strided Transformer for 3D Human Pose Estimation", IEEE Transactions on Multimedia, 2021. [paper](https://arxiv.org/pdf/2103.14304.pdf). [code](https://github.com/Vegetebird/StridedTransformer-Pose3D)
+
+4. *Liang Han*, **Pichao Wang**, Zhaozheng Yin, Fan Wang, and Hao Li, (first two authors make equal contributions), "Context and Structure Mining Network for Video Object Detection", International Journal of Computer Vision, 2021. [paper](https://link.springer.com/article/10.1007/s11263-021-01507-2)
+
+5. *Liang Han*, **Pichao Wang**, Zhaozheng Yin, Fan Wang, and Hao Li, (first two authors make equal contributions), "Class-aware Feature Aggregation Network for Video Object Detection",
 IEEE Transactions on Circuits and Systems for Video Technology, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9474502)
 
-4. Zitong Yu, Benjia Zhou, Jun Wan, **Pichao Wang**, Haoyu Chen, Xin Liu, Stan Z Li, and Guoying Zhao, "Searching Multi-Rate and Multi-Modal Temporal Enhanced Network for Gesture Recognition", IEEE Transaction on Image Processing, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9454270). [code](https://github.com/ZitongYu/3DCDC-NAS)
+6. Zitong Yu, Benjia Zhou, Jun Wan, **Pichao Wang**, Haoyu Chen, Xin Liu, Stan Z Li, and Guoying Zhao, "Searching Multi-Rate and Multi-Modal Temporal Enhanced Network for Gesture Recognition", IEEE Transaction on Image Processing, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9454270). [code](https://github.com/ZitongYu/3DCDC-NAS)
 
-5. Xiangyu Li, Yonghong Hou, **Pichao Wang**@, Zhimin Gao, Mingliang Xu, and Wanqing Li,（@ Corresponding author), "Trear: Tranformer-based RGB-D Egocentric Action Recognition", IEEE Transactions on Cognitive and Developmental System, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9312201)
+7. Xiangyu Li, Yonghong Hou, **Pichao Wang**@, Zhimin Gao, Mingliang Xu, and Wanqing Li,（@ Corresponding author), "Trear: Tranformer-based RGB-D Egocentric Action Recognition", IEEE Transactions on Cognitive and Developmental System, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9312201)
 
-6. Chang Tang, Xinwang Liu, Shan An, and **Pichao Wang**, "BR2NET: Defocus Blur Detection via Bidirectional Channel Attention Residual Refining Network", IEEE Transactions on Multimedia, 2020. [paper](https://ieeexplore.ieee.org/abstract/document/9057632)
+8. Chang Tang, Xinwang Liu, Shan An, and **Pichao Wang**, "BR2NET: Defocus Blur Detection via Bidirectional Channel Attention Residual Refining Network", IEEE Transactions on Multimedia, 2020. [paper](https://ieeexplore.ieee.org/abstract/document/9057632)
 
-7. Chang Tang, Xinwang Liu, **Pichao Wang**, Changqing Zhang, Miaomiao Li and Lizhe Wang,“Adaptive Hypergraph Embedded Semi-supervised Multi-label Image Annotation”
+9. Chang Tang, Xinwang Liu, **Pichao Wang**, Changqing Zhang, Miaomiao Li and Lizhe Wang,“Adaptive Hypergraph Embedded Semi-supervised Multi-label Image Annotation”
  IEEE Transactions on Multimedia, 2019. [paper](https://ieeexplore.ieee.org/abstract/document/8684404)
  
-8. Chang Tang, Xinzhong Zhu, Xinwang Liu, Miaomiao Li, **Pichao Wang**, Changqing Zhang and Lizhe Wang, “Learning Joint Affinity Graph for Multi-view Subspace Clustering”, IEEE Transactions on Multimedia, 2019. [paper](https://ieeexplore.ieee.org/abstract/document/8587193)
+10. Chang Tang, Xinzhong Zhu, Xinwang Liu, Miaomiao Li, **Pichao Wang**, Changqing Zhang and Lizhe Wang, “Learning Joint Affinity Graph for Multi-view Subspace Clustering”, IEEE Transactions on Multimedia, 2019. [paper](https://ieeexplore.ieee.org/abstract/document/8587193)
 
-9. Chuankun Li, Yonghong Hou, **Pichao Wang**@, and Wanqing Li, (@Corresponding author), "Multi-view Based 3D Action Recognition Using Deep Networks",
+11. Chuankun Li, Yonghong Hou, **Pichao Wang**@, and Wanqing Li, (@Corresponding author), "Multi-view Based 3D Action Recognition Using Deep Networks",
 IEEE Transactions on Human Machine Systems, 2018. [paper](https://ieeexplore.ieee.org/abstract/document/8584131)
 
-10. Chang Tang, Wanqing Li, **Pichao Wang**@, and Lizhe Wang, (@ Corresponding author), "Online Human Action Recognition Based on Incremental Learning of Weighted Covariance Descriptors", Information Sciences, 2018. [code](https://1drv.ms/u/s!AtC_QqTZiFdKbDIpUNbMdaIkF_8?e=fkWaq0)
+12. Chang Tang, Wanqing Li, **Pichao Wang**@, and Lizhe Wang, (@ Corresponding author), "Online Human Action Recognition Based on Incremental Learning of Weighted Covariance Descriptors", Information Sciences, 2018. [code](https://1drv.ms/u/s!AtC_QqTZiFdKbDIpUNbMdaIkF_8?e=fkWaq0)
 
-11. **Pichao Wang**, Wanqing Li, Philip Ogunbona, Jun Wan and Sergio Escalera, "RGB-D-based Human Motion Recognition with Deep Learning: A Survey ", Computer Vision and Image Understanding, 2018.
+13. **Pichao Wang**, Wanqing Li, Philip Ogunbona, Jun Wan and Sergio Escalera, "RGB-D-based Human Motion Recognition with Deep Learning: A Survey ", Computer Vision and Image Understanding, 2018.
 
-12. **Pichao Wang**, Wanqing Li, Zhimin Gao, Chang Tang, and Philip Ogunbona, "Depth  Pooling Based Large-scale 3D Action Recognition with Deep Convolutional Neural Networks", IEEE Transactions on Multimedia, 2018. [paper](https://sites.google.com/site/pichaossites/resources/TMM.pdf?attredirects=0&d=1). [code](https://www.dropbox.com/s/zshzeyphaiuc3bw/Codes4Iso.zip?dl=0) 
+14. **Pichao Wang**, Wanqing Li, Zhimin Gao, Chang Tang, and Philip Ogunbona, "Depth  Pooling Based Large-scale 3D Action Recognition with Deep Convolutional Neural Networks", IEEE Transactions on Multimedia, 2018. [paper](https://sites.google.com/site/pichaossites/resources/TMM.pdf?attredirects=0&d=1). [code](https://www.dropbox.com/s/zshzeyphaiuc3bw/Codes4Iso.zip?dl=0) 
 
-13. **Pichao Wang**, Wanqing Li, Chuankun Li, and Yonghong Hou, "Action Recognition Based on Joint Trajectory Maps with Convolutional Neural Networks",
+15. **Pichao Wang**, Wanqing Li, Chuankun Li, and Yonghong Hou, "Action Recognition Based on Joint Trajectory Maps with Convolutional Neural Networks",
 Knowledge-Based Systems,2018. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705118302582). [code](https://sites.google.com/site/pichaossites/resources/JTM-rotate-ntu.zip?attredirects=0&d=1)
 
-14. Yonghong Hou, Zhaoyang Li,  **Pichao Wang**@ and Wanqing Li, (@ Corresponding author), "Skeleton Optical Spectra Based Action Recognition Using Convolutional Neural Networks", IEEE Transactions on Circuits and Systems for Video Technology, 2016. [code](https://sites.google.com/site/pichaossites/resources/SOScodes.rar?attredirects=0&d=1)
+16. Yonghong Hou, Zhaoyang Li,  **Pichao Wang**@ and Wanqing Li, (@ Corresponding author), "Skeleton Optical Spectra Based Action Recognition Using Convolutional Neural Networks", IEEE Transactions on Circuits and Systems for Video Technology, 2016. [code](https://sites.google.com/site/pichaossites/resources/SOScodes.rar?attredirects=0&d=1)
 
-15. Jing Zhang, Wanqing Li, Philip Ogunbona, **Pichao Wang** and Chang Tang, "RGB-D based Action Recognition Datasets: A Survey", Pattern Recognition, 2016.
+17. Jing Zhang, Wanqing Li, Philip Ogunbona, **Pichao Wang** and Chang Tang, "RGB-D based Action Recognition Datasets: A Survey", Pattern Recognition, 2016.
 
-16. **Pichao Wang**, Wanqing Li, Zhimin Gao, Jing Zhang,  Chang Tang, and Philip Ogunbona, "Action Recognition from Depth Maps Using Deep Convolutional Neural Networks", IEEE Transactions on Human Machine Systems, 2016. [code](https://sites.google.com/site/pichaossites/resources/THMS.zip?attredirects=0&d=1)
+18. **Pichao Wang**, Wanqing Li, Zhimin Gao, Jing Zhang,  Chang Tang, and Philip Ogunbona, "Action Recognition from Depth Maps Using Deep Convolutional Neural Networks", IEEE Transactions on Human Machine Systems, 2016. [code](https://sites.google.com/site/pichaossites/resources/THMS.zip?attredirects=0&d=1)
 
  
 
