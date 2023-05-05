@@ -137,7 +137,7 @@ Action Recognition from RGB-D Data. The University of  Wollongong, 2017. (Best P
 
 ### Journal Articles (selected papers, [full paper list](https://scholar.google.com/citations?user=QozdnnoAAAAJ&hl=en))
 
-1. Jingkai Zhou, **Pichao Wang**@, Jiasheng Tang, Fan Wang, Qiong Liu, Hao Li, Rong Jin,(@project lead), "ELSA: Enhanced Local Self-Attention for Vision Transformer", IJCV 2023. [paper](https://arxiv.org/pdf/2112.12786.pdf). [code](https://github.com/damo-cv/ELSA)
+1. Jingkai Zhou, **Pichao Wang**@, Jiasheng Tang, Fan Wang, Qiong Liu, Hao Li, Rong Jin,(@project lead), "What limits the performance of local self-attention?", IJCV 2023. [paper](https://arxiv.org/pdf/2112.12786.pdf). [code](https://github.com/damo-cv/ELSA)
 
 2. Benjia Zhou, **Pichao Wang**@, Jun Wan, Liangliang Yan, and Fan Wang, (@corresponding auther), "A Unified Multimodal De-and Re-coupling Framework for RGB-D Motion Recognition", IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023. [paper](https://arxiv.org/pdf/2211.09146.pdf) [code](https://github.com/zhoubenjia/MotionRGBD-PAMI)
 
