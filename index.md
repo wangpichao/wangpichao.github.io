@@ -190,27 +190,28 @@ Knowledge-Based Systems,2018. [paper](https://www.sciencedirect.com/science/arti
 3. Area Chair, ICME, 2021,2022: Area Chair for Multimedia Analysis and Understanding (main area)
 
 ### Selected Invited Journal Reviewer: 
-1. IEEE Transactions on Image Processing (since 2016)
-2. IEEE Transactions on Circuits and Systems for Video Technology (since 2016)
-3. IEEE Transactions on Cybernetics (since 2017)
-4. IEEE Transactions on Neural Networks and Learning Systems (since 2018)
-5. IEEE Transactions on Industrial Information (since 2018)
-6. IEEE Transactions on Audio, Speech and Language Processing (since 2018) 
-7. IEEE Transactions on Multimedia (since 2019)
-8. ACM Transactions on Interactive Intelligent Systems (since 2019)
-9. ACM Transactions on Multimedia Computing, Communications and Applications (since 2019)
-10. Pattern Recognition (since 2017)
+1. IEEE Transactions on Pattern Analysis and Machine Intelligence
+2. IEEE Transactions on Image Processing
+3. IEEE Transactions on Circuits and Systems for Video Technology
+4. IEEE Transactions on Cybernetics
+5. IEEE Transactions on Neural Networks and Learning Systems
+6. IEEE Transactions on Industrial Information
+7. IEEE Transactions on Audio, Speech and Language Processing
+8. IEEE Transactions on Multimedia
+9. ACM Transactions on Interactive Intelligent Systems
+10. ACM Transactions on Multimedia Computing, Communications and Applications
+
 
 ### Conference Technical Program Committee Member:
-1. ICCV2017,2019,2021
-2. CVPR2018,2019,2020,2021,2022
+1. ICCV2017,2019,2021,2023
+2. CVPR2018,2019,2020,2021,2022,2023
 3. ICME2018,2019,2020,2021,2022
 4. IJCAI2018,2019,2020,2021
 5. ACCV2018,2020
 6. WACV2019,2020,2021
-7. AAAI2019,2020,2021
+7. AAAI2019,2020,2021,2022
 8. ECCV2020,2022
-9. NIPS2020,2021
+9. NIPS2020,2021,2022,2023
 10. ICML2021,2022
 11. ICLR2022
 
