@@ -15,7 +15,7 @@ I am recruiting Research Interns (PhD or excellent master candidates) to join my
 
 ## Recent News
 
-1. 2023-07: One paper about vision transformer was accepted by **ICCV 2023***
+1. 2023-07: One paper about vision transformer was accepted by **ICCV 2023**
 2. 2023-07: One paper about text-to-video retrieval was accepted by **ICCV 2023**
 3. 2023-05: One paper about vision transformer was accepted by **IJCV**
 4. 2023-04: One paper about RGB+D action recognition was accepted by **TPAMI**
