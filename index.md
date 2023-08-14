@@ -92,9 +92,9 @@ Action Recognition from RGB-D Data. The University of  Wollongong, 2017. (Best P
 
 1. Yujun Ma, Benjia Zhou, Ruili Wang, **Pichao WANG**, "Multi-stage Factorized Spatio-Temporal Representation for RGB-D Action and Gesture Recognition", ACM MM 2023.
 
-2. Shuning Chang, **Pichao Wang**, Hao Luo, Fan Wang, and Mike Zheng Shou, "Revisiting Vision Transformer from the View of Path Ensemble", ICCV 2023.
+2. Shuning Chang, **Pichao Wang**, Hao Luo, Fan Wang, and Mike Zheng Shou, "Revisiting Vision Transformer from the View of Path Ensemble",  ***Oral***, ICCV 2023.
    
-3.  Sarah Ibrahimi, Xiaohang Sun, **Pichao Wang**, Amanmeet Garg, Ashutosh Sanan, Mohamed Omar, "Audio-Enhanced Text-to-Video Retrieval using Text-Conditioned Feature Alignment", ICCV 2023.
+3.  Sarah Ibrahimi, Xiaohang Sun, **Pichao Wang**, Amanmeet Garg, Ashutosh Sanan, Mohamed Omar, "Audio-Enhanced Text-to-Video Retrieval using Text-Conditioned Feature Alignment",  ***Oral***, ICCV 2023.
    
 4. *Shuning Chang*, **Pichao Wang**, Ming Lin, Fan Wang, David Junhao Zhang, Rong Jin and Mike Zheng Shou,(first two authors make equal contributions), "Making Vision Transformers Efficient from A Token Sparsification View", CVPR 2023. [paper](https://arxiv.org/pdf/2303.08685.pdf)  [code](https://github.com/changsn/STViT-R)
 
