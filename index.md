@@ -15,34 +15,35 @@ I am recruiting Research Interns (PhD or excellent master candidates) to join my
 
 ## Recent News
 
-1. 2023-07: One paper about RGB-D action recognition was accepted by **ACM MM 2023**
-2. 2023-07: One paper about vision transformer was accepted by **ICCV 2023**
-3. 2023-07: One paper about text-to-video retrieval was accepted by **ICCV 2023**
-4. 2023-05: One paper about vision transformer was accepted by **IJCV**
-5. 2023-04: One paper about RGB+D action recognition was accepted by **TPAMI**
-6. 2023-04: One paper about 3D pose estimation was accepted by **Pattern Recognition**
-7. 2023-02: One paper about efficient vision transformer was accepted by **CVPR2023**
-8. 2023-02: One paper about long form video understanding was accepted by **CVPR2023**
-9. 2023-02: One paper about 3D pose estimation was accepted by **CVPR2023**
-10. 2022-12: Our TIP'21 paper received the IEEE Finland SP/CAS Best Paper Award
-11. 2022-11: One paper about Semantic Segmentation was accepted by **AAAI2023**
-12. 2022-11: One paper about Neural Style Transfer was accepted by **AAAI2023**
-13. 2022-09: One paper about skeleton action recognition was accepted by **ACCV 2022**
-14. 2022-09: One paper about vision transformer compression was accepted by **NeurIPS 2022**
-15. 2022-07: One paper about vision transformer was accepted by **ECCV 2022**
-16. 2022-07: One paper about unsupervised semantic segmentation was accepted by **ECCV 2022**
-17. 2022-06: **Best Student Paper Award** in **CVPR 2022**.
-18. 2022-03: One paper about 3D human pose estimation was accepted by **CVPR 2022**.
-19. 2022-03: One paper about 3D object detection was accepted by **CVPR 2022**.
-20. 2022-03: One paper about RGB+D motion recognition was accepted by **CVPR 2022**.
-21. 2022-01: One paper about knowledge distillation was accepted by **ICASSP 2022**.
-22. 2022-01: One paper about unsupervised domain adaption was accepted by **ICLR 2022**.
-23. 2021-12: One paper about pose estimation was accepted by **IEEE TMM**. 
-24. 2021-12: One paper about vision transformer training was accepted by **AAAI 2022**.
-25. 2021-07: One paper about Object ReID was accepted by **ICCV 2021**.
-26. 2021-07: One paper about Zero-Shot NAS was accepted by **ICCV 2021**.
-27. 2021-06: One paper about video object detection was accepted by **IJCV**.
-28. 2021-06: One paper about video object detection was accepted by **IEEE TCSVT**.
+1. 2023-09: One paper about large model finetuning was accepted by **IJCV**
+2. 2023-07: One paper about RGB-D action recognition was accepted by **ACM MM 2023**
+3. 2023-07: One paper about vision transformer was accepted by **ICCV 2023**
+4. 2023-07: One paper about text-to-video retrieval was accepted by **ICCV 2023**
+5. 2023-05: One paper about vision transformer was accepted by **IJCV**
+6. 2023-04: One paper about RGB+D action recognition was accepted by **TPAMI**
+7. 2023-04: One paper about 3D pose estimation was accepted by **Pattern Recognition**
+8. 2023-02: One paper about efficient vision transformer was accepted by **CVPR2023**
+9. 2023-02: One paper about long form video understanding was accepted by **CVPR2023**
+10. 2023-02: One paper about 3D pose estimation was accepted by **CVPR2023**
+11. 2022-12: Our TIP'21 paper received the IEEE Finland SP/CAS Best Paper Award
+12. 2022-11: One paper about Semantic Segmentation was accepted by **AAAI2023**
+13. 2022-11: One paper about Neural Style Transfer was accepted by **AAAI2023**
+14. 2022-09: One paper about skeleton action recognition was accepted by **ACCV 2022**
+15. 2022-09: One paper about vision transformer compression was accepted by **NeurIPS 2022**
+16. 2022-07: One paper about vision transformer was accepted by **ECCV 2022**
+17. 2022-07: One paper about unsupervised semantic segmentation was accepted by **ECCV 2022**
+18. 2022-06: **Best Student Paper Award** in **CVPR 2022**.
+19. 2022-03: One paper about 3D human pose estimation was accepted by **CVPR 2022**.
+20. 2022-03: One paper about 3D object detection was accepted by **CVPR 2022**.
+21. 2022-03: One paper about RGB+D motion recognition was accepted by **CVPR 2022**.
+22. 2022-01: One paper about knowledge distillation was accepted by **ICASSP 2022**.
+23. 2022-01: One paper about unsupervised domain adaption was accepted by **ICLR 2022**.
+24. 2021-12: One paper about pose estimation was accepted by **IEEE TMM**. 
+25. 2021-12: One paper about vision transformer training was accepted by **AAAI 2022**.
+26. 2021-07: One paper about Object ReID was accepted by **ICCV 2021**.
+27. 2021-07: One paper about Zero-Shot NAS was accepted by **ICCV 2021**.
+28. 2021-06: One paper about video object detection was accepted by **IJCV**.
+29. 2021-06: One paper about video object detection was accepted by **IEEE TCSVT**.
 
 
 ## Biography
