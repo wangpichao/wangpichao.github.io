@@ -149,7 +149,7 @@ Action Recognition from RGB-D Data. The University of  Wollongong, 2017. (Best P
 
 1. Henry Hengyuan Zhao,  **Pichao Wang**, Yuyang Zhao, Hao Luo, Fan Wang, Mike Zheng Shou, "SCT: A Simple Baseline for Parameter-Efficient Fine-Tuning via Salient Channels", IJCV, 2023. [paper] (https://arxiv.org/pdf/2309.08513v1.pdf)[code](https://github.com/zhaohengyuan1/SCT)
    
-2. Jingkai Zhou, **Pichao Wang**@, Jiasheng Tang, Fan Wang, Qiong Liu, Hao Li, Rong Jin,(@project lead), "What limits the performance of local self-attention?", IJCV, 2023. [paper](https://arxiv.org/pdf/2112.12786.pdf). [code](https://github.com/damo-cv/ELSA)
+2. Jingkai Zhou, **Pichao Wang**@, Jiasheng Tang, Fan Wang, Qiong Liu, Hao Li, Rong Jin,(@project lead), "What limits the performance of local self-attention?", IJCV, 2023. [paper](https://arxiv.org/pdf/2112.12786.pdf) [code](https://github.com/damo-cv/ELSA)
 
 3. Benjia Zhou, **Pichao Wang**@, Jun Wan, Liangliang Yan, and Fan Wang, (@corresponding auther), "A Unified Multimodal De-and Re-coupling Framework for RGB-D Motion Recognition", IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023. [paper](https://arxiv.org/pdf/2211.09146.pdf) [code](https://github.com/zhoubenjia/MotionRGBD-PAMI)
 
