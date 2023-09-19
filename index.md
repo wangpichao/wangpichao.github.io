@@ -147,9 +147,9 @@ Action Recognition from RGB-D Data. The University of  Wollongong, 2017. (Best P
 
 ### Journal Articles (selected papers, [full paper list](https://scholar.google.com/citations?user=QozdnnoAAAAJ&hl=en))
 
-1. Henry Hengyuan Zhao,  **Pichao Wang**, Yuyang Zhao, Hao Luo, Fan Wang, Mike Zheng Shou, "SCT: A Simple Baseline for Parameter-Efficient Fine-Tuning via Salient Channels", IJCV, 2023. [paper](https://arxiv.org/pdf/2309.08513v1.pdf). [code](https://github.com/zhaohengyuan1/SCT)
+1. Henry Hengyuan Zhao,  **Pichao Wang**, Yuyang Zhao, Hao Luo, Fan Wang, Mike Zheng Shou, "SCT: A Simple Baseline for Parameter-Efficient Fine-Tuning via Salient Channels", International Journal of Computer Vision (IJCV), 2023. [paper](https://arxiv.org/pdf/2309.08513v1.pdf). [code](https://github.com/zhaohengyuan1/SCT)
    
-2. Jingkai Zhou, **Pichao Wang**@, Jiasheng Tang, Fan Wang, Qiong Liu, Hao Li, Rong Jin,(@project lead), "What limits the performance of local self-attention?", IJCV, 2023. [paper](https://arxiv.org/pdf/2112.12786.pdf) [code](https://github.com/damo-cv/ELSA)
+2. Jingkai Zhou, **Pichao Wang**@, Jiasheng Tang, Fan Wang, Qiong Liu, Hao Li, Rong Jin,(@project lead), "What limits the performance of local self-attention?", International Journal of Computer Vision (IJCV), 2023. [paper](https://arxiv.org/pdf/2112.12786.pdf) [code](https://github.com/damo-cv/ELSA)
 
 3. Benjia Zhou, **Pichao Wang**@, Jun Wan, Liangliang Yan, and Fan Wang, (@corresponding auther), "A Unified Multimodal De-and Re-coupling Framework for RGB-D Motion Recognition", IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023. [paper](https://arxiv.org/pdf/2211.09146.pdf) [code](https://github.com/zhoubenjia/MotionRGBD-PAMI)
 
@@ -157,7 +157,7 @@ Action Recognition from RGB-D Data. The University of  Wollongong, 2017. (Best P
 
 5. Wenhao Li, Hong Liu, Runwei Ding, Mengyuan Liu, **Pichao Wang**, and Wenming Yang, "Exploiting Temporal Contexts with Strided Transformer for 3D Human Pose Estimation", IEEE Transactions on Multimedia, 2021. [paper](https://arxiv.org/pdf/2103.14304.pdf). [code](https://github.com/Vegetebird/StridedTransformer-Pose3D)
 
-6. *Liang Han*, **Pichao Wang**, Zhaozheng Yin, Fan Wang, and Hao Li, (first two authors make equal contributions), "Context and Structure Mining Network for Video Object Detection", International Journal of Computer Vision, 2021. [paper](https://link.springer.com/article/10.1007/s11263-021-01507-2)
+6. *Liang Han*, **Pichao Wang**, Zhaozheng Yin, Fan Wang, and Hao Li, (first two authors make equal contributions), "Context and Structure Mining Network for Video Object Detection", International Journal of Computer Vision (IJCV), 2021. [paper](https://link.springer.com/article/10.1007/s11263-021-01507-2)
 
 7. *Liang Han*, **Pichao Wang**, Zhaozheng Yin, Fan Wang, and Hao Li, (first two authors make equal contributions), "Class-aware Feature Aggregation Network for Video Object Detection",
 IEEE Transactions on Circuits and Systems for Video Technology, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9474502)
