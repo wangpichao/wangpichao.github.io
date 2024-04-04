@@ -95,9 +95,9 @@ Action Recognition from RGB-D Data. The University of  Wollongong, 2017. (Best P
 
 ### Conference Papers (selected papers, [full paper list](https://scholar.google.com/citations?user=QozdnnoAAAAJ&hl=en))
 
-1. Jiamian Wang, Guohao Sun, **Pichao Wang**, Dongfang Liu, Sohail Dianat, Majid Rabbani, Raghuveer Rao, Zhiqinag Tao, "Text is MASS: Modelling as Stochasitc Embedding for Text-to-Video Retrieval", CVPR 2024.[paper](https://arxiv.org/pdf/2403.17998.pdf) [code](https://github.com/Jiamian-Wang/T-MASS-text-video-retrieval)
+1. Jiamian Wang, Guohao Sun, **Pichao Wang**, Dongfang Liu, Sohail Dianat, Majid Rabbani, Raghuveer Rao, Zhiqinag Tao, "Text is MASS: Modelling as Stochasitc Embedding for Text-to-Video Retrieval", CVPR 2024 (Highlight).[paper](https://arxiv.org/pdf/2403.17998.pdf) [code](https://github.com/Jiamian-Wang/T-MASS-text-video-retrieval)
    
-2. Wenhao Li, Mengyuan Liu, Hong Liu, **Pichao Wang**, Jialun Cai, and Nicu Sebe, "Hourglass Tokenizer for Efficient Transformer-Based 3D Human Pose Estimation", CVPR 2024. [paper](https://arxiv.org/pdf/2311.12028.pdf) [code](https://github.com/NationalGAILab/HoT)
+2. Wenhao Li, Mengyuan Liu, Hong Liu, **Pichao Wang**, Jialun Cai, and Nicu Sebe, "Hourglass Tokenizer for Efficient Transformer-Based 3D Human Pose Estimation", CVPR 2024 (Highlight). [paper](https://arxiv.org/pdf/2311.12028.pdf) [code](https://github.com/NationalGAILab/HoT)
    
 3. Yujun Ma, Benjia Zhou, Ruili Wang, **Pichao WANG**, "Multi-stage Factorized Spatio-Temporal Representation for RGB-D Action and Gesture Recognition", ACM MM 2023.
 
