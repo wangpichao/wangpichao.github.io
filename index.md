@@ -205,8 +205,8 @@ Knowledge-Based Systems,2018. [paper](https://www.sciencedirect.com/science/arti
 
 ## Academic Activities
 
-### Prize Reviewer/Expert
-1. THE XPLORER PRIZE (科学探索奖) (https://xplorerprize.org/#/index)
+### Prize Reviewer/Expert (评审专家)
+1. THE XPLORER PRIZE (科学探索奖)
 2. Czech Science Foundation
 
 ### Editorial Works:
