@@ -205,6 +205,10 @@ Knowledge-Based Systems,2018. [paper](https://www.sciencedirect.com/science/arti
 
 ## Academic Activities
 
+### Prize Reviewer/Expert
+1. THE XPLORER PRIZE (科学探索奖) (https://xplorerprize.org/#/index)
+2. Czech Science Foundation
+
 ### Editorial Works:
 
 1. Associate Editor, Computer Engineering(<<计算机工程>>, Chinese Journal), 2019-2024
