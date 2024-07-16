@@ -14,7 +14,7 @@ Email: pichaowang@gmail.com   [Goolge Scholar](https://scholar.google.com/citati
 
 ## Recent News
 
-1. 2024-07: One paper about Language Guided Interpretable Image Recognition was accepted by **ACM MM 2024**
+1. 2024-07: One paper about Interpretable Image Recognition was accepted by **ACM MM 2024**
 2. 2024-07: One paper about Camouflaged Instance Segmentation was accepted by **ACM MM 2024**
 3. 2024-02: One paper about text-to-video retreival was accepted by **CVPR2024**
 4. 2024-02: One paper about 3D pose estimation was accepted by **CVPR2024**
