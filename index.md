@@ -61,27 +61,31 @@ Computer Vision · Multimedia · Deep Learning · Image Representation · Video 
 
 ## Selected Awards and Honors
 
-1. Jun.2022, [Best Student Paper Award](https://cvpr2022.thecvf.com/cvpr-2022-paper-awards) @CVPR2022
+1. Apr. 2024, The Tony Stark Award of Prime Video
 
-2. Jan.2022, AI 2000 Most Influential Scholars [certificate](https://github.com/wangpichao/wangpichao.github.io/blob/main/images/miner.png)
+2. Oct. 2023, World’s Top 1% Scientist
 
-3. Oct.2021, World’s Top 2% Scientists
+3. Jun.2022, [Best Student Paper Award](https://cvpr2022.thecvf.com/cvpr-2022-paper-awards) @CVPR2022
 
-4. Jun. 2020, Second Prize, Multiple Object Tracking and Segmentation@CVPR2020 
+4. Jan.2022, AI 2000 Most Influential Scholars [certificate](https://github.com/wangpichao/wangpichao.github.io/blob/main/images/miner.png)
 
-5. May. 2018, EIS Faculty Postgraduate Thesis Award.
+5. Oct.2021, World’s Top 2% Scientists
 
-6. Aug. 2017, Second Prize, Action, Gesture, and Emotion Recognition Workshop and Competitions: Large Scale Multimodal Gesture Recognition and Real versus Fake expressed emotions@ICCV2017
+6. Jun. 2020, Second Prize, Multiple Object Tracking and Segmentation@CVPR2020 
 
-7. Apr. 2017 First Prize (Winner), Large Scale 3D Human Activity Analysis Challenge in Depth Video@ICME2017
+7. May. 2018, EIS Faculty Postgraduate Thesis Award.
 
-8. Dec. 2016 Second Prize, Joint Contest on Multimedia Challenges Beyond Visual Analysis@ICPR2016
+8. Aug. 2017, Second Prize, Action, Gesture, and Emotion Recognition Workshop and Competitions: Large Scale Multimodal Gesture Recognition and Real versus Fake expressed emotions@ICCV2017
 
-9. Dec. 2016 Third Prize, Joint Contest on Multimedia Challenges Beyond Visual Analysis@ICPR2016
+9. Apr. 2017 First Prize (Winner), Large Scale 3D Human Activity Analysis Challenge in Depth Video@ICME2017
 
-10. Jan. 2013 Excellent Postgraduate Award
+10. Dec. 2016 Second Prize, Joint Contest on Multimedia Challenges Beyond Visual Analysis@ICPR2016
 
-11. Dec. 2011 Excellent Prize, National Campus CUDA Programming Contest. [certificate](https://sites.google.com/site/pichaossites/resources/img051.jpg?attredirects=0&d=1)
+11. Dec. 2016 Third Prize, Joint Contest on Multimedia Challenges Beyond Visual Analysis@ICPR2016
+
+12. Jan. 2013 Excellent Postgraduate Award
+
+13. Dec. 2011 Excellent Prize, National Campus CUDA Programming Contest. [certificate](https://sites.google.com/site/pichaossites/resources/img051.jpg?attredirects=0&d=1)
 
 
 ## Publications
