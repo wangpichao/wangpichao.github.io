@@ -14,8 +14,8 @@ Email: pichaowang@gmail.com   [Goolge Scholar](https://scholar.google.com/citati
 
 ## Recent News
 
-1. One paper about text-to-video generation was accepted by **NeurIPS 2024**
-2. One paper about diffusion-based text-to-video retrieval was accepted by **NeurIPS 2024**
+1. 2024-09: One paper about text-to-video generation was accepted by **NeurIPS 2024**
+2. 2024-09: One paper about diffusion-based text-to-video retrieval was accepted by **NeurIPS 2024**
 3. 2024-09: One paper about MLLM for video segmentation was accepted by **NeurIPS 2024**
 4. 2024-07: One paper about interpretable image recognition was accepted by **ACM MM 2024**
 5. 2024-07: One paper about camouflaged instance segmentation was accepted by **ACM MM 2024**
