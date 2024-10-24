@@ -280,46 +280,245 @@ Computer Vision · Multimedia · Deep Learning · Image Representation · Video 
 </div>
 
 
+<div style="display: flex; flex-direction: row; align-items: stretch; padding: 15px; border-bottom: 1px solid #ccc; margin-bottom: 20px;">
+    <div style="flex-shrink: 0; margin-right: 15px;">
+        <img src="./images/architecture.png" style="width: 150px; height: 100%; object-fit: cover; border-radius: 8px;" alt="Paper Thumbnail">
+    </div>
+    <div style="flex-grow: 1;">
+        <p style="font-size: 16px; font-weight: bold;">15.Frequency Domain Disentanglement for Arbitrary Neural Style Transfer</p>
+        <p>Dongyang Li, Hao Luo, <strong>Pichao Wang</strong>, Zhibin Wang, Shang Liu, Fan Wang.</p>
+        <p>AAAI 2023</p>
+    </div>
+</div>
 
-15. Dongyang Li, Hao Luo, **Pichao Wang**, Zhibin Wang, Shang Liu, Fan Wang, "Frequency Domain Disentanglement for Arbitrary Neural Style Transfer", AAAI 2023.
+<div style="display: flex; flex-direction: row; align-items: stretch; padding: 15px; border-bottom: 1px solid #ccc; margin-bottom: 20px;">
+    <div style="flex-shrink: 0; margin-right: 15px;">
+        <img src="./images/architecture.png" style="width: 150px; height: 100%; object-fit: cover; border-radius: 8px;" alt="Paper Thumbnail">
+    </div>
+    <div style="flex-grow: 1;">
+        <p style="font-size: 16px; font-weight: bold;">16.VTC-LFC: Vision Transformer Compression with Low-Frequency Components</p>
+        <p>Zhenyu Wang, Hao Luo, <strong>Pichao Wang</strong>, Feng Ding, Fan Wang, Hao Li.</p>
+        <p>NeurIPS 2022</p>
+        <p><a href="https://openreview.net/pdf?id=HuiLIB6EaOk" target="_blank">Read Paper</a> | <a href="https://github.com/Daner-Wang/VTC-LFC" target="_blank">Code</a></p>
+    </div>
+</div>
 
-16. Zhenyu Wang, Hao Luo, **Pichao Wang**, Feng Ding, Fan Wang, Hao Li, "VTC-LFC: Vision Transformer Compression with Low-Frequency Components", NeurIPS 2022.[paper](https://openreview.net/pdf?id=HuiLIB6EaOk) [code](https://github.com/Daner-Wang/VTC-LFC)
+<div style="display: flex; flex-direction: row; align-items: stretch; padding: 15px; border-bottom: 1px solid #ccc; margin-bottom: 20px;">
+    <div style="flex-shrink: 0; margin-right: 15px;">
+        <img src="./images/architecture.png" style="width: 150px; height: 100%; object-fit: cover; border-radius: 8px;" alt="Paper Thumbnail">
+    </div>
+    <div style="flex-grow: 1;">
+        <p style="font-size: 16px; font-weight: bold;">17.KVT: k-NN Attention for Boosting Vision Transformers</p>
+        <p><strong>Pichao Wang</strong>, *Xue Wang*, Fan Wang, Ming Lin, Shuning Chang, Hao Li, Rong Jin. (first two authors make equal contributions)</p>
+        <p>ECCV 2022</p>
+        <p><a href="https://arxiv.org/pdf/2106.00515.pdf" target="_blank">Read Paper</a> | <a href="https://github.com/damo-cv/KVT" target="_blank">Code</a></p>
+    </div>
+</div>
 
-17. **Pichao Wang**, *Xue Wang*, Fan Wang, Ming Lin, Shuning Chang, Hao Li, Rong Jin, (first two authors make equal contributions), "KVT: k-NN Attention for Boosting Vision Transformers", ECCV 2022. [paper](https://arxiv.org/pdf/2106.00515.pdf). [code](https://github.com/damo-cv/KVT)
+<div style="display: flex; flex-direction: row; align-items: stretch; padding: 15px; border-bottom: 1px solid #ccc; margin-bottom: 20px;">
+    <div style="flex-shrink: 0; margin-right: 15px;">
+        <img src="./images/architecture.png" style="width: 150px; height: 100%; object-fit: cover; border-radius: 8px;" alt="Paper Thumbnail">
+    </div>
+    <div style="flex-grow: 1;">
+        <p style="font-size: 16px; font-weight: bold;">18.TransFGU: A Top-down Approach to Fine-Grained Unsupervised Semantic Segmentation</p>
+        <p>Zhaoyuan Yin, <strong>Pichao Wang</strong>, Fan Wang, Xianzhe Xu, Hanling Zhang, Hao Li, Rong Jin. (@ Corresponding author)</p>
+        <p>ECCV 2022 <strong>Oral</strong> (2.7% of submitted papers)</p>
+        <p><a href="https://arxiv.org/pdf/2112.01515.pdf" target="_blank">Read Paper</a> | <a href="https://github.com/damo-cv/TransFGU" target="_blank">Code</a></p>
+    </div>
+</div>
 
-18. Zhaoyuan Yin, **Pichao Wang**@, Fan Wang, Xianzhe Xu, Hanling Zhang, Hao Li, Rong Jin,(@ Corresponding author), "TransFGU: A Top-down Approach to Fine-Grained Unsupervised Semantic Segmentation", ECCV 2022, ***Oral***(2.7% of submitted papers) [paper](https://arxiv.org/pdf/2112.01515.pdf). [code](https://github.com/damo-cv/TransFGU)
+<div style="display: flex; flex-direction: row; align-items: stretch; padding: 15px; border-bottom: 1px solid #ccc; margin-bottom: 20px;">
+    <div style="flex-shrink: 0; margin-right: 15px;">
+        <img src="./images/architecture.png" style="width: 150px; height: 100%; object-fit: cover; border-radius: 8px;" alt="Paper Thumbnail">
+    </div>
+    <div style="flex-grow: 1;">
+        <p style="font-size: 16px; font-weight: bold;">19.Decoupling and Recoupling Spatiotemporal Representation for RGB-D-based Motion Recognition</p>
+        <p>Benjia Zhou, <strong>Pichao Wang</strong>, Jun Wan, Yanyan Liang, Fan Wang, Du Zhang, Zhen Lei, Hao Li, Rong Jin. (@ Corresponding author)</p>
+        <p>CVPR 2022</p>
+        <p><a href="https://arxiv.org/pdf/2112.09129.pdf" target="_blank">Read Paper</a> | <a href="https://github.com/damo-cv/MotionRGBD" target="_blank">Code</a></p>
+    </div>
+</div>
 
-19. Benjia Zhou, **Pichao Wang**@, Jun Wan, Yanyan Liang, Fan Wang, Du Zhang, Zhen Lei, Hao Li, Rong Jin, (@ Corresponding author), "Decoupling and Recoupling Spatiotemporal Representation for RGB-D-based Motion Recognition", CVPR 2022. [paper](https://arxiv.org/pdf/2112.09129.pdf). [code](https://github.com/damo-cv/MotionRGBD)
+<div style="display: flex; flex-direction: row; align-items: stretch; padding: 15px; border-bottom: 1px solid #ccc; margin-bottom: 20px;">
+    <div style="flex-shrink: 0; margin-right: 15px;">
+        <img src="./images/architecture.png" style="width: 150px; height: 100%; object-fit: cover; border-radius: 8px;" alt="Paper Thumbnail">
+    </div>
+    <div style="flex-grow: 1;">
+        <p style="font-size: 16px; font-weight: bold;">20.EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation</p>
+        <p>Hansheng Chen, <strong>Pichao Wang</strong>, Fan Wang, Wei Tian, Lu Xiong, Hao Li. (@ Corresponding author)</p>
+        <p>CVPR 2022 <strong>Best Student Paper Award</strong></p>
+        <p><a href="https://arxiv.org/pdf/2203.13254.pdf" target="_blank">Read Paper</a> | <a href="https://github.com/tjiiv-cprg/EPro-PnP" target="_blank">Code</a></p>
+    </div>
+</div>
 
-20. Hansheng Chen, **Pichao Wang**@, Fan Wang, Wei Tian, Lu Xiong, Hao Li, (@ Corresponding author), "EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation", CVPR 2022, ***Best Student Paper Award***. [paper](https://arxiv.org/pdf/2203.13254.pdf) [code](https://github.com/tjiiv-cprg/EPro-PnP)
+<div style="display: flex; flex-direction: row; align-items: stretch; padding: 15px; border-bottom: 1px solid #ccc; margin-bottom: 20px;">
+    <div style="flex-shrink: 0; margin-right: 15px;">
+        <img src="./images/architecture.png" style="width: 150px; height: 100%; object-fit: cover; border-radius: 8px;" alt="Paper Thumbnail">
+    </div>
+    <div style="flex-grow: 1;">
+        <p style="font-size: 16px; font-weight: bold;">21.MHFormer: Multi-Hypothesis Transformer for 3D Human Pose Estimation</p>
+        <p>Wenhao Li, Hong Liu, Hao Tang, <strong>Pichao Wang</strong>, Luc Van Gool.</p>
+        <p>CVPR 2022</p>
+        <p><a href="https://arxiv.org/pdf/2111.12707.pdf" target="_blank">Read Paper</a> | <a href="https://github.com/Vegetebird/MHFormer" target="_blank">Code</a></p>
+    </div>
+</div>
 
-21. Wenhao Li, Hong Liu, Hao Tang, **Pichao Wang**, Luc Van Gool, "MHFormer: Multi-Hypothesis Transformer for 3D Human Pose Estimation", CVPR 2022. [paper](https://arxiv.org/pdf/2111.12707.pdf). [code](https://github.com/Vegetebird/MHFormer)
+<div style="display: flex; flex-direction: row; align-items: stretch; padding: 15px; border-bottom: 1px solid #ccc; margin-bottom: 20px;">
+    <div style="flex-shrink: 0; margin-right: 15px;">
+        <img src="./images/architecture.png" style="width: 150px; height: 100%; object-fit: cover; border-radius: 8px;" alt="Paper Thumbnail">
+    </div>
+    <div style="flex-grow: 1;">
+        <p style="font-size: 16px; font-weight: bold;">22.Image-to-Video Re-Identification via Mutual Discriminative Knowledge Transfer</p>
+        <p><strong>Pichao Wang</strong>, Fan Wang, Hao Li.</p>
+        <p>ICASSP 2022</p>
+        <p><a href="https://www.researchgate.net/publication/358008989_IMAGE-TO-VIDEO_RE-IDENTIFICATION_VIA_MUTUAL_DISCRIMINATIVE_KNOWLEDGE_TRANSFER" target="_blank">Read Paper</a></p>
+    </div>
+</div>
 
-22. **Pichao Wang**, Fan Wang, Hao Li, "Image-to-Video Re-Identification via Mutual Discriminative Knowledge Transfer", ICASSP 2022. [paper](https://www.researchgate.net/publication/358008989_IMAGE-TO-VIDEO_RE-IDENTIFICATION_VIA_MUTUAL_DISCRIMINATIVE_KNOWLEDGE_TRANSFER)
+<div style="display: flex; flex-direction: row; align-items: stretch; padding: 15px; border-bottom: 1px solid #ccc; margin-bottom: 20px;">
+    <div style="flex-shrink: 0; margin-right: 15px;">
+        <img src="./images/architecture.png" style="width: 150px; height: 100%; object-fit: cover; border-radius: 8px;" alt="Paper Thumbnail">
+    </div>
+    <div style="flex-grow: 1;">
+        <p style="font-size: 16px; font-weight: bold;">23.Cdtrans: Cross-domain Transformer for Unsupervised Domain Adaptation</p>
+        <p>Tongkun Xu, Weihua Chen, <strong>Pichao Wang</strong>, Fan Wang, Hao Li, Rong Jin.</p>
+        <p>ICLR 2022</p>
+        <p><a href="https://arxiv.org/pdf/2109.06165.pdf" target="_blank">Read Paper</a> | <a href="https://github.com/CDTrans/CDTrans" target="_blank">Code</a></p>
+    </div>
+</div>
 
-23. Tongkun Xu, Weihua Chen, **Pichao Wang**, Fan Wang, Hao Li, Rong Jin, "Cdtrans: Cross-domain transformer for unsupervised domain adaptation", ICLR 2022. [paper](https://arxiv.org/pdf/2109.06165.pdf). [code](https://github.com/CDTrans/CDTrans)
+<div style="display: flex; flex-direction: row; align-items: stretch; padding: 15px; border-bottom: 1px solid #ccc; margin-bottom: 20px;">
+    <div style="flex-shrink: 0; margin-right: 15px;">
+        <img src="./images/architecture.png" style="width: 150px; height: 100%; object-fit: cover; border-radius: 8px;" alt="Paper Thumbnail">
+    </div>
+    <div style="flex-grow: 1;">
+        <p style="font-size: 16px; font-weight: bold;">24.Scaled ReLU Matters for Training Vision Transformers</p>
+        <p><strong>Pichao Wang</strong>, *Xue Wang*, Hao Luo, Jingkai Zhou, Zhipeng Zhou, Fan Wang, Hao Li, and Rong Jin. (first two authors make equal contributions)</p>
+        <p>AAAI 2022</p>
+        <p><a href="https://arxiv.org/abs/2109.03810" target="_blank">Read Paper</a> | <a href="https://recorder-v3.slideslive.com/#/share?share=57843&s=123e71d8-018a-41fa-a13f-1f18a969188c" target="_blank">Video</a></p>
+    </div>
+</div>
 
-24. **Pichao Wang**, *Xue Wang*, Hao Luo, Jingkai Zhou, Zhipeng Zhou, Fan Wang, Hao Li, and Rong Jin,(first two authors make equal contributions), "Scaled relu matters for training vision transformers", AAAI 2022. [paper](https://arxiv.org/abs/2109.03810). [video](https://recorder-v3.slideslive.com/#/share?share=57843&s=123e71d8-018a-41fa-a13f-1f18a969188c)
+<div style="display: flex; flex-direction: row; align-items: stretch; padding: 15px; border-bottom: 1px solid #ccc; margin-bottom: 20px;">
+    <div style="flex-shrink: 0; margin-right: 15px;">
+        <img src="./images/architecture.png" style="width: 150px; height: 100%; object-fit: cover; border-radius: 8px;" alt="Paper Thumbnail">
+    </div>
+    <div style="flex-grow: 1;">
+        <p style="font-size: 16px; font-weight: bold;">25.TransReid: Transformer-Based Object Re-Identification</p>
+        <p>Shuting He, Hao Luo, <strong>Pichao Wang</strong>, Fan Wang, Hao Li, Wei Jiang.</p>
+        <p>ICCV 2021</p>
+        <p><a href="https://openaccess.thecvf.com/content/ICCV2021/papers/He_TransReID_Transformer-Based_Object_Re-Identification_ICCV_2021_paper.pdf" target="_blank">Read Paper</a> | <a href="https://github.com/damo-cv/TransReID" target="_blank">Code</a></p>
+    </div>
+</div>
 
-25. Shuting He, Hao Luo, **Pichao Wang**, Fan Wang, Hao Li, and Wei Jiang, "TransReid: Transformer-based Object Re-identification",ICCV 2021. [paper](https://openaccess.thecvf.com/content/ICCV2021/papers/He_TransReID_Transformer-Based_Object_Re-Identification_ICCV_2021_paper.pdf). [code](https://github.com/damo-cv/TransReID)
+<div style="display: flex; flex-direction: row; align-items: stretch; padding: 15px; border-bottom: 1px solid #ccc; margin-bottom: 20px;">
+    <div style="flex-shrink: 0; margin-right: 15px;">
+        <img src="./images/architecture.png" style="width: 150px; height: 100%; object-fit: cover; border-radius: 8px;" alt="Paper Thumbnail">
+    </div>
+    <div style="flex-grow: 1;">
+        <p style="font-size: 16px; font-weight: bold;">26.Zen-NAS: A Zero-Shot NAS for High-Performance Deep Image Recognition</p>
+        <p>Min Lin, <strong>Pichao Wang</strong>, Zhenhong Sun, Hesen Chen, Xiuyu Sun, Qi Qian, Hao Li, and Rong Jin.</p>
+        <p>ICCV 2021</p>
+        <p><a href="https://arxiv.org/pdf/2102.01063.pdf" target="_blank">Read Paper</a> | <a href="https://github.com/idstcv/ZenNAS" target="_blank">Code</a></p>
+    </div>
+</div>
 
-26. Min Lin, **Pichao Wang**, Zhenhong Sun, Hesen Chen, Xiuyu Sun, Qi Qian, Hao Li, and Rong Jin, "Zen-NAS: A Zero-Shot NAS for High-Performance Deep Image Recognition", ICCV 2021. [paper](https://arxiv.org/pdf/2102.01063.pdf). [code](https://github.com/idstcv/ZenNAS)
- 
-27. *Liang Han*, **Pichao Wang**, Zhaozheng Yin, Fan Wang, and Hao Li, (*first two authors make equal contributions*) "Exploiting Better Feature Aggregation for Video Object Detection", ACM MM 2020. [paper](https://par.nsf.gov/servlets/purl/10289758)
+<div style="display: flex; flex-direction: row; align-items: stretch; padding: 15px; border-bottom: 1px solid #ccc; margin-bottom: 20px;">
+    <div style="flex-shrink: 0; margin-right: 15px;">
+        <img src="./images/architecture.png" style="width: 150px; height: 100%; object-fit: cover; border-radius: 8px;" alt="Paper Thumbnail">
+    </div>
+    <div style="flex-grow: 1;">
+        <p style="font-size: 16px; font-weight: bold;">27.Exploiting Better Feature Aggregation for Video Object Detection</p>
+        <p>*Liang Han*, <strong>Pichao Wang</strong>, Zhaozheng Yin, Fan Wang, and Hao Li. (first two authors make equal contributions)</p>
+        <p>ACM MM 2020</p>
+        <p><a href="https://par.nsf.gov/servlets/purl/10289758" target="_blank">Read Paper</a></p>
+    </div>
+</div>
 
-28. Chang Tang, Xinwang Liu, Xinzhong Zhu, En Zhu, Kun Sun, **Pichao Wang**, Lizhe Wang and Albert Zomaya, "R2MRF: Defocus Blur Detection via Recurrently Refining Multi-scale Residual Features", AAAI 2020.[paper](https://ojs.aaai.org/index.php/AAAI/article/download/6884/6738). [code](https://github.com/ChangTang/R2MRF)
+<div style="display: flex; flex-direction: row; align-items: stretch; padding: 15px; border-bottom: 1px solid #ccc; margin-bottom: 20px;">
+    <div style="flex-shrink: 0; margin-right: 15px;">
+        <img src="./images/architecture.png" style="width: 150px; height: 100%; object-fit: cover; border-radius: 8px;" alt="Paper Thumbnail">
+    </div>
+    <div style="flex-grow: 1;">
+        <p style="font-size: 16px; font-weight: bold;">28.R2MRF: Defocus Blur Detection via Recurrently Refining Multi-scale Residual Features</p>
+        <p>Chang Tang, Xinwang Liu, Xinzhong Zhu, En Zhu, Kun Sun, <strong>Pichao Wang</strong>, Lizhe Wang, Albert Zomaya.</p>
+        <p>AAAI 2020</p>
+        <p><a href="https://ojs.aaai.org/index.php/AAAI/article/download/6884/6738" target="_blank">Read Paper</a> | <a href="https://github.com/ChangTang/R2MRF" target="_blank">Code</a></p>
+    </div>
+</div>
 
-29. **Pichao Wang**, Wanqing Li, Jun Wan, Philip Ogunbona, and Xinwang Liu, "Cooperative Training of Deep Aggregation Networks for RGB-D Action Recognition", AAAI 2018, ***ORAL*** [paper](https://sites.google.com/site/pichaossites/resources/AAAI2018_action.pdf?attredirects=0&d=1). [code](https://sites.google.com/site/pichaossites/resources/codesAAAI.zip?attredirects=0&d=1)
-  
-30. *Huogen Wang*, **Pichao Wang**, Zhanjie Song, and Wanqing Li, (first two authors make equal contributions) "Large-scale Multimodal Gesture Recognition Using Heterogeneous Networks", ICCV 2017.[paper](https://sites.google.com/site/pichaossites/resources/Heterogeneous.pdf?attredirects=0&d=1). [code](https://github.com/wanghuogen/ConGestureChallenge4ICCV)
-  
-31. *Huogen Wang*, **Pichao Wang**, Zhanjie Song, and Wanqing Li, (first two authors make equal contributions) "Large-scale Multimodal Gesture Segmentation and Recognition based on Convolutional Neural Network", ICCV 2017. [paper](https://sites.google.com/site/pichaossites/resources/CNN_ICCV_2017_paper.pdf?attredirects=0&d=1). [code](https://github.com/wanghuogen/ConGestureChallenge4ICCV-DF)
-  
-32. **Pichao Wang**, Wanqing Li, Zhimin Gao, Yuyao Zhang, Chang Tang, and Philip Ogunbona, "Scene Flow to Action Map: A New Representation for RGB-D Based Action Recognition with Convolutional Neural Networks", CVPR 2017.  [paper](https://arxiv.org/pdf/1702.08652.pdf)
-   
-33. **Pichao Wang**, *Zhaoyang Li*, Yonghong Hou, and Wanqing Li, (first two authors make equal contributions) "Action Recognition Based on Joint Trajectory Maps Using Convolutional Neural Networks", ACM MM 16. [paper](https://sites.google.com/site/pichaossites/resources/p102-wang.pdf?attredirects=0&d=1). [code](https://sites.google.com/site/pichaossites/resources/JTM-rotate-ntu.zip?attredirects=0&d=1)
-  
-34. **Pichao Wang**, Wanqing Li, Zhimin Gao, Chang Tang, Jing Zhang, and Philip Ogunbona,"ConvNets-Based Action Recognition from Depth Maps Through Virtual Cameras and Pseudocoloring", ACM MM 15. [paper](https://sites.google.com/site/pichaossites/resources/ConvNet%20Action%20Recognition.pdf?attredirects=0&d=1). [code](https://sites.google.com/site/pichaossites/resources/THMS.zip?attredirects=0&d=1)
+<div style="display: flex; flex-direction: row; align-items: stretch; padding: 15px; border-bottom: 1px solid #ccc; margin-bottom: 20px;">
+    <div style="flex-shrink: 0; margin-right: 15px;">
+        <img src="./images/architecture.png" style="width: 150px; height: 100%; object-fit: cover; border-radius: 8px;" alt="Paper Thumbnail">
+    </div>
+    <div style="flex-grow: 1;">
+        <p style="font-size: 16px; font-weight: bold;">29.Cooperative Training of Deep Aggregation Networks for RGB-D Action Recognition</p>
+        <p><strong>Pichao Wang</strong>, Wanqing Li, Jun Wan, Philip Ogunbona, Xinwang Liu.</p>
+        <p>AAAI 2018 <strong>ORAL</strong></p>
+        <p><a href="https://sites.google.com/site/pichaossites/resources/AAAI2018_action.pdf?attredirects=0&d=1" target="_blank">Read Paper</a> | <a href="https://sites.google.com/site/pichaossites/resources/codesAAAI.zip?attredirects=0&d=1" target="_blank">Code</a></p>
+    </div>
+</div>
+
+<div style="display: flex; flex-direction: row; align-items: stretch; padding: 15px; border-bottom: 1px solid #ccc; margin-bottom: 20px;">
+    <div style="flex-shrink: 0; margin-right: 15px;">
+        <img src="./images/architecture.png" style="width: 150px; height: 100%; object-fit: cover; border-radius: 8px;" alt="Paper Thumbnail">
+    </div>
+    <div style="flex-grow: 1;">
+        <p style="font-size: 16px; font-weight: bold;">30.Large-scale Multimodal Gesture Recognition Using Heterogeneous Networks</p>
+        <p><em>Huogen Wang</em>, <strong>Pichao Wang</strong>, Zhanjie Song, Wanqing Li. (first two authors make equal contributions)</p>
+        <p>ICCV 2017</p>
+        <p><a href="https://sites.google.com/site/pichaossites/resources/Heterogeneous.pdf?attredirects=0&d=1" target="_blank">Read Paper</a> | <a href="https://github.com/wanghuogen/ConGestureChallenge4ICCV" target="_blank">Code</a></p>
+    </div>
+</div>
+
+<div style="display: flex; flex-direction: row; align-items: stretch; padding: 15px; border-bottom: 1px solid #ccc; margin-bottom: 20px;">
+    <div style="flex-shrink: 0; margin-right: 15px;">
+        <img src="./images/architecture.png" style="width: 150px; height: 100%; object-fit: cover; border-radius: 8px;" alt="Paper Thumbnail">
+    </div>
+    <div style="flex-grow: 1;">
+        <p style="font-size: 16px; font-weight: bold;">31.Large-scale Multimodal Gesture Segmentation and Recognition Based on Convolutional Neural Network</p>
+        <p><em>Huogen Wang</em>, <strong>Pichao Wang</strong>, Zhanjie Song, Wanqing Li. (first two authors make equal contributions)</p>
+        <p>ICCV 2017</p>
+        <p><a href="https://sites.google.com/site/pichaossites/resources/CNN_ICCV_2017_paper.pdf?attredirects=0&d=1" target="_blank">Read Paper</a> | <a href="https://github.com/wanghuogen/ConGestureChallenge4ICCV-DF" target="_blank">Code</a></p>
+    </div>
+</div>
+
+<div style="display: flex; flex-direction: row; align-items: stretch; padding: 15px; border-bottom: 1px solid #ccc; margin-bottom: 20px;">
+    <div style="flex-shrink: 0; margin-right: 15px;">
+        <img src="./images/architecture.png" style="width: 150px; height: 100%; object-fit: cover; border-radius: 8px;" alt="Paper Thumbnail">
+    </div>
+    <div style="flex-grow: 1;">
+        <p style="font-size: 16px; font-weight: bold;">32.Scene Flow to Action Map: A New Representation for RGB-D Based Action Recognition with Convolutional Neural Networks</p>
+        <p><strong>Pichao Wang</strong>, Wanqing Li, Zhimin Gao, Yuyao Zhang, Chang Tang, Philip Ogunbona.</p>
+        <p>CVPR 2017</p>
+        <p><a href="https://arxiv.org/pdf/1702.08652.pdf" target="_blank">Read Paper</a></p>
+    </div>
+</div>
+
+<div style="display: flex; flex-direction: row; align-items: stretch; padding: 15px; border-bottom: 1px solid #ccc; margin-bottom: 20px;">
+    <div style="flex-shrink: 0; margin-right: 15px;">
+        <img src="./images/architecture.png" style="width: 150px; height: 100%; object-fit: cover; border-radius: 8px;" alt="Paper Thumbnail">
+    </div>
+    <div style="flex-grow: 1;">
+        <p style="font-size: 16px; font-weight: bold;">33.Action Recognition Based on Joint Trajectory Maps Using Convolutional Neural Networks</p>
+        <p><strong>Pichao Wang</strong>, <em>Zhaoyang Li</em>, Yonghong Hou, Wanqing Li. (first two authors make equal contributions)</p>
+        <p>ACM MM 16</p>
+        <p><a href="https://sites.google.com/site/pichaossites/resources/p102-wang.pdf?attredirects=0&d=1" target="_blank">Read Paper</a> | <a href="https://sites.google.com/site/pichaossites/resources/JTM-rotate-ntu.zip?attredirects=0&d=1" target="_blank">Code</a></p>
+    </div>
+</div>
+
+<div style="display: flex; flex-direction: row; align-items: stretch; padding: 15px; border-bottom: 1px solid #ccc; margin-bottom: 20px;">
+    <div style="flex-shrink: 0; margin-right: 15px;">
+        <img src="./images/architecture.png" style="width: 150px; height: 100%; object-fit: cover; border-radius: 8px;" alt="Paper Thumbnail">
+    </div>
+    <div style="flex-grow: 1;">
+        <p style="font-size: 16px; font-weight: bold;">34.ConvNets-Based Action Recognition from Depth Maps Through Virtual Cameras and Pseudocoloring</p>
+        <p><strong>Pichao Wang</strong>, Wanqing Li, Zhimin Gao, Chang Tang, Jing Zhang, Philip Ogunbona.</p>
+        <p>ACM MM 15</p>
+        <p><a href="https://sites.google.com/site/pichaossites/resources/ConvNet%20Action%20Recognition.pdf?attredirects=0&d=1" target="_blank">Read Paper</a> | <a href="https://sites.google.com/site/pichaossites/resources/THMS.zip?attredirects=0&d=1" target="_blank">Code</a></p>
+    </div>
+</div>
+
 
 ### Journal Articles (selected papers, [full paper list](https://scholar.google.com/citations?user=QozdnnoAAAAJ&hl=en))
 
