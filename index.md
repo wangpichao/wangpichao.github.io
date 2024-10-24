@@ -112,7 +112,8 @@ Computer Vision · Multimedia · Deep Learning · Image Representation · Video 
         <img src="./images/architecture.png" style="width: 150px; height: 100%; object-fit: cover; border-radius: 8px;" alt="Paper Thumbnail">
     </div>
     <div style="flex-grow: 1;">
-        <p style="font-size: 16px; font-weight: bold;">1. Hao Luo, <span style="font-weight: bold;">Pichao Wang</span>, Yi Xu, Feng Ding, Yanxin Zhou, Fan Wang, Hao Li, Rong Jin, "Self-Supervised Pre-Training for Transformer-Based Person Re-Identification", arXiv 2021.</p>
+        <p style="font-size: 16px; font-weight: bold;">Self-Supervised Pre-Training for Transformer-Based Person Re-Identification</p>
+        <p>Hao Luo, <strong>Pichao Wang</strong>, Yi Xu, Feng Ding, Yanxin Zhou, Fan Wang, Hao Li, Rong Jin. arXiv 2021.</p>
         <p><a href="https://arxiv.org/pdf/2111.12084.pdf" target="_blank">Read Paper</a> | <a href="https://github.com/damo-cv/TransReID-SSL" target="_blank">Code</a></p>
     </div>
 </div>
@@ -124,7 +125,8 @@ Computer Vision · Multimedia · Deep Learning · Image Representation · Video 
         <img src="./images/architecture.png" style="width: 150px; height: 100%; object-fit: cover; border-radius: 8px;" alt="Paper Thumbnail">
     </div>
     <div style="flex-grow: 1;">
-        <p style="font-size: 16px; font-weight: bold;">2. Penghui Ruan, <span style="font-weight: bold;">Pichao Wang</span>, Divya Saxena, Jiannong Cao, Yuhui Shi, "Enhancing Motion in Text-to-Video Generation with Decomposed Encoding and Conditioning", NeurIPS 2024.</p>
+        <p style="font-size: 16px; font-weight: bold;">1.Enhancing Motion in Text-to-Video Generation with Decomposed Encoding and Conditioning</p>
+        <p>Penghui Ruan, <strong>Pichao Wang</strong>, Divya Saxena, Jiannong Cao, Yuhui Shi. NeurIPS 2024.</p>
     </div>
 </div>
 
@@ -133,7 +135,8 @@ Computer Vision · Multimedia · Deep Learning · Image Representation · Video 
         <img src="./images/architecture.png" style="width: 150px; height: 100%; object-fit: cover; border-radius: 8px;" alt="Paper Thumbnail">
     </div>
     <div style="flex-grow: 1;">
-        <p style="font-size: 16px; font-weight: bold;">3. Jiamian Wang, <span style="font-weight: bold;">Pichao Wang</span>, Dongfang Liu, Qiang Guan, Sohail Dianat, Majid Rabbani, Raghuveer Rao, Zhiqiang Tao, "Diffusion-Inspired Truncated Sampler for Text-Video Retrieval", NeurIPS 2024.</p>
+        <p style="font-size: 16px; font-weight: bold;">2.Diffusion-Inspired Truncated Sampler for Text-Video Retrieval</p>
+        <p>Jiamian Wang, <strong>Pichao Wang</strong>, Dongfang Liu, Qiang Guan, Sohail Dianat, Majid Rabbani, Raghuveer Rao, Zhiqiang Tao. NeurIPS 2024.</p>
     </div>
 </div>
 
@@ -142,7 +145,8 @@ Computer Vision · Multimedia · Deep Learning · Image Representation · Video 
         <img src="./images/architecture.png" style="width: 150px; height: 100%; object-fit: cover; border-radius: 8px;" alt="Paper Thumbnail">
     </div>
     <div style="flex-grow: 1;">
-        <p style="font-size: 16px; font-weight: bold;">4. Zechen Bai, Tong He, Haiyang Mei, <span style="font-weight: bold;">Pichao Wang</span>, Ziteng Gao, Joya Chen, Lei Liu, Zheng Zhang, Mike Zheng Shou, "One Token to Seg Them All: Language Instructed Reasoning Segmentation in Videos", NeurIPS 2024.</p>
+        <p style="font-size: 16px; font-weight: bold;">3.One Token to Seg Them All: Language Instructed Reasoning Segmentation in Videos</p>
+        <p>Zechen Bai, Tong He, Haiyang Mei, <strong>Pichao Wang</strong>, Ziteng Gao, Joya Chen, Lei Liu, Zheng Zhang, Mike Zheng Shou. NeurIPS 2024.</p>
     </div>
 </div>
 
@@ -151,7 +155,8 @@ Computer Vision · Multimedia · Deep Learning · Image Representation · Video 
         <img src="./images/architecture.png" style="width: 150px; height: 100%; object-fit: cover; border-radius: 8px;" alt="Paper Thumbnail">
     </div>
     <div style="flex-grow: 1;">
-        <p style="font-size: 16px; font-weight: bold;">5. Jiaqi Wang, <span style="font-weight: bold;">Pichao Wang</span>, Yi Feng, Huafeng Liu, Chang Gao, Liping Jing, “Align2Concept: Language Guided Interpretable Image Recognition by Visual Prototype and Textural Concept Alignment”, ACM MM 2024.</p>
+        <p style="font-size: 16px; font-weight: bold;">4.Align2Concept: Language Guided Interpretable Image Recognition by Visual Prototype and Textural Concept Alignment</p>
+        <p>Jiaqi Wang, <strong>Pichao Wang</strong>, Yi Feng, Huafeng Liu, Chang Gao, Liping Jing. ACM MM 2024.</p>
     </div>
 </div>
 
@@ -160,7 +165,8 @@ Computer Vision · Multimedia · Deep Learning · Image Representation · Video 
         <img src="./images/architecture.png" style="width: 150px; height: 100%; object-fit: cover; border-radius: 8px;" alt="Paper Thumbnail">
     </div>
     <div style="flex-grow: 1;">
-        <p style="font-size: 16px; font-weight: bold;">6. Bo Dong, <span style="font-weight: bold;">Pichao Wang</span>, Hao Luo, Fan Wang, “Adaptive Query Selection for Camouflaged Instance Segmentation”, ACM MM 2024.</p>
+        <p style="font-size: 16px; font-weight: bold;">5.Adaptive Query Selection for Camouflaged Instance Segmentation</p>
+        <p>Bo Dong, <strong>Pichao Wang</strong>, Hao Luo, Fan Wang. ACM MM 2024.</p>
     </div>
 </div>
 
@@ -169,7 +175,8 @@ Computer Vision · Multimedia · Deep Learning · Image Representation · Video 
         <img src="./images/architecture.png" style="width: 150px; height: 100%; object-fit: cover; border-radius: 8px;" alt="Paper Thumbnail">
     </div>
     <div style="flex-grow: 1;">
-        <p style="font-size: 16px; font-weight: bold;">7. Jiamian Wang, Guohao Sun, <span style="font-weight: bold;">Pichao Wang</span>, Dongfang Liu, Sohail Dianat, Majid Rabbani, Raghuveer Rao, Zhiqiang Tao, "Text is MASS: Modelling as Stochasitc Embedding for Text-to-Video Retrieval", CVPR 2024 (Highlight).</p>
+        <p style="font-size: 16px; font-weight: bold;">6.Text is MASS: Modelling as Stochastic Embedding for Text-to-Video Retrieval</p>
+        <p>Jiamian Wang, Guohao Sun, <strong>Pichao Wang</strong>, Dongfang Liu, Sohail Dianat, Majid Rabbani, Raghuveer Rao, Zhiqiang Tao. CVPR 2024 (Highlight).</p>
         <p><a href="https://arxiv.org/pdf/2403.17998.pdf" target="_blank">Read Paper</a> | <a href="https://github.com/Jiamian-Wang/T-MASS-text-video-retrieval" target="_blank">Code</a></p>
     </div>
 </div>
@@ -179,8 +186,8 @@ Computer Vision · Multimedia · Deep Learning · Image Representation · Video 
         <img src="./images/architecture.png" style="width: 150px; height: 100%; object-fit: cover; border-radius: 8px;" alt="Paper Thumbnail">
     </div>
     <div style="flex-grow: 1;">
-        <p style="font-size: 16px; font-weight: bold;">8. Wenhao Li, Mengyuan Liu, Hong Liu, <span style="font-weight: bold;">Pichao Wang</span>, Jialun Cai, and Nicu Sebe, "Hourglass Tokenizer for Efficient Transformer-Based 3D Human Pose Estimation", CVPR 2024 (Highlight).</p>
-        <p><a href="https://arxiv.org/pdf/2311.12028.pdf" target="_blank">Read Paper</a> | <a href="https://github.com/NationalGAILab/HoT" target="_blank">Code</a></p>
+        <p style="font-size: 16px; font-weight: bold;">7.Hourglass Tokenizer for Efficient Transformer-Based 3D Human Pose Estimation</p>
+        <p>Wenhao Li, Mengyuan Liu, Hong Liu, <strong>Pichao Wang</strong>, Jialun Cai, and Nicu Sebe. CVPR 2024 (Highlight).</p>
     </div>
 </div>
 
@@ -189,7 +196,8 @@ Computer Vision · Multimedia · Deep Learning · Image Representation · Video 
         <img src="./images/architecture.png" style="width: 150px; height: 100%; object-fit: cover; border-radius: 8px;" alt="Paper Thumbnail">
     </div>
     <div style="flex-grow: 1;">
-        <p style="font-size: 16px; font-weight: bold;">9. Yujun Ma, Benjia Zhou, Ruili Wang, <span style="font-weight: bold;">Pichao Wang</span>, "Multi-stage Factorized Spatio-Temporal Representation for RGB-D Action and Gesture Recognition", ACM MM 2023.</p>
+        <p style="font-size: 16px; font-weight: bold;">8.Multi-stage Factorized Spatio-Temporal Representation for RGB-D Action and Gesture Recognition</p>
+        <p>Yujun Ma, Benjia Zhou, Ruili Wang, <strong>Pichao Wang</strong>. ACM MM 2023.</p>
     </div>
 </div>
 
@@ -198,7 +206,8 @@ Computer Vision · Multimedia · Deep Learning · Image Representation · Video 
         <img src="./images/architecture.png" style="width: 150px; height: 100%; object-fit: cover; border-radius: 8px;" alt="Paper Thumbnail">
     </div>
     <div style="flex-grow: 1;">
-        <p style="font-size: 16px; font-weight: bold;">10. Shuning Chang, <span style="font-weight: bold;">Pichao Wang</span>, Hao Luo, Fan Wang, and Mike Zheng Shou, "Revisiting Vision Transformer from the View of Path Ensemble", ***Oral***, ICCV 2023.</p>
+        <p style="font-size: 16px; font-weight: bold;">9.Revisiting Vision Transformer from the View of Path Ensemble</p>
+        <p>Shuning Chang, <strong>Pichao Wang</strong>, Hao Luo, Fan Wang, Mike Zheng Shou. <strong>Oral</strong>, ICCV 2023.</p>
     </div>
 </div>
 
@@ -207,7 +216,8 @@ Computer Vision · Multimedia · Deep Learning · Image Representation · Video 
         <img src="./images/architecture.png" style="width: 150px; height: 100%; object-fit: cover; border-radius: 8px;" alt="Paper Thumbnail">
     </div>
     <div style="flex-grow: 1;">
-        <p style="font-size: 16px; font-weight: bold;">11. Sarah Ibrahimi, Xiaohang Sun, <span style="font-weight: bold;">Pichao Wang</span>, Amanmeet Garg, Ashutosh Sanan, Mohamed Omar, "Audio-Enhanced Text-to-Video Retrieval using Text-Conditioned Feature Alignment", ***Oral***, ICCV 2023.</p>
+        <p style="font-size: 16px; font-weight: bold;">10.Audio-Enhanced Text-to-Video Retrieval using Text-Conditioned Feature Alignment</p>
+        <p>Sarah Ibrahimi, Xiaohang Sun, <strong>Pichao Wang</strong>, Amanmeet Garg, Ashutosh Sanan, Mohamed Omar. <strong>Oral</strong>, ICCV 2023.</p>
     </div>
 </div>
 
@@ -216,7 +226,8 @@ Computer Vision · Multimedia · Deep Learning · Image Representation · Video 
         <img src="./images/architecture.png" style="width: 150px; height: 100%; object-fit: cover; border-radius: 8px;" alt="Paper Thumbnail">
     </div>
     <div style="flex-grow: 1;">
-        <p style="font-size: 16px; font-weight: bold;">12. Shuning Chang, <span style="font-weight: bold;">Pichao Wang</span>, Ming Lin, Fan Wang, David Junhao Zhang, Rong Jin, "Making Vision Transformers Efficient from A Token Sparsification View", CVPR 2023.</p>
+        <p style="font-size: 16px; font-weight: bold;">11.Making Vision Transformers Efficient from A Token Sparsification View</p>
+        <p>Shuning Chang, <strong>Pichao Wang</strong>, Ming Lin, Fan Wang, David Junhao Zhang, Rong Jin. CVPR 2023.</p>
         <p><a href="https://arxiv.org/pdf/2303.08685.pdf" target="_blank">Read Paper</a> | <a href="https://github.com/changsn/STViT-R" target="_blank">Code</a></p>
     </div>
 </div>
@@ -226,7 +237,8 @@ Computer Vision · Multimedia · Deep Learning · Image Representation · Video 
         <img src="./images/architecture.png" style="width: 150px; height: 100%; object-fit: cover; border-radius: 8px;" alt="Paper Thumbnail">
     </div>
     <div style="flex-grow: 1;">
-        <p style="font-size: 16px; font-weight: bold;">13. Qitao Zhao, Ce Zheng, Mengyuan Liu, <span style="font-weight: bold;">Pichao Wang</span>, Chen Chen, "PoseFormerV2: Exploring Frequency Domain for Efficient and Robust 3D Human Pose Estimation", CVPR 2023.</p>
+        <p style="font-size: 16px; font-weight: bold;">12.PoseFormerV2: Exploring Frequency Domain for Efficient and Robust 3D Human Pose Estimation</p>
+        <p>Qitao Zhao, Ce Zheng, Mengyuan Liu, <strong>Pichao Wang</strong>, Chen Chen. CVPR 2023.</p>
         <p><a href="https://arxiv.org/pdf/2303.17472.pdf" target="_blank">Read Paper</a> | <a href="https://github.com/QitaoZhao/PoseFormerV2" target="_blank">Code</a></p>
     </div>
 </div>
@@ -236,7 +248,8 @@ Computer Vision · Multimedia · Deep Learning · Image Representation · Video 
         <img src="./images/architecture.png" style="width: 150px; height: 100%; object-fit: cover; border-radius: 8px;" alt="Paper Thumbnail">
     </div>
     <div style="flex-grow: 1;">
-        <p style="font-size: 16px; font-weight: bold;">14. Jue Wang, Wentao Zhu, <span style="font-weight: bold;">Pichao Wang</span>, Xiang Yu, Linda Liu, Mohamed Omar, and Raffay Hamid, "Selective Structured State-Spaces for Long-Form Video Understanding", CVPR 2023.</p>
+        <p style="font-size: 16px; font-weight: bold;">13.Selective Structured State-Spaces for Long-Form Video Understanding</p>
+        <p>Jue Wang, Wentao Zhu, <strong>Pichao Wang</strong>, Xiang Yu, Linda Liu, Mohamed Omar, Raffay Hamid. CVPR 2023.</p>
         <p><a href="https://arxiv.org/pdf/2303.14526.pdf" target="_blank">Read Paper</a></p>
     </div>
 </div>
@@ -246,10 +259,13 @@ Computer Vision · Multimedia · Deep Learning · Image Representation · Video 
         <img src="./images/architecture.png" style="width: 150px; height: 100%; object-fit: cover; border-radius: 8px;" alt="Paper Thumbnail">
     </div>
     <div style="flex-grow: 1;">
-        <p style="font-size: 16px; font-weight: bold;">15. Bo Dong, <span style="font-weight: bold;">Pichao Wang</span>, Fan Wang, "Head-Free Lightweight Semantic Segmentation with Linear Transformer", AAAI 2023.</p>
+        <p style="font-size: 16px; font-weight: bold;">14.Head-Free Lightweight Semantic Segmentation with Linear Transformer</p>
+        <p>Bo Dong, <strong>Pichao Wang</strong>, Fan Wang. AAAI 2023.</p>
         <p><a href="https://arxiv.org/pdf/2301.04648.pdf" target="_blank">Read Paper</a> | <a href="https://github.com/dongbo811/AFFormer" target="_blank">Code</a></p>
     </div>
 </div>
+
+
 
 
 
