@@ -1,0 +1,10 @@
+/* Custom CSS to widen the layout */
+.wrapper {
+    max-width: 1200px;  /* Adjust this to your desired width */
+    margin: 0 auto;     /* Center the container */
+}
+
+/* Optional: Add padding to the body or content area */
+body {
+    padding: 20px;
+}
