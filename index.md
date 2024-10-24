@@ -111,12 +111,12 @@ Action Recognition from RGB-D Data. The University of  Wollongong, 2017. (Best P
     
     <!-- Right: Paper Information -->
     <div style="flex-grow: 1;">
-        <!-- Title with smaller number placed inline -->
-        <p style="font-size: 18px; font-weight: bold; margin-bottom: 5px;">
-            <span style="font-size: 18px; margin-right: 5px;">1.</span> Enhancing Motion in Text-to-Video Generation with Decomposed Encoding and Conditioning
+        <!-- Title with reduced size and bold style -->
+        <p style="font-size: 16px; font-weight: bold; margin-bottom: 5px;">
+            <span style="font-size: 16px; margin-right: 5px;">1.</span> Enhancing Motion in Text-to-Video Generation with Decomposed Encoding and Conditioning
         </p>
         <!-- Authors -->
-        <p style="margin-bottom: 5px;">
+        <p style="font-size: 16px; margin-bottom: 5px;">
             Penghui Ruan, <span style="font-weight: bold;">Pichao Wang</span>, Divya Saxena, Jiannong Cao, Yuhui Shi
         </p>
         <!-- Conference Information -->
