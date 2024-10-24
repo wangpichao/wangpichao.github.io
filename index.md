@@ -1,3 +1,10 @@
+<style>
+.wrapper {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+</style>
+
 # Pichao Wang, PhD, Amazon AGI Foundations
 
 <img style="float: right; padding-left:15px; width:150px" src="./images/WangPiChao.jpg" >
