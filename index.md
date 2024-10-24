@@ -103,7 +103,7 @@ Action Recognition from RGB-D Data. The University of  Wollongong, 2017. (Best P
 
 ### Conference Papers (selected papers, [full paper list](https://scholar.google.com/citations?user=QozdnnoAAAAJ&hl=en))
 
-1. Penghui Ruan, **Pichao Wang**, Divya Saxena, Jiannong Cao, Yuhui Shi, "Enhancing Motion in Text-to-Video Generation with Decomposed Encoding and Conditioning", NeurIPS 2024.
+<img style="float: right; padding-left:15px; width:150px" src="./images/architecture.pdf" > 1. Penghui Ruan, **Pichao Wang**, Divya Saxena, Jiannong Cao, Yuhui Shi, "Enhancing Motion in Text-to-Video Generation with Decomposed Encoding and Conditioning", NeurIPS 2024.
    
 2. Jiamian Wang, **Pichao Wang**, Dongfang Liu, Qiang Guan, Sohail Dianat, Majid Rabbani, Raghuveer Rao, Zhiqiang Tao, "Diffusion-Inspiered Truncated Sampler for Text-Video Retrieval", NeurIPS 2024.
    
