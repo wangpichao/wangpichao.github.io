@@ -103,18 +103,20 @@ Action Recognition from RGB-D Data. The University of  Wollongong, 2017. (Best P
 
 ### Conference Papers (selected papers, [full paper list](https://scholar.google.com/citations?user=QozdnnoAAAAJ&hl=en))
 
-<div style="display: flex; align-items: stretch; padding: 15px;">
+<div style="display: flex; align-items: flex-start; padding: 15px;">
     <!-- 左边图片部分 -->
-    <div style="flex-shrink: 0; padding-right: 15px; height: auto;">
+    <div style="position: relative; flex-shrink: 0; padding-right: 15px;">
+        <!-- 序号在图片左侧 -->
+        <span style="position: absolute; left: -20px; top: 0; font-size: 24px; font-weight: bold;">1.</span>
         <img src="./images/architecture.png" style="height: 100%; width: auto; object-fit: cover; border-radius: 8px;" alt="Paper Thumbnail">
     </div>
-    
+
     <!-- 右边论文信息部分 -->
     <div style="flex-grow: 1;">
-        <!-- 序号 -->
-        <p style="font-size: 18px; font-weight: bold;">1.</p>
-        <!-- 论文标题 -->
-        <p style="font-size: 18px; font-weight: bold;">Enhancing Motion in Text-to-Video Generation with Decomposed Encoding and Conditioning</p>
+        <!-- 论文标题与序号 -->
+        <p style="font-size: 18px; font-weight: bold;">
+            Enhancing Motion in Text-to-Video Generation with Decomposed Encoding and Conditioning
+        </p>
         <!-- 作者信息，确保顺序正确 -->
         <p>
             Penghui Ruan, <span style="font-weight: bold;">Pichao Wang</span>, Divya Saxena, Jiannong Cao, Yuhui Shi
@@ -129,6 +131,7 @@ Action Recognition from RGB-D Data. The University of  Wollongong, 2017. (Best P
         </p>
     </div>
 </div>
+
 
 
 
