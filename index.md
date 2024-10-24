@@ -126,7 +126,8 @@ Computer Vision · Multimedia · Deep Learning · Image Representation · Video 
     </div>
     <div style="flex-grow: 1;">
         <p style="font-size: 16px; font-weight: bold;">1.Enhancing Motion in Text-to-Video Generation with Decomposed Encoding and Conditioning</p>
-        <p>Penghui Ruan, <strong>Pichao Wang</strong>, Divya Saxena, Jiannong Cao, Yuhui Shi. NeurIPS 2024.</p>
+        <p>Penghui Ruan, <strong>Pichao Wang</strong>, Divya Saxena, Jiannong Cao, Yuhui Shi.</p>
+        <p>NeurIPS 2024.</p>
     </div>
 </div>
 
@@ -136,7 +137,8 @@ Computer Vision · Multimedia · Deep Learning · Image Representation · Video 
     </div>
     <div style="flex-grow: 1;">
         <p style="font-size: 16px; font-weight: bold;">2.Diffusion-Inspired Truncated Sampler for Text-Video Retrieval</p>
-        <p>Jiamian Wang, <strong>Pichao Wang</strong>, Dongfang Liu, Qiang Guan, Sohail Dianat, Majid Rabbani, Raghuveer Rao, Zhiqiang Tao. NeurIPS 2024.</p>
+        <p>Jiamian Wang, <strong>Pichao Wang</strong>, Dongfang Liu, Qiang Guan, Sohail Dianat, Majid Rabbani, Raghuveer Rao, Zhiqiang Tao. </p>
+        <p>NeurIPS 2024.</p>
     </div>
 </div>
 
@@ -146,7 +148,8 @@ Computer Vision · Multimedia · Deep Learning · Image Representation · Video 
     </div>
     <div style="flex-grow: 1;">
         <p style="font-size: 16px; font-weight: bold;">3.One Token to Seg Them All: Language Instructed Reasoning Segmentation in Videos</p>
-        <p>Zechen Bai, Tong He, Haiyang Mei, <strong>Pichao Wang</strong>, Ziteng Gao, Joya Chen, Lei Liu, Zheng Zhang, Mike Zheng Shou. NeurIPS 2024.</p>
+        <p>Zechen Bai, Tong He, Haiyang Mei, <strong>Pichao Wang</strong>, Ziteng Gao, Joya Chen, Lei Liu, Zheng Zhang, Mike Zheng Shou.</p>
+        <p>NeurIPS 2024.</p>
     </div>
 </div>
 
@@ -156,7 +159,8 @@ Computer Vision · Multimedia · Deep Learning · Image Representation · Video 
     </div>
     <div style="flex-grow: 1;">
         <p style="font-size: 16px; font-weight: bold;">4.Align2Concept: Language Guided Interpretable Image Recognition by Visual Prototype and Textural Concept Alignment</p>
-        <p>Jiaqi Wang, <strong>Pichao Wang</strong>, Yi Feng, Huafeng Liu, Chang Gao, Liping Jing. ACM MM 2024.</p>
+        <p>Jiaqi Wang, <strong>Pichao Wang</strong>, Yi Feng, Huafeng Liu, Chang Gao, Liping Jing.</p>
+        <p>ACM MM 2024.</p>
     </div>
 </div>
 
@@ -166,7 +170,8 @@ Computer Vision · Multimedia · Deep Learning · Image Representation · Video 
     </div>
     <div style="flex-grow: 1;">
         <p style="font-size: 16px; font-weight: bold;">5.Adaptive Query Selection for Camouflaged Instance Segmentation</p>
-        <p>Bo Dong, <strong>Pichao Wang</strong>, Hao Luo, Fan Wang. ACM MM 2024.</p>
+        <p>Bo Dong, <strong>Pichao Wang</strong>, Hao Luo, Fan Wang.</p>
+        <p>ACM MM 2024.</p>
     </div>
 </div>
 
@@ -176,7 +181,8 @@ Computer Vision · Multimedia · Deep Learning · Image Representation · Video 
     </div>
     <div style="flex-grow: 1;">
         <p style="font-size: 16px; font-weight: bold;">6.Text is MASS: Modelling as Stochastic Embedding for Text-to-Video Retrieval</p>
-        <p>Jiamian Wang, Guohao Sun, <strong>Pichao Wang</strong>, Dongfang Liu, Sohail Dianat, Majid Rabbani, Raghuveer Rao, Zhiqiang Tao. CVPR 2024 (Highlight).</p>
+        <p>Jiamian Wang, Guohao Sun, <strong>Pichao Wang</strong>, Dongfang Liu, Sohail Dianat, Majid Rabbani, Raghuveer Rao, Zhiqiang Tao. </p>
+        <p>CVPR 2024 (Highlight).</p>
         <p><a href="https://arxiv.org/pdf/2403.17998.pdf" target="_blank">Read Paper</a> | <a href="https://github.com/Jiamian-Wang/T-MASS-text-video-retrieval" target="_blank">Code</a></p>
     </div>
 </div>
@@ -187,7 +193,8 @@ Computer Vision · Multimedia · Deep Learning · Image Representation · Video 
     </div>
     <div style="flex-grow: 1;">
         <p style="font-size: 16px; font-weight: bold;">7.Hourglass Tokenizer for Efficient Transformer-Based 3D Human Pose Estimation</p>
-        <p>Wenhao Li, Mengyuan Liu, Hong Liu, <strong>Pichao Wang</strong>, Jialun Cai, and Nicu Sebe. CVPR 2024 (Highlight).</p>
+        <p>Wenhao Li, Mengyuan Liu, Hong Liu, <strong>Pichao Wang</strong>, Jialun Cai, and Nicu Sebe.</p>
+        <p>CVPR 2024 (Highlight).</p>
     </div>
 </div>
 
@@ -197,7 +204,8 @@ Computer Vision · Multimedia · Deep Learning · Image Representation · Video 
     </div>
     <div style="flex-grow: 1;">
         <p style="font-size: 16px; font-weight: bold;">8.Multi-stage Factorized Spatio-Temporal Representation for RGB-D Action and Gesture Recognition</p>
-        <p>Yujun Ma, Benjia Zhou, Ruili Wang, <strong>Pichao Wang</strong>. ACM MM 2023.</p>
+        <p>Yujun Ma, Benjia Zhou, Ruili Wang, <strong>Pichao Wang</strong>. </p>
+        <p>ACM MM 2023.</p>
     </div>
 </div>
 
@@ -207,7 +215,8 @@ Computer Vision · Multimedia · Deep Learning · Image Representation · Video 
     </div>
     <div style="flex-grow: 1;">
         <p style="font-size: 16px; font-weight: bold;">9.Revisiting Vision Transformer from the View of Path Ensemble</p>
-        <p>Shuning Chang, <strong>Pichao Wang</strong>, Hao Luo, Fan Wang, Mike Zheng Shou. <strong>Oral</strong>, ICCV 2023.</p>
+        <p>Shuning Chang, <strong>Pichao Wang</strong>, Hao Luo, Fan Wang, Mike Zheng Shou. </p>
+        <p></p><strong>Oral</strong>, ICCV 2023.</p>
     </div>
 </div>
 
@@ -217,7 +226,8 @@ Computer Vision · Multimedia · Deep Learning · Image Representation · Video 
     </div>
     <div style="flex-grow: 1;">
         <p style="font-size: 16px; font-weight: bold;">10.Audio-Enhanced Text-to-Video Retrieval using Text-Conditioned Feature Alignment</p>
-        <p>Sarah Ibrahimi, Xiaohang Sun, <strong>Pichao Wang</strong>, Amanmeet Garg, Ashutosh Sanan, Mohamed Omar. <strong>Oral</strong>, ICCV 2023.</p>
+        <p>Sarah Ibrahimi, Xiaohang Sun, <strong>Pichao Wang</strong>, Amanmeet Garg, Ashutosh Sanan, Mohamed Omar.</p>
+        <p></p><strong>Oral</strong>, ICCV 2023.</p>
     </div>
 </div>
 
@@ -227,7 +237,8 @@ Computer Vision · Multimedia · Deep Learning · Image Representation · Video 
     </div>
     <div style="flex-grow: 1;">
         <p style="font-size: 16px; font-weight: bold;">11.Making Vision Transformers Efficient from A Token Sparsification View</p>
-        <p>Shuning Chang, <strong>Pichao Wang</strong>, Ming Lin, Fan Wang, David Junhao Zhang, Rong Jin. CVPR 2023.</p>
+        <p>Shuning Chang, <strong>Pichao Wang</strong>, Ming Lin, Fan Wang, David Junhao Zhang, Rong Jin. </p>
+        <p>CVPR 2023.</p>
         <p><a href="https://arxiv.org/pdf/2303.08685.pdf" target="_blank">Read Paper</a> | <a href="https://github.com/changsn/STViT-R" target="_blank">Code</a></p>
     </div>
 </div>
@@ -238,7 +249,8 @@ Computer Vision · Multimedia · Deep Learning · Image Representation · Video 
     </div>
     <div style="flex-grow: 1;">
         <p style="font-size: 16px; font-weight: bold;">12.PoseFormerV2: Exploring Frequency Domain for Efficient and Robust 3D Human Pose Estimation</p>
-        <p>Qitao Zhao, Ce Zheng, Mengyuan Liu, <strong>Pichao Wang</strong>, Chen Chen. CVPR 2023.</p>
+        <p>Qitao Zhao, Ce Zheng, Mengyuan Liu, <strong>Pichao Wang</strong>, Chen Chen.</p>
+        <p>CVPR 2023.</p>
         <p><a href="https://arxiv.org/pdf/2303.17472.pdf" target="_blank">Read Paper</a> | <a href="https://github.com/QitaoZhao/PoseFormerV2" target="_blank">Code</a></p>
     </div>
 </div>
@@ -249,7 +261,8 @@ Computer Vision · Multimedia · Deep Learning · Image Representation · Video 
     </div>
     <div style="flex-grow: 1;">
         <p style="font-size: 16px; font-weight: bold;">13.Selective Structured State-Spaces for Long-Form Video Understanding</p>
-        <p>Jue Wang, Wentao Zhu, <strong>Pichao Wang</strong>, Xiang Yu, Linda Liu, Mohamed Omar, Raffay Hamid. CVPR 2023.</p>
+        <p>Jue Wang, Wentao Zhu, <strong>Pichao Wang</strong>, Xiang Yu, Linda Liu, Mohamed Omar, Raffay Hamid.</p>
+        <p>CVPR 2023.</p>
         <p><a href="https://arxiv.org/pdf/2303.14526.pdf" target="_blank">Read Paper</a></p>
     </div>
 </div>
@@ -260,13 +273,11 @@ Computer Vision · Multimedia · Deep Learning · Image Representation · Video 
     </div>
     <div style="flex-grow: 1;">
         <p style="font-size: 16px; font-weight: bold;">14.Head-Free Lightweight Semantic Segmentation with Linear Transformer</p>
-        <p>Bo Dong, <strong>Pichao Wang</strong>, Fan Wang. AAAI 2023.</p>
+        <p>Bo Dong, <strong>Pichao Wang</strong>, Fan Wang. </p>
+        <p>AAAI 2023.</p>
         <p><a href="https://arxiv.org/pdf/2301.04648.pdf" target="_blank">Read Paper</a> | <a href="https://github.com/dongbo811/AFFormer" target="_blank">Code</a></p>
     </div>
 </div>
-
-
-
 
 
 
