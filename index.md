@@ -106,13 +106,20 @@ Action Recognition from RGB-D Data. The University of  Wollongong, 2017. (Best P
 <div style="display: flex; align-items: flex-start; padding: 15px;">
     <!-- 左边图片部分 -->
     <div style="flex-shrink: 0; padding-right: 15px;">
-        <img src="./images/architecture.png" style="width: 150px; height: auto; border-radius: 8px;" alt="Paper Thumbnail">
+        <img src="./images/architecture.png" style="width: 150px; height: 200px; object-fit: cover; border-radius: 8px;" alt="Paper Thumbnail">
     </div>
     
     <!-- 右边论文信息部分 -->
     <div>
-        <p><strong>Penghui Ruan, Pichao Wang, Divya Saxena, Jiannong Cao, Yuhui Shi</strong></p>
-        <p>"Enhancing Motion in Text-to-Video Generation with Decomposed Encoding and Conditioning", NeurIPS 2024</p>
+        <!-- 论文标题 -->
+        <p style="font-size: 18px; font-weight: bold;">Enhancing Motion in Text-to-Video Generation with Decomposed Encoding and Conditioning</p>
+        <!-- 作者信息 -->
+        <p>
+            <span style="font-weight: bold;">Pichao Wang</span>, Penghui Ruan, Divya Saxena, Jiannong Cao, Yuhui Shi
+        </p>
+        <!-- 会议信息 -->
+        <p>NeurIPS 2024</p>
+        <!-- 链接部分 -->
         <p>
             <a href="https://linktopaper.com" target="_blank">Read Paper</a> |
             <a href="https://github.com/research-code" target="_blank">Code</a> |
@@ -120,6 +127,7 @@ Action Recognition from RGB-D Data. The University of  Wollongong, 2017. (Best P
         </p>
     </div>
 </div>
+
 
 
 1. Penghui Ruan, **Pichao Wang**, Divya Saxena, Jiannong Cao, Yuhui Shi, "Enhancing Motion in Text-to-Video Generation with Decomposed Encoding and Conditioning", NeurIPS 2024.
