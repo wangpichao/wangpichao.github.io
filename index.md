@@ -103,14 +103,14 @@ Action Recognition from RGB-D Data. The University of  Wollongong, 2017. (Best P
 
 ### Conference Papers (selected papers, [full paper list](https://scholar.google.com/citations?user=QozdnnoAAAAJ&hl=en))
 
-<div style="display: flex; align-items: flex-start; padding: 15px;">
+<div style="display: flex; align-items: stretch; padding: 15px;">
     <!-- 左边图片部分 -->
-    <div style="flex-shrink: 0; padding-right: 15px;">
-        <img src="./images/architecture.png" style="width: 150px; height: 200px; object-fit: contain; border-radius: 8px;" alt="Paper Thumbnail">
+    <div style="flex-shrink: 0; padding-right: 15px; height: auto;">
+        <img src="./images/architecture.png" style="height: 100%; width: auto; object-fit: cover; border-radius: 8px;" alt="Paper Thumbnail">
     </div>
     
     <!-- 右边论文信息部分 -->
-    <div>
+    <div style="flex-grow: 1;">
         <!-- 序号 -->
         <p style="font-size: 18px; font-weight: bold;">1.</p>
         <!-- 论文标题 -->
