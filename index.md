@@ -106,16 +106,18 @@ Action Recognition from RGB-D Data. The University of  Wollongong, 2017. (Best P
 <div style="display: flex; align-items: flex-start; padding: 15px;">
     <!-- 左边图片部分 -->
     <div style="flex-shrink: 0; padding-right: 15px;">
-        <img src="./images/architecture.png" style="width: 150px; height: 200px; object-fit: cover; border-radius: 8px;" alt="Paper Thumbnail">
+        <img src="./images/architecture.png" style="width: 150px; height: 200px; object-fit: contain; border-radius: 8px;" alt="Paper Thumbnail">
     </div>
     
     <!-- 右边论文信息部分 -->
     <div>
+        <!-- 序号 -->
+        <p style="font-size: 18px; font-weight: bold;">1.</p>
         <!-- 论文标题 -->
         <p style="font-size: 18px; font-weight: bold;">Enhancing Motion in Text-to-Video Generation with Decomposed Encoding and Conditioning</p>
-        <!-- 作者信息 -->
+        <!-- 作者信息，确保顺序正确 -->
         <p>
-            <span style="font-weight: bold;">Pichao Wang</span>, Penghui Ruan, Divya Saxena, Jiannong Cao, Yuhui Shi
+            Penghui Ruan, <span style="font-weight: bold;">Pichao Wang</span>, Divya Saxena, Jiannong Cao, Yuhui Shi
         </p>
         <!-- 会议信息 -->
         <p>NeurIPS 2024</p>
