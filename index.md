@@ -103,17 +103,17 @@ Action Recognition from RGB-D Data. The University of  Wollongong, 2017. (Best P
 
 ### Conference Papers (selected papers, [full paper list](https://scholar.google.com/citations?user=QozdnnoAAAAJ&hl=en))
 
-<div style="display: flex; flex-direction: row; align-items: flex-start; padding: 15px; border-bottom: 1px solid #ccc; margin-bottom: 20px;">
-    <!-- Left: Image section with improved sizing and alignment -->
-    <div style="flex-shrink: 0; margin-right: 15px; height: 100%;">
+<div style="display: flex; flex-direction: row; align-items: stretch; padding: 15px; border-bottom: 1px solid #ccc; margin-bottom: 20px;">
+    <!-- Left: Image section with fixed width, and matching height -->
+    <div style="flex-shrink: 0; margin-right: 15px; height: auto;">
         <img src="./images/architecture.png" style="width: 150px; height: 100%; object-fit: cover; border-radius: 8px;" alt="Paper Thumbnail">
     </div>
     
     <!-- Right: Paper Information -->
     <div style="flex-grow: 1;">
-        <!-- Title with number placed in a row -->
-        <p style="font-size: 18px; font-weight: bold; margin-bottom: 5px; display: flex; align-items: center;">
-            <span style="font-size: 24px; margin-right: 5px;">1.</span> Enhancing Motion in Text-to-Video Generation with Decomposed Encoding and Conditioning
+        <!-- Title with smaller number placed inline -->
+        <p style="font-size: 18px; font-weight: bold; margin-bottom: 5px;">
+            <span style="font-size: 18px; margin-right: 5px;">1.</span> Enhancing Motion in Text-to-Video Generation with Decomposed Encoding and Conditioning
         </p>
         <!-- Authors -->
         <p style="margin-bottom: 5px;">
@@ -131,6 +131,7 @@ Action Recognition from RGB-D Data. The University of  Wollongong, 2017. (Best P
         </p>
     </div>
 </div>
+
 
 
 
