@@ -95,76 +95,172 @@ Computer Vision · Multimedia · Deep Learning · Image Representation · Video 
 
 ### Ph.D. Dissertation
 
-Action Recognition from RGB-D Data. The University of  Wollongong, 2017. (Best Postgraduate Thesis Award) [link](http://ro.uow.edu.au/theses1/112/)
+<div style="display: flex; flex-direction: row; align-items: stretch; padding: 15px; border-bottom: 1px solid #ccc; margin-bottom: 20px;">
+    <div style="flex-shrink: 0; margin-right: 15px;">
+        <img src="./images/architecture.png" style="width: 150px; height: 100%; object-fit: cover; border-radius: 8px;" alt="Thesis Thumbnail">
+    </div>
+    <div style="flex-grow: 1;">
+        <p style="font-size: 16px; font-weight: bold;">Action Recognition from RGB-D Data. The University of Wollongong, 2017. (Best Postgraduate Thesis Award)</p>
+        <p><a href="http://ro.uow.edu.au/theses1/112/" target="_blank">Read Thesis</a></p>
+    </div>
+</div>
 
 ### Preprint (selected papers, [full paper list](https://scholar.google.com/citations?user=QozdnnoAAAAJ&hl=en))
 
-1. Hao Luo, **Pichao Wang**, Yi Xu, Feng Ding, Yanxin Zhou, Fan Wang, Hao Li, Rong Jin, "Self-Supervised Pre-Training for Transformer-Based Person Re-Identification", arXiv 2021. [paper](https://arxiv.org/pdf/2111.12084.pdf). [code](https://github.com/damo-cv/TransReID-SSL)
+<div style="display: flex; flex-direction: row; align-items: stretch; padding: 15px; border-bottom: 1px solid #ccc; margin-bottom: 20px;">
+    <div style="flex-shrink: 0; margin-right: 15px;">
+        <img src="./images/architecture.png" style="width: 150px; height: 100%; object-fit: cover; border-radius: 8px;" alt="Paper Thumbnail">
+    </div>
+    <div style="flex-grow: 1;">
+        <p style="font-size: 16px; font-weight: bold;">1. Hao Luo, <span style="font-weight: bold;">Pichao Wang</span>, Yi Xu, Feng Ding, Yanxin Zhou, Fan Wang, Hao Li, Rong Jin, "Self-Supervised Pre-Training for Transformer-Based Person Re-Identification", arXiv 2021.</p>
+        <p><a href="https://arxiv.org/pdf/2111.12084.pdf" target="_blank">Read Paper</a> | <a href="https://github.com/damo-cv/TransReID-SSL" target="_blank">Code</a></p>
+    </div>
+</div>
 
 ### Conference Papers (selected papers, [full paper list](https://scholar.google.com/citations?user=QozdnnoAAAAJ&hl=en))
 
 <div style="display: flex; flex-direction: row; align-items: stretch; padding: 15px; border-bottom: 1px solid #ccc; margin-bottom: 20px;">
-    <!-- Left: Image section with fixed width, and matching height -->
-    <div style="flex-shrink: 0; margin-right: 15px; height: auto;">
+    <div style="flex-shrink: 0; margin-right: 15px;">
         <img src="./images/architecture.png" style="width: 150px; height: 100%; object-fit: cover; border-radius: 8px;" alt="Paper Thumbnail">
     </div>
-    
-    <!-- Right: Paper Information -->
     <div style="flex-grow: 1;">
-        <!-- Title with reduced size and bold style -->
-        <p style="font-size: 16px; font-weight: bold; margin-bottom: 5px;">
-            <span style="font-size: 16px; margin-right: 5px;">1.</span> Enhancing Motion in Text-to-Video Generation with Decomposed Encoding and Conditioning
-        </p>
-        <!-- Authors -->
-        <p style="font-size: 16px; margin-bottom: 5px;">
-            Penghui Ruan, <span style="font-weight: bold;">Pichao Wang</span>, Divya Saxena, Jiannong Cao, Yuhui Shi
-        </p>
-        <!-- Conference Information -->
-        <p style="font-style: italic; margin-bottom: 10px;">
-            NeurIPS 2024
-        </p>
-        <!-- Links -->
-        <p>
-            <a href="https://linktopaper.com" target="_blank" style="margin-right: 10px;">Read Paper</a>
-            <a href="https://github.com/research-code" target="_blank" style="margin-right: 10px;">Code</a>
-            <a href="https://arxiv.org/pdf/12345678" target="_blank">PDF</a>
-        </p>
+        <p style="font-size: 16px; font-weight: bold;">2. Penghui Ruan, <span style="font-weight: bold;">Pichao Wang</span>, Divya Saxena, Jiannong Cao, Yuhui Shi, "Enhancing Motion in Text-to-Video Generation with Decomposed Encoding and Conditioning", NeurIPS 2024.</p>
     </div>
 </div>
 
+<div style="display: flex; flex-direction: row; align-items: stretch; padding: 15px; border-bottom: 1px solid #ccc; margin-bottom: 20px;">
+    <div style="flex-shrink: 0; margin-right: 15px;">
+        <img src="./images/architecture.png" style="width: 150px; height: 100%; object-fit: cover; border-radius: 8px;" alt="Paper Thumbnail">
+    </div>
+    <div style="flex-grow: 1;">
+        <p style="font-size: 16px; font-weight: bold;">3. Jiamian Wang, <span style="font-weight: bold;">Pichao Wang</span>, Dongfang Liu, Qiang Guan, Sohail Dianat, Majid Rabbani, Raghuveer Rao, Zhiqiang Tao, "Diffusion-Inspired Truncated Sampler for Text-Video Retrieval", NeurIPS 2024.</p>
+    </div>
+</div>
 
+<div style="display: flex; flex-direction: row; align-items: stretch; padding: 15px; border-bottom: 1px solid #ccc; margin-bottom: 20px;">
+    <div style="flex-shrink: 0; margin-right: 15px;">
+        <img src="./images/architecture.png" style="width: 150px; height: 100%; object-fit: cover; border-radius: 8px;" alt="Paper Thumbnail">
+    </div>
+    <div style="flex-grow: 1;">
+        <p style="font-size: 16px; font-weight: bold;">4. Zechen Bai, Tong He, Haiyang Mei, <span style="font-weight: bold;">Pichao Wang</span>, Ziteng Gao, Joya Chen, Lei Liu, Zheng Zhang, Mike Zheng Shou, "One Token to Seg Them All: Language Instructed Reasoning Segmentation in Videos", NeurIPS 2024.</p>
+    </div>
+</div>
 
+<div style="display: flex; flex-direction: row; align-items: stretch; padding: 15px; border-bottom: 1px solid #ccc; margin-bottom: 20px;">
+    <div style="flex-shrink: 0; margin-right: 15px;">
+        <img src="./images/architecture.png" style="width: 150px; height: 100%; object-fit: cover; border-radius: 8px;" alt="Paper Thumbnail">
+    </div>
+    <div style="flex-grow: 1;">
+        <p style="font-size: 16px; font-weight: bold;">5. Jiaqi Wang, <span style="font-weight: bold;">Pichao Wang</span>, Yi Feng, Huafeng Liu, Chang Gao, Liping Jing, “Align2Concept: Language Guided Interpretable Image Recognition by Visual Prototype and Textural Concept Alignment”, ACM MM 2024.</p>
+    </div>
+</div>
 
+<div style="display: flex; flex-direction: row; align-items: stretch; padding: 15px; border-bottom: 1px solid #ccc; margin-bottom: 20px;">
+    <div style="flex-shrink: 0; margin-right: 15px;">
+        <img src="./images/architecture.png" style="width: 150px; height: 100%; object-fit: cover; border-radius: 8px;" alt="Paper Thumbnail">
+    </div>
+    <div style="flex-grow: 1;">
+        <p style="font-size: 16px; font-weight: bold;">6. Bo Dong, <span style="font-weight: bold;">Pichao Wang</span>, Hao Luo, Fan Wang, “Adaptive Query Selection for Camouflaged Instance Segmentation”, ACM MM 2024.</p>
+    </div>
+</div>
 
+<div style="display: flex; flex-direction: row; align-items: stretch; padding: 15px; border-bottom: 1px solid #ccc; margin-bottom: 20px;">
+    <div style="flex-shrink: 0; margin-right: 15px;">
+        <img src="./images/architecture.png" style="width: 150px; height: 100%; object-fit: cover; border-radius: 8px;" alt="Paper Thumbnail">
+    </div>
+    <div style="flex-grow: 1;">
+        <p style="font-size: 16px; font-weight: bold;">7. Jiamian Wang, Guohao Sun, <span style="font-weight: bold;">Pichao Wang</span>, Dongfang Liu, Sohail Dianat, Majid Rabbani, Raghuveer Rao, Zhiqiang Tao, "Text is MASS: Modelling as Stochasitc Embedding for Text-to-Video Retrieval", CVPR 2024 (Highlight).</p>
+        <p><a href="https://arxiv.org/pdf/2403.17998.pdf" target="_blank">Read Paper</a> | <a href="https://github.com/Jiamian-Wang/T-MASS-text-video-retrieval" target="_blank">Code</a></p>
+    </div>
+</div>
 
+<div style="display: flex; flex-direction: row; align-items: stretch; padding: 15px; border-bottom: 1px solid #ccc; margin-bottom: 20px;">
+    <div style="flex-shrink: 0; margin-right: 15px;">
+        <img src="./images/architecture.png" style="width: 150px; height: 100%; object-fit: cover; border-radius: 8px;" alt="Paper Thumbnail">
+    </div>
+    <div style="flex-grow: 1;">
+        <p style="font-size: 16px; font-weight: bold;">8. Wenhao Li, Mengyuan Liu, Hong Liu, <span style="font-weight: bold;">Pichao Wang</span>, Jialun Cai, and Nicu SebeHere’s the rest of the paper entries formatted as per your template. You can copy this directly into your `index.md` file for the full list:
 
-1. Penghui Ruan, **Pichao Wang**, Divya Saxena, Jiannong Cao, Yuhui Shi, "Enhancing Motion in Text-to-Video Generation with Decomposed Encoding and Conditioning", NeurIPS 2024.
-   
-2. Jiamian Wang, **Pichao Wang**, Dongfang Liu, Qiang Guan, Sohail Dianat, Majid Rabbani, Raghuveer Rao, Zhiqiang Tao, "Diffusion-Inspiered Truncated Sampler for Text-Video Retrieval", NeurIPS 2024.
-   
-3. Zechen Bai, Tong He, Haiyang Mei, **Pichao Wang**, Ziteng Gao, Joya Chen, Lei Liu, Zheng Zhang, Mike Zheng Shou, "One Token to Seg Them All: Language Instructed Reasoning Segmentation in Videos", NeurIPS 2024.
-   
-4. Jiaqi Wang, **Pichao Wang**, Yi Feng, Huafeng Liu, Chang Gao, Liping Jing, “Align2Concept: Language Guided Interpretable Image Recognition by Visual Prototype and Textural Concept Alignment”, ACM MM 2024.
-   
-5. Bo Dong, **Pichao Wang**, Hao Luo, Fan Wang, “Adaptive Query Selection for Camouflaged Instance Segmentation”, ACM MM 2024.
+```html
+<div style="display: flex; flex-direction: row; align-items: stretch; padding: 15px; border-bottom: 1px solid #ccc; margin-bottom: 20px;">
+    <div style="flex-shrink: 0; margin-right: 15px;">
+        <img src="./images/architecture.png" style="width: 150px; height: 100%; object-fit: cover; border-radius: 8px;" alt="Paper Thumbnail">
+    </div>
+    <div style="flex-grow: 1;">
+        <p style="font-size: 16px; font-weight: bold;">8. Wenhao Li, Mengyuan Liu, Hong Liu, <span style="font-weight: bold;">Pichao Wang</span>, Jialun Cai, and Nicu Sebe, "Hourglass Tokenizer for Efficient Transformer-Based 3D Human Pose Estimation", CVPR 2024 (Highlight).</p>
+        <p><a href="https://arxiv.org/pdf/2311.12028.pdf" target="_blank">Read Paper</a> | <a href="https://github.com/NationalGAILab/HoT" target="_blank">Code</a></p>
+    </div>
+</div>
 
-6. Jiamian Wang, Guohao Sun, **Pichao Wang**, Dongfang Liu, Sohail Dianat, Majid Rabbani, Raghuveer Rao, Zhiqinag Tao, "Text is MASS: Modelling as Stochasitc Embedding for Text-to-Video Retrieval", CVPR 2024 (Highlight).[paper](https://arxiv.org/pdf/2403.17998.pdf) [code](https://github.com/Jiamian-Wang/T-MASS-text-video-retrieval)
-   
-7. Wenhao Li, Mengyuan Liu, Hong Liu, **Pichao Wang**, Jialun Cai, and Nicu Sebe, "Hourglass Tokenizer for Efficient Transformer-Based 3D Human Pose Estimation", CVPR 2024 (Highlight). [paper](https://arxiv.org/pdf/2311.12028.pdf) [code](https://github.com/NationalGAILab/HoT)
-   
-8. Yujun Ma, Benjia Zhou, Ruili Wang, **Pichao WANG**, "Multi-stage Factorized Spatio-Temporal Representation for RGB-D Action and Gesture Recognition", ACM MM 2023.
+<div style="display: flex; flex-direction: row; align-items: stretch; padding: 15px; border-bottom: 1px solid #ccc; margin-bottom: 20px;">
+    <div style="flex-shrink: 0; margin-right: 15px;">
+        <img src="./images/architecture.png" style="width: 150px; height: 100%; object-fit: cover; border-radius: 8px;" alt="Paper Thumbnail">
+    </div>
+    <div style="flex-grow: 1;">
+        <p style="font-size: 16px; font-weight: bold;">9. Yujun Ma, Benjia Zhou, Ruili Wang, <span style="font-weight: bold;">Pichao Wang</span>, "Multi-stage Factorized Spatio-Temporal Representation for RGB-D Action and Gesture Recognition", ACM MM 2023.</p>
+    </div>
+</div>
 
-9. Shuning Chang, **Pichao Wang**, Hao Luo, Fan Wang, and Mike Zheng Shou, "Revisiting Vision Transformer from the View of Path Ensemble",  ***Oral***, ICCV 2023.
-   
-10.  Sarah Ibrahimi, Xiaohang Sun, **Pichao Wang**, Amanmeet Garg, Ashutosh Sanan, Mohamed Omar, "Audio-Enhanced Text-to-Video Retrieval using Text-Conditioned Feature Alignment",  ***Oral***, ICCV 2023.
-   
-11. *Shuning Chang*, **Pichao Wang**, Ming Lin, Fan Wang, David Junhao Zhang, Rong Jin and Mike Zheng Shou,(first two authors make equal contributions), "Making Vision Transformers Efficient from A Token Sparsification View", CVPR 2023. [paper](https://arxiv.org/pdf/2303.08685.pdf)  [code](https://github.com/changsn/STViT-R)
+<div style="display: flex; flex-direction: row; align-items: stretch; padding: 15px; border-bottom: 1px solid #ccc; margin-bottom: 20px;">
+    <div style="flex-shrink: 0; margin-right: 15px;">
+        <img src="./images/architecture.png" style="width: 150px; height: 100%; object-fit: cover; border-radius: 8px;" alt="Paper Thumbnail">
+    </div>
+    <div style="flex-grow: 1;">
+        <p style="font-size: 16px; font-weight: bold;">10. Shuning Chang, <span style="font-weight: bold;">Pichao Wang</span>, Hao Luo, Fan Wang, and Mike Zheng Shou, "Revisiting Vision Transformer from the View of Path Ensemble", ***Oral***, ICCV 2023.</p>
+    </div>
+</div>
 
-12. Qitao Zhao, Ce Zheng, Mengyuan Liu, **Pichao Wang**, Chen Chen, "PoseFormerV2: Exploring Frequency Domain for Efficient and Robust 3D Human Pose Estimation", CVPR 2023 [paper](https://arxiv.org/pdf/2303.17472.pdf) [code](https://github.com/QitaoZhao/PoseFormerV2)
+<div style="display: flex; flex-direction: row; align-items: stretch; padding: 15px; border-bottom: 1px solid #ccc; margin-bottom: 20px;">
+    <div style="flex-shrink: 0; margin-right: 15px;">
+        <img src="./images/architecture.png" style="width: 150px; height: 100%; object-fit: cover; border-radius: 8px;" alt="Paper Thumbnail">
+    </div>
+    <div style="flex-grow: 1;">
+        <p style="font-size: 16px; font-weight: bold;">11. Sarah Ibrahimi, Xiaohang Sun, <span style="font-weight: bold;">Pichao Wang</span>, Amanmeet Garg, Ashutosh Sanan, Mohamed Omar, "Audio-Enhanced Text-to-Video Retrieval using Text-Conditioned Feature Alignment", ***Oral***, ICCV 2023.</p>
+    </div>
+</div>
 
-13. Jue Wang, Wentao Zhu, **Pichao Wang**, Xiang Yu, Linda Liu, Mohamed Omar, and Raffay Hamid, "Selective Structured State-Spaces for Long-Form Video Understanding", CVPR2023 [paper](https://arxiv.org/pdf/2303.14526.pdf)
+<div style="display: flex; flex-direction: row; align-items: stretch; padding: 15px; border-bottom: 1px solid #ccc; margin-bottom: 20px;">
+    <div style="flex-shrink: 0; margin-right: 15px;">
+        <img src="./images/architecture.png" style="width: 150px; height: 100%; object-fit: cover; border-radius: 8px;" alt="Paper Thumbnail">
+    </div>
+    <div style="flex-grow: 1;">
+        <p style="font-size: 16px; font-weight: bold;">12. Shuning Chang, <span style="font-weight: bold;">Pichao Wang</span>, Ming Lin, Fan Wang, David Junhao Zhang, Rong Jin, "Making Vision Transformers Efficient from A Token Sparsification View", CVPR 2023.</p>
+        <p><a href="https://arxiv.org/pdf/2303.08685.pdf" target="_blank">Read Paper</a> | <a href="https://github.com/changsn/STViT-R" target="_blank">Code</a></p>
+    </div>
+</div>
 
-14. Bo Dong, **Pichao Wang**@, Fan Wang,(@ Corresponding author), "Head-Free Lightweight Semantic Segmentation with Linear Transformer", AAAI 2023.[paper](https://arxiv.org/pdf/2301.04648.pdf) [code](https://github.com/dongbo811/AFFormer)
+<div style="display: flex; flex-direction: row; align-items: stretch; padding: 15px; border-bottom: 1px solid #ccc; margin-bottom: 20px;">
+    <div style="flex-shrink: 0; margin-right: 15px;">
+        <img src="./images/architecture.png" style="width: 150px; height: 100%; object-fit: cover; border-radius: 8px;" alt="Paper Thumbnail">
+    </div>
+    <div style="flex-grow: 1;">
+        <p style="font-size: 16px; font-weight: bold;">13. Qitao Zhao, Ce Zheng, Mengyuan Liu, <span style="font-weight: bold;">Pichao Wang</span>, Chen Chen, "PoseFormerV2: Exploring Frequency Domain for Efficient and Robust 3D Human Pose Estimation", CVPR 2023.</p>
+        <p><a href="https://arxiv.org/pdf/2303.17472.pdf" target="_blank">Read Paper</a> | <a href="https://github.com/QitaoZhao/PoseFormerV2" target="_blank">Code</a></p>
+    </div>
+</div>
+
+<div style="display: flex; flex-direction: row; align-items: stretch; padding: 15px; border-bottom: 1px solid #ccc; margin-bottom: 20px;">
+    <div style="flex-shrink: 0; margin-right: 15px;">
+        <img src="./images/architecture.png" style="width: 150px; height: 100%; object-fit: cover; border-radius: 8px;" alt="Paper Thumbnail">
+    </div>
+    <div style="flex-grow: 1;">
+        <p style="font-size: 16px; font-weight: bold;">14. Jue Wang, Wentao Zhu, <span style="font-weight: bold;">Pichao Wang</span>, Xiang Yu, Linda Liu, Mohamed Omar, and Raffay Hamid, "Selective Structured State-Spaces for Long-Form Video Understanding", CVPR 2023.</p>
+        <p><a href="https://arxiv.org/pdf/2303.14526.pdf" target="_blank">Read Paper</a></p>
+    </div>
+</div>
+
+<div style="display: flex; flex-direction: row; align-items: stretch; padding: 15px; border-bottom: 1px solid #ccc; margin-bottom: 20px;">
+    <div style="flex-shrink: 0; margin-right: 15px;">
+        <img src="./images/architecture.png" style="width: 150px; height: 100%; object-fit: cover; border-radius: 8px;" alt="Paper Thumbnail">
+    </div>
+    <div style="flex-grow: 1;">
+        <p style="font-size: 16px; font-weight: bold;">15. Bo Dong, <span style="font-weight: bold;">Pichao Wang</span>, Fan Wang, "Head-Free Lightweight Semantic Segmentation with Linear Transformer", AAAI 2023.</p>
+        <p><a href="https://arxiv.org/pdf/2301.04648.pdf" target="_blank">Read Paper</a> | <a href="https://github.com/dongbo811/AFFormer" target="_blank">Code</a></p>
+    </div>
+</div>
+
+<!-- Continue for the remaining papers using the same structure -->
+
 
 15. Dongyang Li, Hao Luo, **Pichao Wang**, Zhibin Wang, Shang Liu, Fan Wang, "Frequency Domain Disentanglement for Arbitrary Neural Style Transfer", AAAI 2023.
 
