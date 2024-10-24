@@ -174,17 +174,6 @@ Computer Vision · Multimedia · Deep Learning · Image Representation · Video 
     </div>
 </div>
 
-<div style="display: flex; flex-direction: row; align-items: flex-start; padding: 15px; border-bottom: 1px solid #ccc; margin-bottom: 20px;">
-    <div style="flex-shrink: 0; margin-right: 15px;">
-        <img src="./images/architecture.png" style="width: 150px; height: auto; max-height: 100px; object-fit: cover; border-radius: 8px;" alt="Paper Thumbnail">
-    </div>
-    <div style="flex-grow: 1;">
-        <p style="font-size: 16px; font-weight: bold;">8. Wenhao Li, Mengyuan Liu, Hong Liu, <span style="font-weight: bold;">Pichao Wang</span>, Jialun Cai, and Nicu Sebe, "Hourglass Tokenizer for Efficient Transformer-Based 3D Human Pose Estimation", CVPR 2024 (Highlight).</p>
-        <p><a href="https://arxiv.org/pdf/2311.12028.pdf" target="_blank">Read Paper</a> | <a href="https://github.com/NationalGAILab/HoT" target="_blank">Code</a></p>
-    </div>
-</div>
-
-
 <div style="display: flex; flex-direction: row; align-items: stretch; padding: 15px; border-bottom: 1px solid #ccc; margin-bottom: 20px;">
     <div style="flex-shrink: 0; margin-right: 15px;">
         <img src="./images/architecture.png" style="width: 150px; height: 100%; object-fit: cover; border-radius: 8px;" alt="Paper Thumbnail">
