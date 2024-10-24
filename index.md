@@ -102,26 +102,26 @@ Action Recognition from RGB-D Data. The University of  Wollongong, 2017. (Best P
 1. Hao Luo, **Pichao Wang**, Yi Xu, Feng Ding, Yanxin Zhou, Fan Wang, Hao Li, Rong Jin, "Self-Supervised Pre-Training for Transformer-Based Person Re-Identification", arXiv 2021. [paper](https://arxiv.org/pdf/2111.12084.pdf). [code](https://github.com/damo-cv/TransReID-SSL)
 
 <div style="display: flex; align-items: flex-start; padding: 15px; border-bottom: 1px solid #ccc; margin-bottom: 20px;">
-    <!-- 图片部分 -->
+    <!-- Left: Image section -->
     <div style="flex-shrink: 0; margin-right: 15px;">
         <img src="./images/architecture.png" style="height: auto; width: 150px; object-fit: cover; border-radius: 8px;" alt="Paper Thumbnail">
     </div>
     
-    <!-- 右边的论文信息 -->
-    <div>
-        <!-- 论文标题和编号 -->
+    <!-- Right: Paper Information -->
+    <div style="flex-grow: 1;">
+        <!-- Title with number -->
         <p style="font-size: 18px; font-weight: bold; margin-bottom: 5px;">
             1. Enhancing Motion in Text-to-Video Generation with Decomposed Encoding and Conditioning
         </p>
-        <!-- 作者信息 -->
+        <!-- Authors -->
         <p style="margin-bottom: 5px;">
             Penghui Ruan, <span style="font-weight: bold;">Pichao Wang</span>, Divya Saxena, Jiannong Cao, Yuhui Shi
         </p>
-        <!-- 会议信息 -->
+        <!-- Conference Information -->
         <p style="font-style: italic; margin-bottom: 10px;">
             NeurIPS 2024
         </p>
-        <!-- 链接部分 -->
+        <!-- Links -->
         <p>
             <a href="https://linktopaper.com" target="_blank" style="margin-right: 10px;">Read Paper</a>
             <a href="https://github.com/research-code" target="_blank" style="margin-right: 10px;">Code</a>
