@@ -21,7 +21,7 @@ Email: pichaowang@gmail.com   [Goolge Scholar](https://scholar.google.com/citati
 
 ## Recent News
 
-1. 2024-12: As a contributor, **The Amazon Nova Family of Models: Technical report and model card** is announced. 
+1. 2024-12: As a contributor, **The Amazon Nova Family of Models** is announced. 
 2. 2024-09: One paper about text-to-video generation was accepted by **NeurIPS 2024**
 3. 2024-09: One paper about diffusion-based text-to-video retrieval was accepted by **NeurIPS 2024**
 4. 2024-09: One paper about MLLM for video segmentation was accepted by **NeurIPS 2024**
