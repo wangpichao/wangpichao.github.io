@@ -110,7 +110,7 @@ Action Recognition from RGB-D Data. The University of  Wollongong, 2017. (Best P
 
 ### Conference Papers (selected papers, [full paper list](https://scholar.google.com/citations?user=QozdnnoAAAAJ&hl=en))
 
-1.Zechen Bai, Tianjun Xiao, Tong He, **Pichao WANG**, Zheng Zhang, Thomas Brox, Mike Zheng Shou, "Bridging Information Asymmetry in Text-video Retrieval: A Data-centric Approach", ICLR 2025
+1. Zechen Bai, Tianjun Xiao, Tong He, **Pichao WANG**, Zheng Zhang, Thomas Brox, Mike Zheng Shou, "Bridging Information Asymmetry in Text-video Retrieval: A Data-centric Approach", ICLR 2025
 
 2. Mingyue Huo, Abhinav Jain, Cong Phuoc Huynh, Fanjie Kong, **Pichao Wang**, Zhu Liu, Vimal Bhat, "Beyond Speaker Identity: Text Guided Target Speech Extraction", ICASSP 2025
   
