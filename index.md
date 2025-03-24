@@ -15,9 +15,10 @@
 
 [**CVPR 2022 Best Student Paper Recipient**](https://cvpr2022.thecvf.com/cvpr-2022-paper-awards)
 
-In addition to research, I publish books that distill years of experience in AI and computer vision.
+**In addition to research, I publish books that distill years of experience in AI and computer vision.**
 👉 Visit my Amazon Author Page [
 amazon.com/author/wangpichao]
+
 👉 Check out curated content on my official book site [https://www.mudtechai.com/]
 
 Email: pichaowang@gmail.com   [Goolge Scholar](https://scholar.google.com/citations?user=QozdnnoAAAAJ&hl=en) [ResearchGate](https://www.researchgate.net/profile/Pichao-Wang) [Linkedin](https://www.linkedin.com/in/pichao-wang-494773109/)
