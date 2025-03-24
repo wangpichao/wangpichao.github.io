@@ -17,8 +17,7 @@
 
 **In addition to research, I publish books that distill years of experience in AI and computer vision.**
 
-👉 Visit my Amazon Author Page [
-amazon.com/author/wangpichao]
+👉 Visit my Amazon Author Page [https://www.amazon.com/author/wangpichao]
 
 👉 Check out curated content on my official book site [https://www.mudtechai.com/]
 
