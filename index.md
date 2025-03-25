@@ -80,7 +80,7 @@ I am a senior research scientist at Amazon AGI Foundations. Before I joined Amaz
 ---
 ## Research Interests
 
-Computer Vision · Multimedia · Deep Learning · Image Representation · Video Understanding
+Computer Vision · Visual Generation · LLM · MLLM · Speech Processing 
 
 ---
 ## Selected Awards and Honors
