@@ -15,16 +15,18 @@
 
 [**CVPR 2022 Best Student Paper Recipient**](https://cvpr2022.thecvf.com/cvpr-2022-paper-awards)
 
+---
+
 **In addition to research, I publish books that distill years of experience in AI and computer vision.**
 
 👉 [**Check out curated content on my official book site**](https://www.mudtechai.com/)
 
 👉 [**Visit my Amazon Author Page**](https://www.amazon.com/author/wangpichao)
 
-
+---
 Email: pichaowang@gmail.com   [Goolge Scholar](https://scholar.google.com/citations?user=QozdnnoAAAAJ&hl=en) [ResearchGate](https://www.researchgate.net/profile/Pichao-Wang) [Linkedin](https://www.linkedin.com/in/pichao-wang-494773109/)
 
-
+---
 ## Recent News
 
 1. 2025-01: One paper about text-to-video retrieval was accepted by **ICLR 2025**
@@ -70,15 +72,17 @@ Email: pichaowang@gmail.com   [Goolge Scholar](https://scholar.google.com/citati
 41. 2021-06: One paper about video object detection was accepted by **IJCV**.
 42. 2021-06: One paper about video object detection was accepted by **IEEE TCSVT**.
 
-
+---
 ## Biography
 
 I am a senior research scientist at Amazon AGI Foundations. Before I joined Amazon, I worked as a staff/senior engineer at DAMO Academy, Alibaba Group (U.S.) for more than 4 years. I received my Ph.D in Computer Science from [University of Wollongong](https://www.uow.edu.au/media/2022/new-high-for-uow-in-qs-world-university-rankings.php), Australia, in Oct. 2017, supervised by Prof. [Wanqing Li](https://sites.google.com/view/wanqingli/home-news) and Prof. [Philip Ogunbona](https://documents.uow.edu.au/~philipo/).  I received  my M.E. in Information and Communication Engineering from [Tianjin University](http://www.tju.edu.cn/english/index.htm), China, in 2013, supervised by Prof. [Yonghong Hou](http://seea.tju.edu.cn/info/1122/2098.htm), and B.E. in Network Engineering from [Nanchang University](http://english.ncu.edu.cn/), China, in 2010.
 
+---
 ## Research Interests
 
 Computer Vision · Multimedia · Deep Learning · Image Representation · Video Understanding
 
+---
 ## Selected Awards and Honors
 
 1. Apr. 2024, The Tony Stark Award of Prime Video
@@ -107,7 +111,7 @@ Computer Vision · Multimedia · Deep Learning · Image Representation · Video 
 
 13. Dec. 2011 Excellent Prize, National Campus CUDA Programming Contest. [certificate](https://sites.google.com/site/pichaossites/resources/img051.jpg?attredirects=0&d=1)
 
-
+---
 ## Publications
 
 ### Ph.D. Dissertation
@@ -244,6 +248,7 @@ Knowledge-Based Systems,2018. [paper](https://www.sciencedirect.com/science/arti
 
 1. Hao Luo, **Pichao Wang**, Yi Xu, Feng Ding, Yanxin Zhou, Fan Wang, Hao Li, Rong Jin, "Self-Supervised Pre-Training for Transformer-Based Person Re-Identification", arXiv 2021. [paper](https://arxiv.org/pdf/2111.12084.pdf). [code](https://github.com/damo-cv/TransReID-SSL)
 
+---
 ## Academic Activities
 
 ### Editorial Works:
@@ -278,6 +283,8 @@ Knowledge-Based Systems,2018. [paper](https://www.sciencedirect.com/science/arti
 10. ICML2021,2022
 11. ICLR2022,2023,2024
 
+
+---
 ## Work Experience
 1. 2018.9-2022.10: I was employed as a staff/senior algorithm engineer, and conducted research on various computer vision tasks.
 
@@ -289,6 +296,8 @@ Knowledge-Based Systems,2018. [paper](https://www.sciencedirect.com/science/arti
 
 5. 2010.07-2011.06: I participated a National High-tech R&D Program (863 Program) project at Institute of Wideband Wireless Communication and 3D Imaging (IWWC&3DI): Multi-view video acquisition and demonstration system (2009AA011507). I was in charge of adaptive definition adjustment and format conversion in 3D video network and implemented the 3D video combination algorithm using paralleled methods based on CUDA.
 
+
+---
 ## Datasets
 1. [FT-HID Dataset](https://github.com/ENDLICHERE/FT-HID): The dataset contains more than 38K RGB samples, 38K depth samples, and about 20K skeleton sequences. 30 classes of daily actions are designed specically for multi-person interaction with a wearable device and three fixed cameras. FT-HID dataset has a comparable number of data, action classes, and scenes with other RGB-D action recognition datasets. It is more complex as the data is collected from 109 distinct subjects with large variations in gender, age, and physical condition. More importantly, to the best of our knowledge, it is the first large-scale RGB-D dataset that is collected from both TPV and FPV perspectives for action recognition. Please cite the following papers if you use the dataset: 
 Zihui Guo, Yonghong Hou, Pichao Wang, Zhimin Gao, Mingliang Xu and Wanqing Li, "FT-HID: A Large Scale RGB-D Dataset for First and Third Person Human Interaction Analysis", Neural Computing and Applications, 2022. [paper](https://arxiv.org/pdf/2209.10155.pdf) [code](https://github.com/ENDLICHERE/FT-HID)
