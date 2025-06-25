@@ -29,7 +29,7 @@ Email: pichaowang@gmail.com   [Goolge Scholar](https://scholar.google.com/citati
 ---
 ## Recent News
 
-1. 2025-06: One paper about AR-based image editing was accepted by **ICCV2015**
+1. 2025-06: One paper about AR-based image editing was accepted by **ICCV2025**
 2. 2025-05: One paper about text-to-speech diffusion models was accepted by **Interspeech 2025**
 3. 2025-05: One paper about preference optimization was accepted by **ACL 2025**
 4. 2025-01: One paper about text-to-video retrieval was accepted by **ICLR 2025**
