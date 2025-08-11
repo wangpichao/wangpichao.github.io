@@ -78,7 +78,7 @@ Email: pichaowang@gmail.com   [Goolge Scholar](https://scholar.google.com/citati
 ---
 ## Biography
 
-I am a senior research scientist at Amazon AGI Foundations. Before I joined Amazon, I worked as a staff/senior engineer at DAMO Academy, Alibaba Group (U.S.) for more than 4 years. I received my Ph.D in Computer Science from [University of Wollongong](https://www.uow.edu.au/media/2022/new-high-for-uow-in-qs-world-university-rankings.php), Australia, in Oct. 2017, supervised by Prof. [Wanqing Li](https://sites.google.com/view/wanqingli/home-news) and Prof. [Philip Ogunbona](https://documents.uow.edu.au/~philipo/).  I received  my M.E. in Information and Communication Engineering from [Tianjin University](http://www.tju.edu.cn/english/index.htm), China, in 2013, supervised by Prof. [Yonghong Hou](http://seea.tju.edu.cn/info/1122/2098.htm), and B.E. in Network Engineering from [Nanchang University](http://english.ncu.edu.cn/), China, in 2010.
+I am a senior applied scientist at Amazon AGI Foundations. Before I joined Amazon, I worked as a staff/senior engineer at DAMO Academy, Alibaba Group (U.S.) for more than 4 years. I received my Ph.D in Computer Science from [University of Wollongong](https://www.uow.edu.au/media/2022/new-high-for-uow-in-qs-world-university-rankings.php), Australia, in Oct. 2017, supervised by Prof. [Wanqing Li](https://sites.google.com/view/wanqingli/home-news) and Prof. [Philip Ogunbona](https://documents.uow.edu.au/~philipo/).  I received  my M.E. in Information and Communication Engineering from [Tianjin University](http://www.tju.edu.cn/english/index.htm), China, in 2013, supervised by Prof. [Yonghong Hou](http://seea.tju.edu.cn/info/1122/2098.htm), and B.E. in Network Engineering from [Nanchang University](http://english.ncu.edu.cn/), China, in 2010.
 
 ---
 ## Research Interests
@@ -123,83 +123,85 @@ Action Recognition from RGB-D Data. The University of  Wollongong, 2017. (Best P
 
 ### Conference Papers (selected papers, [full paper list](https://scholar.google.com/citations?user=QozdnnoAAAAJ&hl=en))
 
-1. Guofeng Cui, **Pichao Wang**, Yang Liu, Zemian Ke, Zhu Liu, Vimal Bhat, “CRPO: Confidence-Reward Driven Preference Optimization for Machine Translation”, ACL 2025.
+1. Yufei Wang, Lanqing Guo, Zhihao Li, Jiaxing Huang, **Pichao Wang**, Bihan Wen, Jian Wang, "Training-Free Text-Guided Image Editing with Visual Autoregressive Model", ICCV 2025
 
-2. Jingyi Chen,Ju-Seung Byun, Micha Elsner, **Pichao Wang**, Andrew Perrault, "Fine-Tuning Text-to-Speech Diffusion Models Using Reinforcement Learning with Human Feedback", Interspeech 2025 
+2. Guofeng Cui, **Pichao Wang**, Yang Liu, Zemian Ke, Zhu Liu, Vimal Bhat, “CRPO: Confidence-Reward Driven Preference Optimization for Machine Translation”, ACL 2025.
+
+3. Jingyi Chen,Ju-Seung Byun, Micha Elsner, **Pichao Wang**, Andrew Perrault, "Fine-Tuning Text-to-Speech Diffusion Models Using Reinforcement Learning with Human Feedback", Interspeech 2025 
    
-3. Zechen Bai, Tianjun Xiao, Tong He, **Pichao WANG**, Zheng Zhang, Thomas Brox, Mike Zheng Shou, "Bridging Information Asymmetry in Text-video Retrieval: A Data-centric Approach", ICLR 2025
+4. Zechen Bai, Tianjun Xiao, Tong He, **Pichao WANG**, Zheng Zhang, Thomas Brox, Mike Zheng Shou, "Bridging Information Asymmetry in Text-video Retrieval: A Data-centric Approach", ICLR 2025
 
-4. Mingyue Huo, Abhinav Jain, Cong Phuoc Huynh, Fanjie Kong, **Pichao Wang**, Zhu Liu, Vimal Bhat, "Beyond Speaker Identity: Text Guided Target Speech Extraction", ICASSP 2025
+5. Mingyue Huo, Abhinav Jain, Cong Phuoc Huynh, Fanjie Kong, **Pichao Wang**, Zhu Liu, Vimal Bhat, "Beyond Speaker Identity: Text Guided Target Speech Extraction", ICASSP 2025
   
-5. Minxue Niu, Najmeh Sadoughi, Abhishek Yanamandra, **Pichao Wang**, Zhu Liu, Vimal Bhat, and Sarah Norred, "Learning Rich Speech Representations with Acoustic-Semantic Factorization", ICASSP 2025.
+6. Minxue Niu, Najmeh Sadoughi, Abhishek Yanamandra, **Pichao Wang**, Zhu Liu, Vimal Bhat, and Sarah Norred, "Learning Rich Speech Representations with Acoustic-Semantic Factorization", ICASSP 2025.
 
-6. Penghui Ruan, **Pichao Wang**, Divya Saxena, Jiannong Cao, Yuhui Shi, "Enhancing Motion in Text-to-Video Generation with Decomposed Encoding and Conditioning", NeurIPS 2024.
+7. Penghui Ruan, **Pichao Wang**, Divya Saxena, Jiannong Cao, Yuhui Shi, "Enhancing Motion in Text-to-Video Generation with Decomposed Encoding and Conditioning", NeurIPS 2024.
    
-7. Jiamian Wang, **Pichao Wang**, Dongfang Liu, Qiang Guan, Sohail Dianat, Majid Rabbani, Raghuveer Rao, Zhiqiang Tao, "Diffusion-Inspiered Truncated Sampler for Text-Video Retrieval", NeurIPS 2024.
+8. Jiamian Wang, **Pichao Wang**, Dongfang Liu, Qiang Guan, Sohail Dianat, Majid Rabbani, Raghuveer Rao, Zhiqiang Tao, "Diffusion-Inspiered Truncated Sampler for Text-Video Retrieval", NeurIPS 2024.
    
-8. Zechen Bai, Tong He, Haiyang Mei, **Pichao Wang**, Ziteng Gao, Joya Chen, Lei Liu, Zheng Zhang, Mike Zheng Shou, "One Token to Seg Them All: Language Instructed Reasoning Segmentation in Videos", NeurIPS 2024.
+9. Zechen Bai, Tong He, Haiyang Mei, **Pichao Wang**, Ziteng Gao, Joya Chen, Lei Liu, Zheng Zhang, Mike Zheng Shou, "One Token to Seg Them All: Language Instructed Reasoning Segmentation in Videos", NeurIPS 2024.
    
-9. Jiaqi Wang, **Pichao Wang**, Yi Feng, Huafeng Liu, Chang Gao, Liping Jing, “Align2Concept: Language Guided Interpretable Image Recognition by Visual Prototype and Textural Concept Alignment”, ACM MM 2024.
+10. Jiaqi Wang, **Pichao Wang**, Yi Feng, Huafeng Liu, Chang Gao, Liping Jing, “Align2Concept: Language Guided Interpretable Image Recognition by Visual Prototype and Textural Concept Alignment”, ACM MM 2024.
    
-10. Bo Dong, **Pichao Wang**, Hao Luo, Fan Wang, “Adaptive Query Selection for Camouflaged Instance Segmentation”, ACM MM 2024.
+11. Bo Dong, **Pichao Wang**, Hao Luo, Fan Wang, “Adaptive Query Selection for Camouflaged Instance Segmentation”, ACM MM 2024.
 
-11. Jiamian Wang, Guohao Sun, **Pichao Wang**, Dongfang Liu, Sohail Dianat, Majid Rabbani, Raghuveer Rao, Zhiqinag Tao, "Text is MASS: Modelling as Stochasitc Embedding for Text-to-Video Retrieval", CVPR 2024 (Highlight).[paper](https://arxiv.org/pdf/2403.17998.pdf) [code](https://github.com/Jiamian-Wang/T-MASS-text-video-retrieval)
+12. Jiamian Wang, Guohao Sun, **Pichao Wang**, Dongfang Liu, Sohail Dianat, Majid Rabbani, Raghuveer Rao, Zhiqinag Tao, "Text is MASS: Modelling as Stochasitc Embedding for Text-to-Video Retrieval", CVPR 2024 (Highlight).[paper](https://arxiv.org/pdf/2403.17998.pdf) [code](https://github.com/Jiamian-Wang/T-MASS-text-video-retrieval)
    
-12. Wenhao Li, Mengyuan Liu, Hong Liu, **Pichao Wang**, Jialun Cai, and Nicu Sebe, "Hourglass Tokenizer for Efficient Transformer-Based 3D Human Pose Estimation", CVPR 2024 (Highlight). [paper](https://arxiv.org/pdf/2311.12028.pdf) [code](https://github.com/NationalGAILab/HoT)
+13. Wenhao Li, Mengyuan Liu, Hong Liu, **Pichao Wang**, Jialun Cai, and Nicu Sebe, "Hourglass Tokenizer for Efficient Transformer-Based 3D Human Pose Estimation", CVPR 2024 (Highlight). [paper](https://arxiv.org/pdf/2311.12028.pdf) [code](https://github.com/NationalGAILab/HoT)
    
-13. Yujun Ma, Benjia Zhou, Ruili Wang, **Pichao WANG**, "Multi-stage Factorized Spatio-Temporal Representation for RGB-D Action and Gesture Recognition", ACM MM 2023.
+14. Yujun Ma, Benjia Zhou, Ruili Wang, **Pichao WANG**, "Multi-stage Factorized Spatio-Temporal Representation for RGB-D Action and Gesture Recognition", ACM MM 2023.
 
-14. Shuning Chang, **Pichao Wang**, Hao Luo, Fan Wang, and Mike Zheng Shou, "Revisiting Vision Transformer from the View of Path Ensemble",  ***Oral***, ICCV 2023.
+15. Shuning Chang, **Pichao Wang**, Hao Luo, Fan Wang, and Mike Zheng Shou, "Revisiting Vision Transformer from the View of Path Ensemble",  ***Oral***, ICCV 2023.
    
-15.  Sarah Ibrahimi, Xiaohang Sun, **Pichao Wang**, Amanmeet Garg, Ashutosh Sanan, Mohamed Omar, "Audio-Enhanced Text-to-Video Retrieval using Text-Conditioned Feature Alignment",  ***Oral***, ICCV 2023.
+16.  Sarah Ibrahimi, Xiaohang Sun, **Pichao Wang**, Amanmeet Garg, Ashutosh Sanan, Mohamed Omar, "Audio-Enhanced Text-to-Video Retrieval using Text-Conditioned Feature Alignment",  ***Oral***, ICCV 2023.
    
-16. *Shuning Chang*, **Pichao Wang**, Ming Lin, Fan Wang, David Junhao Zhang, Rong Jin and Mike Zheng Shou,(first two authors make equal contributions), "Making Vision Transformers Efficient from A Token Sparsification View", CVPR 2023. [paper](https://arxiv.org/pdf/2303.08685.pdf)  [code](https://github.com/changsn/STViT-R)
+17. *Shuning Chang*, **Pichao Wang**, Ming Lin, Fan Wang, David Junhao Zhang, Rong Jin and Mike Zheng Shou,(first two authors make equal contributions), "Making Vision Transformers Efficient from A Token Sparsification View", CVPR 2023. [paper](https://arxiv.org/pdf/2303.08685.pdf)  [code](https://github.com/changsn/STViT-R)
 
-17. Qitao Zhao, Ce Zheng, Mengyuan Liu, **Pichao Wang**, Chen Chen, "PoseFormerV2: Exploring Frequency Domain for Efficient and Robust 3D Human Pose Estimation", CVPR 2023 [paper](https://arxiv.org/pdf/2303.17472.pdf) [code](https://github.com/QitaoZhao/PoseFormerV2)
+18. Qitao Zhao, Ce Zheng, Mengyuan Liu, **Pichao Wang**, Chen Chen, "PoseFormerV2: Exploring Frequency Domain for Efficient and Robust 3D Human Pose Estimation", CVPR 2023 [paper](https://arxiv.org/pdf/2303.17472.pdf) [code](https://github.com/QitaoZhao/PoseFormerV2)
 
-18. Jue Wang, Wentao Zhu, **Pichao Wang**, Xiang Yu, Linda Liu, Mohamed Omar, and Raffay Hamid, "Selective Structured State-Spaces for Long-Form Video Understanding", CVPR2023 [paper](https://arxiv.org/pdf/2303.14526.pdf)
+19. Jue Wang, Wentao Zhu, **Pichao Wang**, Xiang Yu, Linda Liu, Mohamed Omar, and Raffay Hamid, "Selective Structured State-Spaces for Long-Form Video Understanding", CVPR2023 [paper](https://arxiv.org/pdf/2303.14526.pdf)
 
-19. Bo Dong, **Pichao Wang**@, Fan Wang,(@ Corresponding author), "Head-Free Lightweight Semantic Segmentation with Linear Transformer", AAAI 2023.[paper](https://arxiv.org/pdf/2301.04648.pdf) [code](https://github.com/dongbo811/AFFormer)
+20. Bo Dong, **Pichao Wang**@, Fan Wang,(@ Corresponding author), "Head-Free Lightweight Semantic Segmentation with Linear Transformer", AAAI 2023.[paper](https://arxiv.org/pdf/2301.04648.pdf) [code](https://github.com/dongbo811/AFFormer)
 
-20. Dongyang Li, Hao Luo, **Pichao Wang**, Zhibin Wang, Shang Liu, Fan Wang, "Frequency Domain Disentanglement for Arbitrary Neural Style Transfer", AAAI 2023.
+21. Dongyang Li, Hao Luo, **Pichao Wang**, Zhibin Wang, Shang Liu, Fan Wang, "Frequency Domain Disentanglement for Arbitrary Neural Style Transfer", AAAI 2023.
 
-21. Zhenyu Wang, Hao Luo, **Pichao Wang**, Feng Ding, Fan Wang, Hao Li, "VTC-LFC: Vision Transformer Compression with Low-Frequency Components", NeurIPS 2022.[paper](https://openreview.net/pdf?id=HuiLIB6EaOk) [code](https://github.com/Daner-Wang/VTC-LFC)
+22. Zhenyu Wang, Hao Luo, **Pichao Wang**, Feng Ding, Fan Wang, Hao Li, "VTC-LFC: Vision Transformer Compression with Low-Frequency Components", NeurIPS 2022.[paper](https://openreview.net/pdf?id=HuiLIB6EaOk) [code](https://github.com/Daner-Wang/VTC-LFC)
 
-22. **Pichao Wang**, *Xue Wang*, Fan Wang, Ming Lin, Shuning Chang, Hao Li, Rong Jin, (first two authors make equal contributions), "KVT: k-NN Attention for Boosting Vision Transformers", ECCV 2022. [paper](https://arxiv.org/pdf/2106.00515.pdf). [code](https://github.com/damo-cv/KVT)
+23. **Pichao Wang**, *Xue Wang*, Fan Wang, Ming Lin, Shuning Chang, Hao Li, Rong Jin, (first two authors make equal contributions), "KVT: k-NN Attention for Boosting Vision Transformers", ECCV 2022. [paper](https://arxiv.org/pdf/2106.00515.pdf). [code](https://github.com/damo-cv/KVT)
 
-23. Zhaoyuan Yin, **Pichao Wang**@, Fan Wang, Xianzhe Xu, Hanling Zhang, Hao Li, Rong Jin,(@ Corresponding author), "TransFGU: A Top-down Approach to Fine-Grained Unsupervised Semantic Segmentation", ECCV 2022, ***Oral***(2.7% of submitted papers) [paper](https://arxiv.org/pdf/2112.01515.pdf). [code](https://github.com/damo-cv/TransFGU)
+24. Zhaoyuan Yin, **Pichao Wang**@, Fan Wang, Xianzhe Xu, Hanling Zhang, Hao Li, Rong Jin,(@ Corresponding author), "TransFGU: A Top-down Approach to Fine-Grained Unsupervised Semantic Segmentation", ECCV 2022, ***Oral***(2.7% of submitted papers) [paper](https://arxiv.org/pdf/2112.01515.pdf). [code](https://github.com/damo-cv/TransFGU)
 
-24. Benjia Zhou, **Pichao Wang**@, Jun Wan, Yanyan Liang, Fan Wang, Du Zhang, Zhen Lei, Hao Li, Rong Jin, (@ Corresponding author), "Decoupling and Recoupling Spatiotemporal Representation for RGB-D-based Motion Recognition", CVPR 2022. [paper](https://arxiv.org/pdf/2112.09129.pdf). [code](https://github.com/damo-cv/MotionRGBD)
+25. Benjia Zhou, **Pichao Wang**@, Jun Wan, Yanyan Liang, Fan Wang, Du Zhang, Zhen Lei, Hao Li, Rong Jin, (@ Corresponding author), "Decoupling and Recoupling Spatiotemporal Representation for RGB-D-based Motion Recognition", CVPR 2022. [paper](https://arxiv.org/pdf/2112.09129.pdf). [code](https://github.com/damo-cv/MotionRGBD)
 
-25. Hansheng Chen, **Pichao Wang**@, Fan Wang, Wei Tian, Lu Xiong, Hao Li, (@ Corresponding author), "EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation", CVPR 2022, ***Best Student Paper Award***. [paper](https://arxiv.org/pdf/2203.13254.pdf) [code](https://github.com/tjiiv-cprg/EPro-PnP)
+26. Hansheng Chen, **Pichao Wang**@, Fan Wang, Wei Tian, Lu Xiong, Hao Li, (@ Corresponding author), "EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation", CVPR 2022, ***Best Student Paper Award***. [paper](https://arxiv.org/pdf/2203.13254.pdf) [code](https://github.com/tjiiv-cprg/EPro-PnP)
 
-26. Wenhao Li, Hong Liu, Hao Tang, **Pichao Wang**, Luc Van Gool, "MHFormer: Multi-Hypothesis Transformer for 3D Human Pose Estimation", CVPR 2022. [paper](https://arxiv.org/pdf/2111.12707.pdf). [code](https://github.com/Vegetebird/MHFormer)
+27. Wenhao Li, Hong Liu, Hao Tang, **Pichao Wang**, Luc Van Gool, "MHFormer: Multi-Hypothesis Transformer for 3D Human Pose Estimation", CVPR 2022. [paper](https://arxiv.org/pdf/2111.12707.pdf). [code](https://github.com/Vegetebird/MHFormer)
 
-27. **Pichao Wang**, Fan Wang, Hao Li, "Image-to-Video Re-Identification via Mutual Discriminative Knowledge Transfer", ICASSP 2022. [paper](https://www.researchgate.net/publication/358008989_IMAGE-TO-VIDEO_RE-IDENTIFICATION_VIA_MUTUAL_DISCRIMINATIVE_KNOWLEDGE_TRANSFER)
+28. **Pichao Wang**, Fan Wang, Hao Li, "Image-to-Video Re-Identification via Mutual Discriminative Knowledge Transfer", ICASSP 2022. [paper](https://www.researchgate.net/publication/358008989_IMAGE-TO-VIDEO_RE-IDENTIFICATION_VIA_MUTUAL_DISCRIMINATIVE_KNOWLEDGE_TRANSFER)
 
-28. Tongkun Xu, Weihua Chen, **Pichao Wang**, Fan Wang, Hao Li, Rong Jin, "Cdtrans: Cross-domain transformer for unsupervised domain adaptation", ICLR 2022. [paper](https://arxiv.org/pdf/2109.06165.pdf). [code](https://github.com/CDTrans/CDTrans)
+29. Tongkun Xu, Weihua Chen, **Pichao Wang**, Fan Wang, Hao Li, Rong Jin, "Cdtrans: Cross-domain transformer for unsupervised domain adaptation", ICLR 2022. [paper](https://arxiv.org/pdf/2109.06165.pdf). [code](https://github.com/CDTrans/CDTrans)
 
-29. **Pichao Wang**, *Xue Wang*, Hao Luo, Jingkai Zhou, Zhipeng Zhou, Fan Wang, Hao Li, and Rong Jin,(first two authors make equal contributions), "Scaled relu matters for training vision transformers", AAAI 2022. [paper](https://arxiv.org/abs/2109.03810). [video](https://recorder-v3.slideslive.com/#/share?share=57843&s=123e71d8-018a-41fa-a13f-1f18a969188c)
+30. **Pichao Wang**, *Xue Wang*, Hao Luo, Jingkai Zhou, Zhipeng Zhou, Fan Wang, Hao Li, and Rong Jin,(first two authors make equal contributions), "Scaled relu matters for training vision transformers", AAAI 2022. [paper](https://arxiv.org/abs/2109.03810). [video](https://recorder-v3.slideslive.com/#/share?share=57843&s=123e71d8-018a-41fa-a13f-1f18a969188c)
 
-30. Shuting He, Hao Luo, **Pichao Wang**, Fan Wang, Hao Li, and Wei Jiang, "TransReid: Transformer-based Object Re-identification",ICCV 2021. [paper](https://openaccess.thecvf.com/content/ICCV2021/papers/He_TransReID_Transformer-Based_Object_Re-Identification_ICCV_2021_paper.pdf). [code](https://github.com/damo-cv/TransReID)
+31. Shuting He, Hao Luo, **Pichao Wang**, Fan Wang, Hao Li, and Wei Jiang, "TransReid: Transformer-based Object Re-identification",ICCV 2021. [paper](https://openaccess.thecvf.com/content/ICCV2021/papers/He_TransReID_Transformer-Based_Object_Re-Identification_ICCV_2021_paper.pdf). [code](https://github.com/damo-cv/TransReID)
 
-31. Min Lin, **Pichao Wang**, Zhenhong Sun, Hesen Chen, Xiuyu Sun, Qi Qian, Hao Li, and Rong Jin, "Zen-NAS: A Zero-Shot NAS for High-Performance Deep Image Recognition", ICCV 2021. [paper](https://arxiv.org/pdf/2102.01063.pdf). [code](https://github.com/idstcv/ZenNAS)
+32. Min Lin, **Pichao Wang**, Zhenhong Sun, Hesen Chen, Xiuyu Sun, Qi Qian, Hao Li, and Rong Jin, "Zen-NAS: A Zero-Shot NAS for High-Performance Deep Image Recognition", ICCV 2021. [paper](https://arxiv.org/pdf/2102.01063.pdf). [code](https://github.com/idstcv/ZenNAS)
  
-32. *Liang Han*, **Pichao Wang**, Zhaozheng Yin, Fan Wang, and Hao Li, (*first two authors make equal contributions*) "Exploiting Better Feature Aggregation for Video Object Detection", ACM MM 2020. [paper](https://par.nsf.gov/servlets/purl/10289758)
+33. *Liang Han*, **Pichao Wang**, Zhaozheng Yin, Fan Wang, and Hao Li, (*first two authors make equal contributions*) "Exploiting Better Feature Aggregation for Video Object Detection", ACM MM 2020. [paper](https://par.nsf.gov/servlets/purl/10289758)
 
-33. Chang Tang, Xinwang Liu, Xinzhong Zhu, En Zhu, Kun Sun, **Pichao Wang**, Lizhe Wang and Albert Zomaya, "R2MRF: Defocus Blur Detection via Recurrently Refining Multi-scale Residual Features", AAAI 2020.[paper](https://ojs.aaai.org/index.php/AAAI/article/download/6884/6738). [code](https://github.com/ChangTang/R2MRF)
+34. Chang Tang, Xinwang Liu, Xinzhong Zhu, En Zhu, Kun Sun, **Pichao Wang**, Lizhe Wang and Albert Zomaya, "R2MRF: Defocus Blur Detection via Recurrently Refining Multi-scale Residual Features", AAAI 2020.[paper](https://ojs.aaai.org/index.php/AAAI/article/download/6884/6738). [code](https://github.com/ChangTang/R2MRF)
 
-34. **Pichao Wang**, Wanqing Li, Jun Wan, Philip Ogunbona, and Xinwang Liu, "Cooperative Training of Deep Aggregation Networks for RGB-D Action Recognition", AAAI 2018, ***ORAL*** [paper](https://sites.google.com/site/pichaossites/resources/AAAI2018_action.pdf?attredirects=0&d=1). [code](https://sites.google.com/site/pichaossites/resources/codesAAAI.zip?attredirects=0&d=1)
+35. **Pichao Wang**, Wanqing Li, Jun Wan, Philip Ogunbona, and Xinwang Liu, "Cooperative Training of Deep Aggregation Networks for RGB-D Action Recognition", AAAI 2018, ***ORAL*** [paper](https://sites.google.com/site/pichaossites/resources/AAAI2018_action.pdf?attredirects=0&d=1). [code](https://sites.google.com/site/pichaossites/resources/codesAAAI.zip?attredirects=0&d=1)
   
-35. *Huogen Wang*, **Pichao Wang**, Zhanjie Song, and Wanqing Li, (first two authors make equal contributions) "Large-scale Multimodal Gesture Recognition Using Heterogeneous Networks", ICCV 2017.[paper](https://sites.google.com/site/pichaossites/resources/Heterogeneous.pdf?attredirects=0&d=1). [code](https://github.com/wanghuogen/ConGestureChallenge4ICCV)
+36. *Huogen Wang*, **Pichao Wang**, Zhanjie Song, and Wanqing Li, (first two authors make equal contributions) "Large-scale Multimodal Gesture Recognition Using Heterogeneous Networks", ICCV 2017.[paper](https://sites.google.com/site/pichaossites/resources/Heterogeneous.pdf?attredirects=0&d=1). [code](https://github.com/wanghuogen/ConGestureChallenge4ICCV)
   
-36. *Huogen Wang*, **Pichao Wang**, Zhanjie Song, and Wanqing Li, (first two authors make equal contributions) "Large-scale Multimodal Gesture Segmentation and Recognition based on Convolutional Neural Network", ICCV 2017. [paper](https://sites.google.com/site/pichaossites/resources/CNN_ICCV_2017_paper.pdf?attredirects=0&d=1). [code](https://github.com/wanghuogen/ConGestureChallenge4ICCV-DF)
+37. *Huogen Wang*, **Pichao Wang**, Zhanjie Song, and Wanqing Li, (first two authors make equal contributions) "Large-scale Multimodal Gesture Segmentation and Recognition based on Convolutional Neural Network", ICCV 2017. [paper](https://sites.google.com/site/pichaossites/resources/CNN_ICCV_2017_paper.pdf?attredirects=0&d=1). [code](https://github.com/wanghuogen/ConGestureChallenge4ICCV-DF)
   
-37. **Pichao Wang**, Wanqing Li, Zhimin Gao, Yuyao Zhang, Chang Tang, and Philip Ogunbona, "Scene Flow to Action Map: A New Representation for RGB-D Based Action Recognition with Convolutional Neural Networks", CVPR 2017.  [paper](https://arxiv.org/pdf/1702.08652.pdf)
+38. **Pichao Wang**, Wanqing Li, Zhimin Gao, Yuyao Zhang, Chang Tang, and Philip Ogunbona, "Scene Flow to Action Map: A New Representation for RGB-D Based Action Recognition with Convolutional Neural Networks", CVPR 2017.  [paper](https://arxiv.org/pdf/1702.08652.pdf)
    
-38. **Pichao Wang**, *Zhaoyang Li*, Yonghong Hou, and Wanqing Li, (first two authors make equal contributions) "Action Recognition Based on Joint Trajectory Maps Using Convolutional Neural Networks", ACM MM 16. [paper](https://sites.google.com/site/pichaossites/resources/p102-wang.pdf?attredirects=0&d=1). [code](https://sites.google.com/site/pichaossites/resources/JTM-rotate-ntu.zip?attredirects=0&d=1)
+39. **Pichao Wang**, *Zhaoyang Li*, Yonghong Hou, and Wanqing Li, (first two authors make equal contributions) "Action Recognition Based on Joint Trajectory Maps Using Convolutional Neural Networks", ACM MM 16. [paper](https://sites.google.com/site/pichaossites/resources/p102-wang.pdf?attredirects=0&d=1). [code](https://sites.google.com/site/pichaossites/resources/JTM-rotate-ntu.zip?attredirects=0&d=1)
   
-39. **Pichao Wang**, Wanqing Li, Zhimin Gao, Chang Tang, Jing Zhang, and Philip Ogunbona,"ConvNets-Based Action Recognition from Depth Maps Through Virtual Cameras and Pseudocoloring", ACM MM 15. [paper](https://sites.google.com/site/pichaossites/resources/ConvNet%20Action%20Recognition.pdf?attredirects=0&d=1). [code](https://sites.google.com/site/pichaossites/resources/THMS.zip?attredirects=0&d=1)
+40. **Pichao Wang**, Wanqing Li, Zhimin Gao, Chang Tang, Jing Zhang, and Philip Ogunbona,"ConvNets-Based Action Recognition from Depth Maps Through Virtual Cameras and Pseudocoloring", ACM MM 15. [paper](https://sites.google.com/site/pichaossites/resources/ConvNet%20Action%20Recognition.pdf?attredirects=0&d=1). [code](https://sites.google.com/site/pichaossites/resources/THMS.zip?attredirects=0&d=1)
 
 
 ### Journal Articles (selected papers, [full paper list](https://scholar.google.com/citations?user=QozdnnoAAAAJ&hl=en))
