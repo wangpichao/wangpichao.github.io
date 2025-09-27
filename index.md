@@ -11,7 +11,7 @@
 
 [**AI 2000 Most Influential Scholar**](https://www.aminer.cn/ai2000/search_rank?id=562c81d345cedb3398c44362)
 
-[**World's Top 1% Scientist named by Stanford University**](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6)
+[**World's Top 0.5% Scientist named by Stanford University**](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/8)
 
 [**CVPR 2022 Best Student Paper Recipient**](https://cvpr2022.thecvf.com/cvpr-2022-paper-awards)
 
