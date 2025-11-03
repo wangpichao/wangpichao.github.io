@@ -5,7 +5,7 @@
 }
 </style>
 
-# Pichao Wang, PhD, Amazon AGI
+# Pichao Wang, PhD, Nvidia
 
 <img style="float: right; padding-left:15px; width:150px" src="./images/WangPiChao.jpg" >
 
@@ -80,12 +80,12 @@ Email: pichaowang@gmail.com   [Goolge Scholar](https://scholar.google.com/citati
 ---
 ## Biography
 
-I am a senior applied scientist at Amazon AGI Foundations. Before I joined Amazon, I worked as a staff/senior engineer at DAMO Academy, Alibaba Group (U.S.) for more than 4 years. I received my Ph.D in Computer Science from [University of Wollongong](https://www.uow.edu.au/media/2022/new-high-for-uow-in-qs-world-university-rankings.php), Australia, in Oct. 2017, supervised by Prof. [Wanqing Li](https://sites.google.com/view/wanqingli/home-news) and Prof. [Philip Ogunbona](https://documents.uow.edu.au/~philipo/).  I received  my M.E. in Information and Communication Engineering from [Tianjin University](http://www.tju.edu.cn/english/index.htm), China, in 2013, supervised by Prof. [Yonghong Hou](http://seea.tju.edu.cn/info/1122/2098.htm), and B.E. in Network Engineering from [Nanchang University](http://english.ncu.edu.cn/), China, in 2010.
+I am a principal machine learning engineer at Nvidia. Before I joined Nvidia, I worked as a senior applied scientist at Amazon AGI and Prime Video for more than 3 years. Prior to that, I worked as a staff/senior engineer at DAMO Academy, Alibaba Group (U.S.) for more than 4 years. I received my Ph.D in Computer Science from [University of Wollongong](https://www.uow.edu.au/media/2022/new-high-for-uow-in-qs-world-university-rankings.php), Australia, in Oct. 2017, supervised by Prof. [Wanqing Li](https://sites.google.com/view/wanqingli/home-news) and Prof. [Philip Ogunbona](https://documents.uow.edu.au/~philipo/).  I received  my M.E. in Information and Communication Engineering from [Tianjin University](http://www.tju.edu.cn/english/index.htm), China, in 2013, supervised by Prof. [Yonghong Hou](http://seea.tju.edu.cn/info/1122/2098.htm), and B.E. in Network Engineering from [Nanchang University](http://english.ncu.edu.cn/), China, in 2010.
 
 ---
 ## Research Interests
 
-Computer Vision · Visual Generation · LLM · MLLM · Speech Processing 
+Computer Vision · World Model · Visual Generation · LLM · MLLM · Speech Processing 
 
 ---
 ## Selected Awards and Honors
